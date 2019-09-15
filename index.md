@@ -150,7 +150,7 @@ When it yaps “nobody likes us!” it's trying (however badly) to protect your 
 
 (If the idea of a sub-agent in your mind sounds like New Age woo, please substitute "wolf" with [Kahneman's "System 1"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) or ["paleomammalian cortex"](https://en.wikipedia.org/wiki/Limbic_system) or something that sounds scientifically palatable. Thanks.)
 
-However, maybe you have a hyperactive dog that barks at shadows. It's not its fault, maybe in the past it's been abused or neglected. But the dog genuinely wants to help you! That's its literal evolved function!
+However, maybe you have a hyperactive dog that barks at shadows. It's not the dog's fault, maybe in the past it's been abused or neglected. But the dog genuinely wants to help you! That's its literal evolved function!
 
 Sadly, many people's first response to the loud dog – including mine – was to lash out at it. But you can't beat the meanness out of a dog, or scare the fear out of it. (Note: [this is also true for literal dog-training [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
 
@@ -354,7 +354,7 @@ Good point! Let's refresh the reader's memory with a summary:
 
 # Me & My Wolf
 
-If this was a movie, I should've learnt to befriend my wolf in a profound moment of catharsis, with explosions in the background. That would have made a good story.
+If this was a movie, I should've learnt to befriend my wolf in a shocking moment of catharsis, with explosions in the background. That would have made a good story.
 
 Instead, I only learnt to befriend my wolf *while trying* to make a good story.
 
@@ -381,7 +381,7 @@ This also solved Problem #1: the reason the story felt forced was because I neve
 
 And with that core motivation, *Adventures With Anxiety* basically wrote itself. Not only that, I learnt that why CBT & mindfulness plateaued out for me: because I was still thinking of fear as my enemy.
 
-Until you realize fear is trying to be your guard-dog, you will still fear fear itself.
+Until you realize fear is (trying to be) your guard-dog, you will still fear fear itself.
 
 Alright, I think I'll let my friend have the final say. Wolf?
 
@@ -391,11 +391,11 @@ Fair enough! It's good in science to be skeptical, though I'd like to say: even 
 
 Still, thanks for the constructive criticism, and protecting my need for intellectual honesty!
 
-> 🐺 You're welcome. And, thanks for finally actually trying to understand me... instead of drowning me out with risky behaviors and "Well, Actually"s.
+> 🐺 You're welcome. And, hey, thanks for actually trying to understand me... instead of drowning me out with risky behaviors and "Well, Actually"s.
 
-Anything else you'd like to add?
+Of course! Any final words?
 
-> 🐺 Yes. Just one word.
+> 🐺 Yes. Just one.
 
 Yeah?
 
