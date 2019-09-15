@@ -82,7 +82,7 @@ Thanks, wolf! That's a very good concern you've brought up.
 
 I want to clarify: CBT and mindfulness *does* help people. They helped *me* immensely.
 
-But no technique will fully work if you believe, like I did, that fear is an *enemy* to be "overcome" or "conquered". Or even an annoying thing to "mindfully" put up with. As I was saying earlier: it took me a decade to finally figure it out, but fear is not an enemy.
+But no technique will fully work if you believe that fear is an *enemy* to be "overcome" or "conquered". Or an annoying thing to "mindfully" put up with. As I was saying earlier: it took me a decade to finally figure it out, but fear is not an enemy.
 
 Fear is a *friend.*
 
@@ -121,9 +121,9 @@ Here's my conjecture. It's not original, hundreds have said it before, but it st
 
 **🚨 ALL FEELINGS ARE IMPERFECT SIGNALS ABOUT MET & UNMET NEEDS. 🚨**
 
-This is a [functionalist view of emotions](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). But what do I mean by "signal"?
+This is the [functionalist view of emotions](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). But, what do I mean by "signal"?
 
-Imagine a cafe. When a customer arrives, the bell above the entrance door gives a *ding!* signal.
+Imagine a cafe. When a customer arrives, the bell above the entrance door gives a *ding* signal.
 
 Likewise, when a body/mind need is met – or is about to – we feel a Pleasure signal: joy, anticipation, curiosity, the "Aha!" moment, pride.
 
@@ -248,7 +248,7 @@ Recommended: [F.lux](https://justgetflux.com/). It's an app that changes your sc
 
 ### 🏃‍♀️ Exercise:
 
-Jog. Hike. Play Frisbee. Just half an hour of moderate exercise a day is enough to give great benefits to your physical *and mental* health. [A recent meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) shows that exercise reduces depression, *as much as* than psychotherapy or medication – or *more!*
+Jog. Hike. Play Frisbee. Just half an hour of moderate exercise a day is enough to give great benefits to your physical *and mental* health. [A recent meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) shows that exercise reduces depression *as much as* than psychotherapy or medication!
 
 **Example When→Then plan:** *“After getting home in the evening, I'll go for a 10 minute stroll.”* (Remember: you can always increase duration/intensity of a habit later)
 
