@@ -110,7 +110,7 @@ Harm to what? Your fundamental human needs:
 
 1. **Physical Needs** – survival, health, safety    
    (When threatened: 🐺 “We're in danger!”)
-2. **Social Needs** – friends, family, lovers, tribe-mates    
+2. **Social Needs** – friends, family, lovers    
    (When threatened: 🐺 “Nobody likes us!”)
 3. **"Becoming A Better Person" Needs** – learning, character growth, doing good for others   
    (When threatened: 🐺 “We're a bad person!”)
@@ -364,8 +364,6 @@ But then I realized an obvious solution for Problem #2: *I* shouldn't write the 
 
 Thus began a weird collaboration.
 
-(To clarify: I'm being metaphorical. I do not have split personalities, nor do I recommend improving your mental health by creating split personalities. "Talking to your characters" is apparently [a very common thing authors do](https://psycnet.apa.org/record/2004-16205-004). Really. I swear I'm not nuts.)
-
 Strange side effect: I started *liking* my anxiety. Because now, whenever my anxiety went on a thought-spiral like:
 
 > 🐺 What can we even do that matters in the grand scheme of things? Contribute to humanity? All great works decay like Ozymandias. Love? Death always does it part. And how much death there is! We'll die, our loved ones will die, the 2nd Law of Thermodynamics means even the *universe* will die! LIFE HAS NO MEANING, DEATH HAS NO MEANING, AND EVEN MEANING HAS NO MEANI–
@@ -385,7 +383,7 @@ Until you realize fear is (trying to be) your guard-dog, you will still fear fea
 
 Alright, I think I'll let my friend have the final say. Wolf?
 
-> 🐺 Okay this article *still* reads like you have split personality, despite your too-late-too-soon caveat. Also this article's too long! It's 4000+ words! Or maybe it's not long *enough*, you didn't even cover other therapies like psychodynamic or humanist or logotherapy, let alone the Dodo Bird controversy: [recent meta-analyses show that all the main psychotherapies are *equivalent*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), with CBT maybe *sliiiiightly* better in the short-run! Speaking of which, what about the infamous meta-analysis that shows [psychiatric medication may be up to 75% placebo [pdf]](http://www.academia.edu/download/32556648/KirschandSapirstein1998.pdf)? Heck, what with [the replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), how do we know *anything* in this 4000+ word monster is scientifically accurate?! Also we're writing this on the 15th, and you promised the game to come out on the 17th, so please shut up and stop writing.
+> 🐺 Okay this article is *still* too long. It's 4000+ words! Or maybe it's not long *enough*, you didn't even cover other therapies like psychodynamic or humanist or logotherapy, let alone the Dodo Bird controversy: [recent meta-analyses show that all the main psychotherapies are *equivalent*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), with CBT maybe *sliiiiightly* better in the short-run! Speaking of which, what about the infamous meta-analysis that shows [psychiatric medication may be up to 75% placebo [pdf]](http://www.academia.edu/download/32556648/KirschandSapirstein1998.pdf)? Heck, what with [the replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), how do we know *anything* in this 4000+ word monster is scientifically accurate?! Also we're writing this on the 15th, and you promised the game to come out on the 17th, so please shut up and stop writing.
 
 Fair enough! It's good in science to be skeptical, though I'd like to say: even if all therapies have been proven equivalent, they've been proven equivalently *good*, and much better than lack of therapy (self-help or professional). And even if meds are only 25% better than placebo, being 25% better at saving lives is still a *lot*. Also, science is a process of learning from mistakes, and gratefully, scientists *are* learning from the replication crisis.
 
@@ -407,17 +405,17 @@ Yeah?
 
 More mental health tips from: [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
 
-[Feeling Good](https://www.indiebound.org/book/9780380810338), the classic 1980 book that popularized CBT.
-
-[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), a 1946 book written by a Holocaust survivor & psychotherapist.
-
-[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), a 2-minute animation.
+[Feeling Good](https://www.indiebound.org/book/9780380810338), the classic 1980 book that popularized CBT.    
+[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), a 1946 book written by a Holocaust survivor & psychotherapist.    
+[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), a 2-minute animation.    
 
 ・・・
 
 This essay is the "companion piece" for my interactive story/game, [Adventures With Anxiety](https://ncase.me/anxiety). If you'd like to help me make more free, educational words+games, you can throw coins at me [on Patreon](https://www.patreon.com/ncase)!
 
-Thank you, and whoever you are: Stay determined. Good luck.
+Huge thanks to these folks for gifting feedback on this essay: Glen Chiacchieri, Lexi Lockwell, Spacie. Any problematic words remaining are my own.
+
+Finally, thank *you* for reading! Whoever you are: Stay determined. Good luck.
 
 <3,    
 ~ Nicky Case
