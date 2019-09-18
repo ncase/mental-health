@@ -7,9 +7,9 @@ For all other countries, [see Wikipedia's list](https://en.wikipedia.org/wiki/Li
 
 For mental health advice from official sources, rather than a random internet person like me, check out these lists from the [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/).
 
----
+<div style="text-align:center">・・・</div>
 
-*This article is a mix of personal story, the science of mental health, and practical tips. It's a 20-minute read in full, but you can just skip to the practical tips:*
+*This article is a mix of personal story, the science of mental health, and practical tips. It's a 22-minute read in full, but you can just skip to the practical tips:*
 
 1. **[An Old Friend](#toc_0)** (story)
 2. **[Therapies I Tried](#toc_1)** (story + theory)
@@ -131,7 +131,7 @@ Imagine a cafe's smoke alarm. When something in the kitchen is burning, it gives
 
 Likewise, when a body/mind need is *not* being met – or is being threatened – we feel a Pain signal: fear, loneliness, frustration, guilt, grief.
 
-But wait, isn't this just the same as "your feelings are always valid"? No, because *all signals can have false alarms*. Thus, negative feelings aren't *always* valid, but they aren't *always* irrational either. They're clues – not to be taken as 100% literal truth, but not to be thrown out entirely either.
+But wait, isn't this just the same as "your feelings are always valid"? No, because *all signals can have false alarms*. Thus, negative feelings aren't *always* valid, but they aren't *always* irrational either. They're clues – not to be taken as 100% literal truth, but not to be thrown out entirely either. (Have an over-sensitive alarm? We'll see how to "re-calibrate" your signals with Habits, in the next section)
 
 All my life, I thought mentally healthy people were just better at "coping" with "negative" emotions. *The very vocabulary of this idea is wrong.* **The mentally healthy don't "cope" with emotions, they collaborate *with* them. They know how to listen to, act on, and re-calibrate the signals.**
 
@@ -139,6 +139,8 @@ When the smoke alarm goes off:
 
 * A healthy person knows to turn off the stove, open a window, and put baking soda over the grease fire. If the alarm's too sensitive, they'll move it somewhere further.
 * An anxious person throws water over the grease fire and makes it worse. Or plugs their ears to not hear the alarm. Or smashes the alarm with a hammer. Or tries to rationally argue with the alarm about its distortions. Or decides to "mindfully" ignore it.
+
+Once I understood feelings = alarms & signals, I realized a lot of what I thought were emotions' bugs were actually features! "Negative" emotions turn on by themselves and you can't turn them off at will – *this is a good feature for an automatic smoke detector.* "Positive" emotions never last, they always re-adjust themselves to your new normal – *this is a good feature for smart thermostats.*
 
 A good life is not about minimizing Pain and maximizing Pleasure. That's like a cafe whose goal to minimize alarms & maximize entrance-bell-ringing. Feelings are *NOT* the ends, they are the *means* to the ends: a fulfilling life.
 
@@ -148,13 +150,15 @@ So that's why I claim "fear is not an enemy, it's a friend." But what kind of fr
 
 When it yaps “nobody likes us!” it's trying (however badly) to protect your need for belonging. When it yaps “we're bad people!” it's trying (very poorly) to protect your need for personal growth.
 
-(If the idea of a sub-agent in your mind sounds like New Age woo, please substitute "wolf" with [Kahneman's "System 1"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) or ["paleomammalian cortex"](https://en.wikipedia.org/wiki/Limbic_system) or something that sounds scientifically palatable. Thanks.)
+(The idea of a sub-agent in your mind isn't as wacky as it sounds – this thought's popped up independently in several fields: ["System 1 and System 2"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) in behavioral economics, ["The Elephant & The Rider"](https://en.wikipedia.org/wiki/The_Righteous_Mind) in social psychology, ["The Society of Mind"](https://en.wikipedia.org/wiki/Society_of_Mind) in cognitive science, etc)
 
-However, maybe you have a hyperactive dog that barks at shadows. It's not the dog's fault, maybe in the past it's been abused or neglected. But the dog genuinely wants to help you! That's its literal evolved function!
+However, maybe you have a hyperactive dog that barks at shadows. It's not the dog's fault. Maybe in the past, it's been abused or neglected. But the dog genuinely wants to help you! That's its literal evolved function!
+
+It yaps because it's a battered shelter dog, and it needs you to help it heal.
 
 Sadly, many people's first response to the loud dog – including mine – was to lash out at it. But you can't beat the meanness out of a dog, or scare the fear out of it. (Note: [this is also true for literal dog-training [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
 
-So... how *do* you train your guard dog?
+So... how *do* you train your dog?
 
 ---
 
@@ -194,7 +198,7 @@ Hang on, my guard dog wants to say something:
 
 > 🐺 We just spent 1800+ words and we haven't *actually* given the reader any practical mental health tips! We're wasting their time!
 
-Thanks, good concern! I'll add a link at the top to let readers skip to the Mental Health Habits sections. Speaking of which:
+That's a good concern! I'll add a link at the top to let readers skip to the Mental Health Habits sections. Speaking of which:
 
 ---
 
@@ -218,17 +222,21 @@ Recommended: [this 2-minute animated intro to meditation](https://www.youtube.co
 
 ### 📓 Journaling:
 
-Another cliché, but writing about your emotions has been shown to moderately [improve psychological *and physical* health [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.518.1710&rep=rep1&type=pdf).
+Another cliché, but writing about your emotions has been shown to moderately [improve psychological *and physical* health [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.518.1710&rep=rep1&type=pdf). Though, you have to write about your emotions *and try to understand them*. Expressing emotions without cognitive sense-making [seems to not help [pdf]](https://www.researchgate.net/profile/Philip_Ullrich/publication/11212874_Journaling_about_stressful_events_Effects_of_cognitive_processing_and_emotional_expression/links/0fcfd5090027dd0d0a000000.pdf).
 
-Important note: You have to write about your emotions *and try to understand them*. Expressing emotions without cognitive sense-making [seems to not help [pdf]](https://www.researchgate.net/profile/Philip_Ullrich/publication/11212874_Journaling_about_stressful_events_Effects_of_cognitive_processing_and_emotional_expression/links/0fcfd5090027dd0d0a000000.pdf).
+Not sure how to begin journaling to understand your emotions? Here's a simple template:
 
-(As much as I criticized "challenging your thoughts" earlier, *this* is where CBT shines. Knowing common "cognitive distortions" and how to fix them *does* help you make sense of the Pain signals. Just don't approach it like Debate Club, where the point of the game is to "win" by "Well, Actually"-ing your fear. The goal should be to help your fear *be a better helper*. Help it help you.)
+*"Today when [event], I felt [feeling] because it seemed to fulfill/challenge my need for [need]. Next time, I'll try [experiments around that need]."*
+
+Example: *"Today when my friends all chatted without me, I felt insecure because it seemed to challenge my need for belonging. Next time, I'll try to fulfill my need for belonging either by speaking up more, or practicing being comfortable listening to my pals, actively and wholly, without needing to pipe up to prove my existence."*
+
+(As much as I criticized "challenging your thoughts" earlier, *this* is where CBT shines. Knowing [common cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and how to reframe them *does* help you make sense of the Pain signals. Just don't approach it like Debate Club, where the point of the game is to "win" by Well, Actually-ing your fear. The goal should be to help your fear *be a better helper*. Help it help you.)
 
 **Example When→Then plan:** *“Before going to sleep, I will write/draw about my feelings for 10 minutes.”*
 
 ・・・
 
-Remember, fear is a guard dog for your needs. So if you'd like to help reassure your inner wolf, *you* can take care of your own needs, too:
+Remember, fear is a guard dog for your needs. If you hear it barking "we're in danger!" but with no *specific* cause, it's likely your *general* physical needs are not being fully met. To reassure your inner dog, *you* can take care of those needs:
 
 ## Habits to protect your physical needs:
 
@@ -262,7 +270,7 @@ There's a zillion diets out there, but most of them aren't based on science... a
 
 ・・・
 
-Our physical needs are essential, but we're not just animals, we're *social* animals. Thus:
+Our physical needs are essential, but we're not just animals, we're *social* animals. So, if your guard dog barks "nobody likes us!" you can reassure it with these habits:
 
 ## Habits to protect your social needs:
 
@@ -290,7 +298,7 @@ Option 2: Join a class or volunteer group or bowling league on [Meetup.com](http
 
 ・・・
 
-Our physical and social needs are essential, but we're not just social animals, we're *persons*. Hence:
+Finally – our physical and social needs are essential, but we're not just social animals, we're *persons*. So, if your dog barks "we're terrible, evil, broken!", you can reassure it with these habits:
 
 ## Habits to protect your "becoming a better person" needs:
 
@@ -339,8 +347,9 @@ Good point! Let's refresh the reader's memory with a summary:
 
 # TL;DR
 
-* Do not fear fear itself.
-* Pain is a protector. Fear is a guard dog for your needs.
+* **Do not fear fear itself.**
+* Pain is a protector. 
+* Fear is a guard dog for your needs.
 * **All feelings are imperfect signals about met/unmet needs.**
 * Our fundamental human needs are: physical needs, social needs, "becoming a better person" needs.
 * **Healthy people don't "cope" with emotions, they *collaborate* with them. They use "negative" emotions as clues, constructive criticism to improve their lives.**
@@ -381,6 +390,8 @@ And with that core motivation, *Adventures With Anxiety* basically wrote itself.
 
 Until you realize fear is (trying to be) your guard-dog, you will still fear fear itself.
 
+And the more my battered shelter dog and I collaborated on the game, the more we collaborated in the rest of our life. I'd hear it bark "they hate us!", I'd see the Pain signal below the mere words, and we'd try an experiment to fulfill the unmet need. Together. As a team.
+
 Alright, I think I'll let my friend have the final say. Wolf?
 
 > 🐺 Okay this article is *still* too long. It's 4000+ words! Or maybe it's not long *enough*, you didn't even cover other therapies like psychodynamic or humanist or logotherapy, let alone the Dodo Bird controversy: [recent meta-analyses show that all the main psychotherapies are *equivalent*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), with CBT maybe *sliiiiightly* better in the short-run! Speaking of which, what about the infamous meta-analysis that shows [psychiatric medication may be up to 75% placebo [pdf]](http://www.academia.edu/download/32556648/KirschandSapirstein1998.pdf)? Heck, what with [the replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), how do we know *anything* in this 4000+ word monster is scientifically accurate?! Also we're writing this on the 15th, and you promised the game to come out on the 17th, so please shut up and stop writing.
@@ -389,7 +400,7 @@ Fair enough! It's good in science to be skeptical, though I'd like to say: even 
 
 Still, thanks for the constructive criticism, and protecting my need for intellectual honesty!
 
-> 🐺 You're welcome. And, hey, thanks for actually trying to understand me... instead of drowning me out with risky behaviors and "Well, Actually"s.
+> 🐺 You're welcome. And, hey, thanks for finally being patient and understanding with me... instead of drowning me out with risky behaviors and "Well, Actually"s.
 
 Of course! Any final words?
 
