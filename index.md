@@ -16,9 +16,9 @@ For mental health advice from official sources, rather than a random internet pe
 3. **[The Purpose of Pain, the Function of Feelings](#toc_2)** (theory)
 4. **[Habits 101](#toc_3)** (theory + practical)
 5. **[9 Evidence-Based Mental Health Habits](#toc_4)** (💥**the actually useful part**💥)
-6. **[TL;DR](#toc_5)** (summary of everything above)
-7. **[Me & My Wolf](#toc_6)** (story)
-8. **[Extra Resources](#toc_7)** (practical)
+6. **[TL;DR](#toc_18)** (summary of everything above)
+7. **[Me & My Wolf](#toc_19)** (story)
+8. **[Extra Resources](#toc_20)** (practical)
 
 ---
 
