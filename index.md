@@ -424,6 +424,8 @@ More mental health tips from: [Mental Health Foundation](https://www.mentalhealt
 
 This essay is the "companion piece" for my interactive story/game, [Adventures With Anxiety](https://ncase.me/anxiety). If you'd like to help me make more free, educational words+games, you can throw coins at me [on Patreon](https://www.patreon.com/ncase)!
 
+There's no translations of this essay yet. If you'd like to help, check out [the Github page!](https://github.com/ncase/mental-health#how-to-translate)
+
 Huge thanks to these folks for gifting feedback on this essay: Glen Chiacchieri, Lexi Lockwell, Spacie. Any problematic words remaining are my own.
 
 Finally, thank *you* for reading! Whoever you are: Stay determined. Good luck.
