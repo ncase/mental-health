@@ -58,7 +58,7 @@ Es hat mich jedoch dazu inspiriert, *endlich* eine Psychotherapie auszuprobieren
 
 Kognitive Verhaltenstherapie (CBT) hat mir sehr geholfen, aber ich habe schnell ein Plateau erreicht. Mein Problem war, dass ich CBT als *Waffe* gegen meine Angst benutzte. Ich betrachtete die Angst immer noch als meinen *Feind*.
 
-Als nächstes versuchte ich eine auf [Achtsamkeit] (https://en.wikipedia.org/wiki/Mindfulness) basierende Therapie - namentlich die [Akzeptanz- und Commitmenttherapie] (https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) - welche empfiehlt, *nicht* deine Gedanken zu bekämpfen, sondern deine Gefühle einfach vorbeiziehen zu lassen. ( Eine Metapher die mir gesagt wurde: Angst ist wie Treibsand - je mehr man sich wehrt, desto schneller sinkt man. Deshalb: nicht kämpfen.)
+Als nächstes versuchte ich eine auf [Achtsamkeit](https://en.wikipedia.org/wiki/Mindfulness) basierende Therapie - namentlich die [Akzeptanz- und Commitmenttherapie](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) - welche empfiehlt, *nicht* deine Gedanken zu bekämpfen, sondern deine Gefühle einfach vorbeiziehen zu lassen. ( Eine Metapher die mir gesagt wurde: Angst ist wie Treibsand - je mehr man sich wehrt, desto schneller sinkt man. Deshalb: nicht kämpfen.)
 
 Wieder benutzte ich Achtsamkeit als einen weiteren Weg, um meine Angst zu *ignorieren*. Die Angst war *immer noch* mein Feind.
 
@@ -77,3 +77,42 @@ Aber keine Technik wird vollständig funktionieren, wenn man glaubt, dass Angst 
 Angst ist ein *Freund.*
 
 ---
+
+# Der Zweck des Schmerzes, die Funktion der Gefühle
+
+"Angst ist ein Freund"?!! Das klingt für jemanden mit fast täglichen Panikattacken dumm - sogar *moralisch beleidigend*. Warum also sage ausgerechnet *ich* so etwas, als jemand, der diese Schmerzen kennt?
+
+Um das zu verstehen, stelle dir einfach vor, du legst deine Hand auf eine heiße Herdplatte.
+
+🔥👋😰
+
+Ganz klar: Das würde wehtun.
+
+Weniger offensichtlich: Es ist eine *gute Sache*, dass es wehtut.
+
+Schmerz ist ein Alarmsystem. Es sagt dir, wenn die Dinge schlecht sind, *was gut ist.*
+
+(FUN FACT: Es gibt eine seltene Krankheit namens [angeborene Unempfindlichkeit gegenüber Schmerzen](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), bei der Menschen keine Schmerzen spüren können. Infolgedessen haben Erwachsene mit der Erkrankung viele Wunden, Verbrennungen und Knochenbrüche. Das sind die, die noch Glück hatten - die anderen sind tot.)
+
+Allerdings willst du auch, dass eine Alarmanlage ausgelöst wird, *bevor* der Schaden entsteht. Dieses Alarmsystem wird als "Angst" bezeichnet. Es ist ein Alarm, der *zukünftige* Schäden voraussagt - und versucht, Sie davor zu schützen.
+
+Schaden an was? An deinen grundlegenden menschlichen Bedürfnissen:
+
+1. **Physikalische Bedürfnisse** - Überleben, Gesundheit, Sicherheit
+   (Bei Bedrohung: 🐺 "Wir sind in Gefahr!")
+2. **Soziale Bedürfnisse** - Freunde, Familie, Geliebte
+   (Bei Bedrohung: 🐺 "Niemand mag uns!")
+3. **"Eine bessere Person werden" Bedürfnisse** - Lernen, Charakterwachstum, Gutes für andere tun   
+   (Bei Bedrohung: 🐺 "Wir sind ein schlechter Mensch!")
+
+(Diese Liste der Bedürfnisse ist <span style="text-decoration:line-through">etwas, das ich mir aus meinem Hintern gezogen habe</span> eine komprimierte Version von [Maslows Hierarchie](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Selbstbestimmungstheorie[pdf]]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
+
+Hier ist meine Vermutung. Es ist nichts Originelles, hunderte haben so etwas schon einmal gesagt, aber es hat immer noch ewig gedauert, bis ich gelernt habe:
+
+**🚨 ALLE GEFÜHLE SIND UNVOLLKOMMENE SIGNALE ÜBER ERFÜLLTE UND UNERFÜLLTE BEDÜRFNISSE. 🚨**
+
+Dies ist die [funktionalistische Sicht der Emotionen](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). Aber was meine ich mit "Signal"?
+
+Stell dir ein Café vor. Wenn ein Kunde kommt, gibt die Glocke über der Eingangstür ein *ding* Signal von sich.
+
+Gleichermaßen fühlen wir ein Signal der Freude, wenn ein Bedürfnis von Körper/Geist befriedigt wird - oder wir kurz davor stehen: Freude, Erwartung, Neugierde, der "Aha!"-Moment, Stolz.
