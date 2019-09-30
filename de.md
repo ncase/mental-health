@@ -55,3 +55,25 @@ Wenn das hier ein Film wäre, dann wäre dies der Punkt gewesen, an dem ich den 
 Aber nein. Ich habe nichts gelernt.
 
 Es hat mich jedoch dazu inspiriert, *endlich* eine Psychotherapie auszuprobieren. Ich habe zuerst [Kognitive Verhaltenstherapie](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT) ausprobiert, von der [Meta-Analysen gezeigt haben](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829), dass sie genauso gut oder sogar besser ist als Medikamente gegen Depressionen und Angstzustände. Die Therapie empfiehlt "Seine Gedanken herauszufordern", in dem man all die irrationalen "kognitiven Verzerrungen " in den Ängsten hervorhebst. (🤓 "Hmm, *eigentlich*....")
+
+Kognitive Verhaltenstherapie (CBT) hat mir sehr geholfen, aber ich habe schnell ein Plateau erreicht. Mein Problem war, dass ich CBT als *Waffe* gegen meine Angst benutzte. Ich betrachtete die Angst immer noch als meinen *Feind*.
+
+Als nächstes versuchte ich eine auf [Achtsamkeit] (https://en.wikipedia.org/wiki/Mindfulness) basierende Therapie - namentlich die [Akzeptanz- und Commitmenttherapie] (https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) - welche empfiehlt, *nicht* deine Gedanken zu bekämpfen, sondern deine Gefühle einfach vorbeiziehen zu lassen. ( Eine Metapher die mir gesagt wurde: Angst ist wie Treibsand - je mehr man sich wehrt, desto schneller sinkt man. Deshalb: nicht kämpfen.)
+
+Wieder benutzte ich Achtsamkeit als einen weiteren Weg, um meine Angst zu *ignorieren*. Die Angst war *immer noch* mein Feind.
+
+Ich brauchte ein *Jahrzehnt*, um es endlich herauszufinden, aber Angst ist --
+
+Warte, mein Wolf will etwas sagen:
+
+> 🐺 Nicky, CBT und Achtsamkeit haben *Millionen* von Menschen geholfen und werden durch *Hunderte* von Studien unterstützt. Wer sind *wir*, dass wir auf all das scheißen, was *Menschenleben* retten kann?!*
+
+Danke, Wolf! Das ist ein sehr gutes Anliegen, das du angesprochen hast.
+
+Ich möchte klarstellen: CBT und Achtsamkeit *helfen* den Menschen. Sie haben *mir* sehr geholfen.
+
+Aber keine Technik wird vollständig funktionieren, wenn man glaubt, dass Angst ein *Feind* ist, der "überwunden" oder "besiegt" werden muss. Oder eine lästige Sache, die man sich "bewusst" gefallen lässt. Wie ich bereits sagte: Ich habe ein Jahrzehnt gebraucht, um es endlich herauszufinden, aber Angst ist kein Feind.
+
+Angst ist ein *Freund.*
+
+---
