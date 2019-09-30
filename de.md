@@ -102,7 +102,7 @@ Schaden an was? An deinen grundlegenden menschlichen Bedürfnissen:
    (Bei Bedrohung: 🐺 "Wir sind in Gefahr!")
 2. **Soziale Bedürfnisse** - Freunde, Familie, Geliebte
    (Bei Bedrohung: 🐺 "Niemand mag uns!")
-3. **"Eine bessere Person werden" Bedürfnisse** - Lernen, Charakterwachstum, Gutes für andere tun   
+3. **"Eine bessere Person werden" Bedürfnisse** - Lernen, Charakterwachstum, Gutes für andere tun
    (Bei Bedrohung: 🐺 "Wir sind ein schlechter Mensch!")
 
 (Diese Liste der Bedürfnisse ist <span style="text-decoration:line-through">etwas, das ich mir aus meinem Hintern gezogen habe</span> eine komprimierte Version von [Maslows Hierarchie](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Selbstbestimmungstheorie[pdf]]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
@@ -116,3 +116,38 @@ Dies ist die [funktionalistische Sicht der Emotionen](https://en.wikipedia.org/w
 Stell dir ein Café vor. Wenn ein Kunde kommt, gibt die Glocke über der Eingangstür ein *ding* Signal von sich.
 
 Gleichermaßen fühlen wir ein Signal der Freude, wenn ein Bedürfnis von Körper/Geist befriedigt wird - oder wir kurz davor stehen: Freude, Erwartung, Neugierde, der "Aha!"-Moment, Stolz.
+
+Stelle dir nun den Rauchmelder eines Cafés vor. Wenn etwas in der Küche brennt, meldet er sich mit einem *BEEP BEEP BEEP*-Signal.
+
+Gleichermaßen fühlen wir, wenn ein Bedürfnis des Körpers/Geistes nicht erfüllt wird - oder gar bedroht wird - ein Schmerzsignal: Angst, Einsamkeit, Frustration, Schuld, Trauer.
+
+Aber warte, ist das nicht das Gleiche wie "Deine Gefühle sind immer berechtigt"? Nein, denn *alle Signale können Fehlalarme sein*. Negative Gefühle sind also nicht *immer* valide, aber sie sind auch nicht *immer* irrational. Es sind Anhaltspunkte - man sollte sie nicht als hundertprozentige absolute Wahrheit betrachten, aber man soll sie auch nicht ganz verwerfen. (Hast du einen überempfindlichen Alarm? In dem nächsten Kapitel werden wir sehen, wie du deine Signale mit Gewohnheiten "neu kalibrieren" kannst).
+
+Mein ganzes Leben lang dachte ich, dass geistig gesunde Menschen einfach besser darin sind, mit "negativen" Emotionen "umzugehen". *Das bloße Vokabular dieser Idee ist schon falsch.* **Die geistig Gesunden "bewältigen" keine Emotionen, sie arbeiten *mit* ihnen zusammen. Sie wissen, wie man auf die Signale hört, darauf reagiert und sie neu kalibriert.**
+
+Wenn der Rauchmelder losgeht:
+
+* Eine gesunde Person weiß, wie man den Herd ausschaltet, ein Fenster öffnet und Backpulver über das Fettfeuer schüttet. Ist der Alarm zu empfindlich, wird er irgendwo weiter weg platziert.
+* Eine ängstliche Person wirft Wasser über das Fettfeuer und macht es noch schlimmer. Oder hält sich die Ohren zu, um den Alarm nicht zu hören. Oder zerschmettert den Alarm mit einem Hammer. Oder versucht, rational mit dem Alarm über seine Verzerrungen zu argumentieren. Oder beschließt, ihn "bewusst" zu ignorieren.
+
+Nachdem ich verstanden hatte: Gefühle = Alarme & Signale, wurde mir klar, dass viele Dinge, die ich für Fehler der Emotionen gehalten habe, eigentlich nützliche Funktionen sind!  "Negative" Emotionen schalten sich von selbst ein und man kann sie nicht nach Belieben ausschalten - *das ist eine gute Funktion für einen automatischen Rauchmelder.* "Positive" Emotionen sind nicht von Dauer, sondern stellen sich immer wieder auf den neuen Normalzustand ein - *Das ist eine gute Funktion für intelligente Thermostate.*
+
+In einem guten Leben geht es nicht darum, Schmerzen zu minimieren und das Vergnügen zu maximieren. Das ist wie ein Café, dessen Ziel es ist, den Alarm zu minimieren und das Klingeln am Eingang zu maximieren. Gefühle sind *NICHT* die Ziele, sie sind die *Mittel* zu den Zielen: ein erfülltes Leben.
+
+Aus diesem Grund behaupte ich: "Angst ist kein Feind, sie ist ein Freund." Doch was für eine Art von Freund ist Angst? Die "Bester Freund der Menschheit"-Art. In einem Satz:
+
+**🐺 ANGST IST EIN WACHHUND FÜR DEINE BEDÜRFNISSE. 🐺**
+
+Wenn er "niemand mag uns" kläfft, versucht er (wie schlecht auch immer), dein Bedürfnis nach Zugehörigkeit zu schützen. Wenn er "wir sind schlechte Menschen" kläfft, versucht er (sehr schlecht), Ihr Bedürfnis nach persönlichem Wachstum zu beschützen.
+
+(Die Idee eines Subagenten in deinem Kopf ist nicht so verrückt, wie es klingt - dieser Gedanke taucht unabhängig voneinander in mehreren Bereichen auf: ["System 1 und System 2"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) in der Verhaltensökonomie, ["Der Elefant & Der Reiter"](https://en.wikipedia.org/wiki/The_Righteous_Mind) in der Sozialpsychologie, ["Die Gesellschaft des Geistes"](https://en.wikipedia.org/wiki/Society_of_Mind) in der Erkenntnisforschung, etc.)
+
+Vielleicht hast du jedoch einen hyperaktiven Hund, der den Schatten anbellt. Das ist nicht die Schuld des Hundes. Vielleicht wurde er in der Vergangenheit missbraucht oder vernachlässigt. Aber der Hund will dir wirklich helfen! Das ist seine eigentliche evolutionäre Funktion!
+
+Er kläfft, weil er ein übel zugerichteter Schutzhund ist, und er braucht deine Hilfe zur Genesung.
+
+Leider war die erste Reaktion vieler Menschen auf den lauten Hund - einschließlich meiner -, ihn zu schlagen. Aber du kannst die Bosheit eines Hundes nicht aus ihm prügeln oder die Angst aus ihm herausschrecken. (Hinweis: [Dies gilt auch für die tatsächliche Hundeausbildung[pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
+
+Also.... wie *trainiert* man seinen Hund?
+
+---
