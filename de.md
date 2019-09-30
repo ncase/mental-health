@@ -5,7 +5,7 @@
 2. **[Therapien, die ich ausprobiert habe](#toc_1)** (Geschichte + Theorie)
 3. **[Der Zweck des Schmerzes, die Funktion der Gefühle](#toc_2)** (Theorie)
 4. **[Das Einmaleins der Gewohnheiten](#toc_3)** (Theorie + Praxis)
-5. **[9 Evidenz-basierte Gewohnheiten für die psychische Gesundheit](#toc_4)** (💥**der tatsächlich nützliche Teil**💥)
+5. **[9 Evidenzbasierte Gewohnheiten für die psychische Gesundheit](#toc_4)** (💥**der tatsächlich nützliche Teil**💥)
 6. **[Kurz und Knapp](#toc_18)** (Zusammenfassung von allem oben)
 7. **[Ich & Mein Wolf](#toc_19)** (Geschichte)
 8. **[Zusätzliche Ressourcen](#toc_20)** (praktisch)
@@ -54,7 +54,7 @@ Wenn das hier ein Film wäre, dann wäre dies der Punkt gewesen, an dem ich den 
 
 Aber nein. Ich habe nichts gelernt.
 
-Es hat mich jedoch dazu inspiriert, *endlich* eine Psychotherapie auszuprobieren. Ich habe zuerst [Kognitive Verhaltenstherapie](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT) ausprobiert, von der [Meta-Analysen gezeigt haben](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829), dass sie genauso gut oder sogar besser ist als Medikamente gegen Depressionen und Angstzustände. Die Therapie empfiehlt "Seine Gedanken herauszufordern", in dem man all die irrationalen "kognitiven Verzerrungen " in den Ängsten hervorhebst. (🤓 "Hmm, *eigentlich*....")
+Es hat mich jedoch dazu inspiriert, *endlich* eine Psychotherapie auszuprobieren. Ich habe zuerst [Kognitive Verhaltenstherapie](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT) ausprobiert, von der [Meta-Analysen gezeigt haben](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829), dass sie genauso gut oder sogar besser ist als Medikamente gegen Depressionen und Angstzustände. Die Therapie empfiehlt "Seine Gedanken herauszufordern", in dem man all die irrationalen "kognitiven Verzerrungen" in den Ängsten hervorhebst. (🤓 "Nun, *eigentlich*....")
 
 Kognitive Verhaltenstherapie (CBT) hat mir sehr geholfen, aber ich habe schnell ein Plateau erreicht. Mein Problem war, dass ich CBT als *Waffe* gegen meine Angst benutzte. Ich betrachtete die Angst immer noch als meinen *Feind*.
 
@@ -151,3 +151,77 @@ Leider war die erste Reaktion vieler Menschen auf den lauten Hund - einschließl
 Also.... wie *trainiert* man seinen Hund?
 
 ---
+
+# Das Einmaleins der Gewohnheiten
+
+Um einen Hund zu trainieren, sei zunächst einmal gesagt: Schlage den Hund nicht. Fürchte nicht die Angst selbst.
+
+Also, was dann, soll man so einen dieser Klicker kaufen und den eigenen Geist mit operanter Konditionierung trainieren?
+
+Nun.... ja! Okay, Hundeklicker sind optional. Aber wir haben ein Wort dafür, wenn sich Menschen selbst operant konditionieren:
+
+**Gewohnheiten.**
+
+Hier ist eine kurze Zusammenfassung der wissenschaftlichen Erkenntnisse zur Entwicklung von Gewohnheiten, [paraphrasiert aus dem British Journal of General Practice[pdf]](https://bjgp.org/content/bjgp/62/605/664.full.pdf):
+
+1. **Gewohnheit = Wenn X, dann Y.**
+   X ist der "Auslöser", Y ist die "Routine". Beispiel: "Wenn ich aus der Dusche steige, dann werde ich mir die Zähne mit Zahnseide reinigen."
+
+2. **Um eine Gewohnheit aufzubauen, solltest du ein einheitliches Wenn haben.**
+   Beispiel: Wenn du versuchst, dich gesünder zu ernähren, sag nicht einfach "Ich werde mehr Obst essen". Nimm dir eine *bestimmte Zeit und/oder einen bestimmten Ort* vor, z. B. "nach dem Mittagessen zu Hause werde ich ein Stück Obst essen". (In der Psychologie auch bekannt als [Implementierungsabsicht. [pdf]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf))
+
+3. **Um eine Gewohnheit aufzubauen, habe ein einfaches Dann.**
+   Beispiel: Wenn du neu in der Meditation bist, beginne *nicht* mit "Meditiere 30 Minuten pro Tag". Beginne mit "Meditiere 2 Minuten am Tag". Sobald 2 Minuten zur Gewohnheit werden, *dann* kannst du sie erhöhen.
+
+4. **Um eine Gewohnheit zu brechen, ändere das Wann oder Dann:**.
+   Beispiel: Um mich davon abzuhalten, Dinge aufzuschieben, benutze ich Apps, um verlockende Websites zu blockieren. (Odysseus hat sich selbst am Mast festgebunden, um den Gesang der Sirenen zu widerstehen)
+
+5. **Verfolge deinen Fortschritt.**
+    Ich persönlich: An jedem Tag, an dem ich erfolgreich meinen Wenn→Dann Plan durchführe, zeichne ich einen ⭕ in meinen Kalender. Wenn ich es nicht schaffe, dann male ich ein ❌.
+
+6. **Versuche NICHT, mehr als eine Gewohnheit auf einmal aufzubauen.**
+
+7. **Es dauert durchschnittlich 66 Tage, bis eine Gewohnheit sich automatisiert.**
+   Seien Sie geduldig! Gehirntraining braucht Zeit, aber es lohnt sich.
+
+Moment, mein Wachhund will etwas sagen:
+
+> 🐺 Wir haben gerade 1800+ Wörter überschritten und haben dem Leser noch keine *tatsächlichen* Tipps zur psychischen Gesundheit gegeben! Wir verschwenden nur Zeit.
+
+Das ist eine berechtigte Sorge! Ich werde oben einen Link hinzufügen, damit die Leser zu den Abschnitten über Gewohnheiten für die psychische Gesundheit springen können. Wo wir gerade davon sprechen:
+
+---
+
+# 9 Evidenzbasierte Gewohnheiten für die psychische Gesundheit
+
+Diese Liste soll dir dabei helfen, schon *heute* mit der Verbesserung deiner psychischen Gesundheit zu beginnen. Neun klingt überwältigend, also wähle einfach *eine* Gewohnheit aus der Liste unten, mache einen kleinen, einfachen Wenn→Dann Plan und verfolge deinen Fortschritt für 66 Tage oder bis er automatisch wird. Dann komm zurück, wähle eine andere Gewohnheit und wiederhole das Ganze.
+
+## Gewohnheiten, um deinen Wolf besser kennenzulernen.
+
+#### 😌 Meditation:
+
+Ja, es ist an diesem Punkt ein Klischee, aber Meditation hat sich in Meta-Analysen zur [Verbesserung von Ängsten und Depressionen bewährt](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754).
+
+Es gibt jedoch ein Klischee über Meditation, das es wert ist, aufgelöst zu werden: Das Ziel ist *NICHT* "den Geist zu reinigen". Klassischer Anfängerfehler! Das Ziel ist es, deinen Geist zu *beobachten*, wie ein Wissenschaftler: unvoreingenommen. Wenn der Wolf anfängt zu heulen - und das wird er auch -, fürchte nicht die Angst. Hör einfach zu. Beobachte.
+
+Obwohl ich vorhin "Achtsamkeit" (oder meine Fehlinterpretation davon) kritisiert habe, ist Meditation eigentlich *zweifellos* sehr hilfreich für mein Leben.
+
+**Beispiel Wenn→Dann Plan:** *"Nach dem Zähneputzen am Morgen gehe ich ins Wohnzimmer und stelle einen Timer ein, um für 2 Minuten zu meditieren."*
+
+Empfehlenswert: [diese 2-minütige animierte Einführung in die Meditation](https://www.youtube.com/watch?v=rqoxYKtEWEc).
+
+#### 📓 Journaling:
+
+Noch ein Klischee, aber es wurde nachgewiesen, dass das Schreiben über deine Emotionen [die psychische *und physische* Gesundheit moderat verbessert [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.518.1710&rep=rep1&type=pdf). Allerdings musst du über deine Emotionen schreiben *und versuchen, sie zu verstehen*. Emotionen auszudrücken, ohne kognitive Bewusstseinsbildung [scheint nicht zu helfen [pdf]](https://www.researchgate.net/profile/Philip_Ullrich/publication/11212874_Journaling_about_stressful_events_Effects_of_cognitive_processing_and_emotional_expression/links/0fcfd5090027dd0d0a000000.pdf).
+
+Bist du dir nicht sicher, wie du anfangen sollst, deine Emotionen in einem Tagebuch festzuhalten und zu verstehen? Hier ist eine einfache Vorlage:
+
+*"Heute, als [Ereignis], fühlte ich mich [Gefühl], weil es mein Bedürfnis nach [Bedürfnis] zu erfüllen/herauszufordern schien. Nächstes Mal versuche ich [Experimente um dieses Bedürfnis herum]."*
+
+Beispiel: *"Heute, als sich meine Freunde alle ohne mich unterhalten haben, fühlte ich mich unsicher, weil es mein Bedürfnis nach Zugehörigkeit herauszufordern schien. Nächstes Mal werde ich versuchen, mein Bedürfnis nach Zugehörigkeit zu erfüllen, indem ich entweder mehr zu ihnen spreche oder übe, meinen Freunden aktiv und vollständig zuzuhören, ohne dabei den Mund aufmachen zu müssen, um meine Existenz zu beweisen."*
+
+(So sehr ich vorhin auch das "Seine Gedanken herauszufordern" auch kritisiert habe, *das* ist es, worin die CBT glänzt. Das Wissen über [gängige kognitive Verzerrungen](https://en.wikipedia.org/wiki/Cognitive_distortion) und wie man sie neu gestaltet, hilft dir, den Sinn der Schmerzsignale zu verstehen. Geh nur nicht wie im Debattierclub vor, als würde es nur darum gehen deine Ängste mit *Nun, eigentlich...* zu hinterfragen, um zu "gewinnen". Das Ziel sollte es sein, deiner Angst zu helfen, dir *ein besserer Helfer zu sein*. Hilf ihr dabei, dir zu helfen.)
+
+**Beispiel Wenn→Dann Plan:** *"Bevor ich schlafen gehe, werde ich 10 Minuten lang über meine Gefühle schreiben/zeichnen."*
+
+・・・
