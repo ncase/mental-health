@@ -225,3 +225,55 @@ Beispiel: *"Heute, als sich meine Freunde alle ohne mich unterhalten haben, füh
 **Beispiel Wenn→Dann Plan:** *"Bevor ich schlafen gehe, werde ich 10 Minuten lang über meine Gefühle schreiben/zeichnen."*
 
 ・・・
+
+Denke daran, Angst ist ein Wachhund für deine Bedürfnisse. Wenn du ihn "wir sind in Gefahr!" bellen hörst, ohne einen *bestimmten* Grund, ist es wahrscheinlich, dass deine *allgemeinen* körperlichen Bedürfnisse nicht vollständig erfüllt werden. Um deinen inneren Hund zu beruhigen, kannst *du* dich um diese Bedürfnisse kümmern:
+
+## Gewohnheiten zum Schutz deiner körperlichen Bedürfnisse:
+
+Stell dir vor, wenn populärwissenschaftliche Zeitschriften schreiben würden: "Wow! Wenn du die Hardware deines Computers nass machst, *kann das einen Einfluss darauf haben, wie gut die Software läuft*." Oder "Wow! Wenn eine Menge an intensiver Software läuft *kann die Hardware heiß werden!*"
+
+So geht es mir bei Artikeln, die überrascht wirken, dass die körperliche Gesundheit die psychische Gesundheit beeinflusst und umgekehrt.
+
+#### 😴 Schlaf:
+
+Wenn die natürliche Selektion beschlossen hat, dich für ein Drittel deines Lebens bewusstlos zu machen, solltest du lieber darauf *wetten*, dass es einen großen Vorteil mit sich bringt, damit sich diese Kosten/Nutzen-Analyse lohnt.
+
+Und so ist es auch. Wie der Direktor des UC Berkeley's Center for Human Sleep Science [in seinem Buch](https://www.indiebound.org/book/9781501144318) erklärt, verringert eine gute Nachtruhe das Risiko für Herzerkrankungen, Krebs, Alzheimer, Depressionen, Angstzustände und noch mehr. Wie ein Bestseller-Autor von Kinderbüchern einst sagte: "[Geh verdammt nochmal schlafen!](https://www.indiebound.org/book/9781617750250)"
+
+**Beispiel Wenn→Dann Plan:** *"Sobald es 22 Uhr ist, werde ich alle meine Geräte ausschalten und sie an das Ladegerät anschließen, außerhalb des Schlafzimmers, in einem Mülleimer, wo sie hingehören."*
+
+Empfehlenswert: [F.lux](https://justgetflux.com/). Das ist eine App, welche abends die Farbtemperatur deiner Bildschirme ändert, da blaues Licht den Schlafzyklus durcheinander bringt.
+
+### 🏃‍♀️ Sport:
+
+Geh joggen. Geh wandern. Spiel Frisbee. Schon eine halbe Stunde moderate Bewegung pro Tag reicht aus, um deiner körperlichen *und geistigen* Gesundheit einen enormen Vorteil zu verschaffen. [Eine aktuelle Meta-Analyse](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) zeigt, dass Bewegung Depressionen *so sehr* reduziert wie eine Psychotherapie oder Medikamente!
+
+**Beispiel Wenn→Dann Plan:** *"Nachdem ich abends nach Hause komme, werde ich einen 10-minütigen Spaziergang machen. "* (Denke daran: Du kannst die Dauer/Intensität einer Gewohnheit später immer noch erhöhen).
+
+#### 🍆 Iss etwas:
+
+Deine Darmbakterien bilden 90% des körpereigenen Serotonins. Also: Wenn du deine Mikroben glücklich hältst, dann halten sie dich glücklich, kapiert? (Siehe auch: dieser [Bericht der Mental Health Foundation](https://www.mentalhealth.org.uk/publications/feeding-minds))
+
+Es gibt eine Zillion Diäten da draußen, aber die meisten von ihnen basieren nicht auf wissenschaftlichen Erkenntnissen.... und die Wissenschaft ist voll von fehlgeschlagenen Replikationen und p-Hacking. Ich persönlich stimme Michael Pollans Anti-Diät zu: [Iss Nahrung, nicht zu viel, hauptsächlich Pflanzen](https://www.indiebound.org/book/9780143114963/Michael-Pollan/Defense-Food).
+
+**Beispiel Wenn→Dann Plan:** *"Vor dem Einkaufen im Supermarkt werde ich etwas Obst essen, damit ich keinen Hunger habe und nicht in Versuchung komme, Cheetos mit Schokoladengeschmack zu kaufen. Schon wieder."*
+
+・・・
+
+Unsere körperlichen Bedürfnisse sind essentiell, aber wir sind nicht nur Tiere, wir sind *soziale* Tiere. Wenn also dein Wachhund "niemand mag uns" bellt, kannst du ihn mit diesen Gewohnheiten beruhigen:
+
+## Gewohnheiten zum Schutz deiner sozialen Bedürfnisse:
+
+Hochwertige soziale Verbindungen reduzieren, wenig überraschend, [Depressionen und Ängste [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf). Und "überraschenderweise" reduzieren sie sogar [das Risiko eines frühen Todes um 50%](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (Auch hier wieder, es sollte nicht *immer noch* überraschend sein, dass Hardware Software beeinflussen kann und Software Hardware).
+
+### 👯‍♂️ Sprich mit Freunden.
+
+Einige Ratschläge (Anekdoten - keine Daten):
+
+1. Wenn immer es *möglich* ist: Angesicht zu Angesicht im echten Leben > Videochat > Telefonanruf > Text/E-Mail.
+2. Triff dich mit Freunden *auch außerhalb* deines gewohnten Kontextes. Beispiele: Triff einen Freund von der Arbeit *außerhalb* der Arbeit, geh mit Mitbewohnern *aus* ins Kino. Andernfalls wirst du wahrscheinlich den Kontakt verlieren, nachdem du den Job oder das Haus verlassen hast.
+3. Weil jeder eine beschäftigte Biene ist, die in einem rechteckigen Bienenstock lebt, der auch Kalender genannt wird, solltest du *regelmäßig Freundschaftsplätze* planen. Mache Freundschaft zu einem *Gewohnheit*, für euch beide!
+
+Sprich auch über deine Gedanken und Gefühle mit Freunden! Neben der Stärkung eurer Freundschaft vermute ich auch, dass das Teilen der eigenen Gefühle mit einer anderen Person die psychische Gesundheit genauso verbessert wie das Aufschreiben: Wenn du deine Emotionen erklärst, wirst du sie auch verstehen.
+
+**Beispiel Wenn→Dann Plan:** *"An jedem ersten Montag im Monat werde ich meinen guten Freund, der sich im fernen, fernen Land New Haven, CT, befindet, anrufen."*
