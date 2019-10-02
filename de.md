@@ -130,7 +130,7 @@ Wenn der Rauchmelder losgeht:
 * Eine gesunde Person weiß, wie man den Herd ausschaltet, ein Fenster öffnet und Backpulver über das Fettfeuer schüttet. Ist der Alarm zu empfindlich, wird er irgendwo weiter weg platziert.
 * Eine ängstliche Person wirft Wasser über das Fettfeuer und macht es noch schlimmer. Oder hält sich die Ohren zu, um den Alarm nicht zu hören. Oder zerschmettert den Alarm mit einem Hammer. Oder versucht, rational mit dem Alarm über seine Verzerrungen zu argumentieren. Oder beschließt, ihn "bewusst" zu ignorieren.
 
-Nachdem ich verstanden hatte: Gefühle = Alarme & Signale, wurde mir klar, dass viele Dinge, die ich für Fehler der Emotionen gehalten habe, eigentlich nützliche Funktionen sind!  "Negative" Emotionen schalten sich von selbst ein und man kann sie nicht nach Belieben ausschalten - *das ist eine gute Funktion für einen automatischen Rauchmelder.* "Positive" Emotionen sind nicht von Dauer, sondern stellen sich immer wieder auf den neuen Normalzustand ein - *Das ist eine gute Funktion für intelligente Thermostate.*
+Nachdem ich verstanden hatte: Gefühle = Alarme & Signale, wurde mir klar, dass viele Dinge, die ich für Fehler der Emotionen gehalten habe, eigentlich nützliche Funktionen sind! "Negative" Emotionen schalten sich von selbst ein und man kann sie nicht nach Belieben ausschalten - *das ist eine gute Funktion für einen automatischen Rauchmelder.* "Positive" Emotionen sind nicht von Dauer, sondern stellen sich immer wieder auf den neuen Normalzustand ein - *Das ist eine gute Funktion für intelligente Thermostate.*
 
 In einem guten Leben geht es nicht darum, Schmerzen zu minimieren und das Vergnügen zu maximieren. Das ist wie ein Café, dessen Ziel es ist, den Alarm zu minimieren und das Klingeln am Eingang zu maximieren. Gefühle sind *NICHT* die Ziele, sie sind die *Mittel* zu den Zielen: ein erfülltes Leben.
 
@@ -177,12 +177,12 @@ Hier ist eine kurze Zusammenfassung der wissenschaftlichen Erkenntnisse zur Entw
    Beispiel: Um mich davon abzuhalten, Dinge aufzuschieben, benutze ich Apps, um verlockende Websites zu blockieren. (Odysseus hat sich selbst am Mast festgebunden, um den Gesang der Sirenen zu widerstehen)
 
 5. **Verfolge deinen Fortschritt.**
-    Ich persönlich: An jedem Tag, an dem ich erfolgreich meinen Wenn→Dann Plan durchführe, zeichne ich einen ⭕ in meinen Kalender. Wenn ich es nicht schaffe, dann male ich ein ❌.
+   Ich persönlich: An jedem Tag, an dem ich erfolgreich meinen Wenn→Dann Plan durchführe, zeichne ich einen ⭕ in meinen Kalender. Wenn ich es nicht schaffe, dann male ich ein ❌.
 
 6. **Versuche NICHT, mehr als eine Gewohnheit auf einmal aufzubauen.**
 
 7. **Es dauert durchschnittlich 66 Tage, bis eine Gewohnheit sich automatisiert.**
-   Seien Sie geduldig! Gehirntraining braucht Zeit, aber es lohnt sich.
+   Sei geduldig! Gehirntraining braucht Zeit, aber es lohnt sich.
 
 Moment, mein Wachhund will etwas sagen:
 
@@ -302,7 +302,7 @@ Also, wie findet man den Sinn des Lebens? Keine Ahnung, das ist eine Frage für 
 
 [Zeichne mit der rechten Seite deines Gehirns](https://www.indiebound.org/book/9781585429202). [Lern Ukulele spielen](https://www.youtube.com/watch?v=H7Kn1olXCfM). [Verstehe Quantencomputing](https://quantum.country/qcvc). [Flirte in Französich](https://www.indiebound.org/book/9780385348119). [Halbiere Äpfel mit deinen bloßen Händen](https://www.youtube.com/watch?v=aPNTutAtbSU). [Mach Plüschtiere](https://www.indiebound.org/book/9781454703648). [Lerne Morsezeichen](https://epxx.co/morse/koch.html). [Probiere eine neuen Teamsport auf Meetup.com aus](https://www.meetup.com/find/sports-fitness/). [Erstelle Chiptunes](https://beepbox.co/). [Lerne Python zu programmieren](https://www.dataquest.io/course/python-for-data-science-fundamentals/). Spiele "erkundbare Erklärungen" über [Spieltheorie](https://ncase.me/trust/), [Musik-Komposition](https://learningmusic.ableton.com), [Fourier-Transformation](http://www.jezzamon.com/fourier/index.html), [und weitere Dinge](https://explorabl.es/). [Koche](https://www.indiebound.org/book/9781476753836).
 
-Wähle einfach *etwas* aus und lege dir einen Tag der Woche (oder eine Stunde am Tag)  fest, um ein Buch zu lesen, oder um [gezielt eine Fertigkeit auszuüben](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice).
+Wähle einfach *etwas* aus und lege dir einen Tag der Woche (oder eine Stunde am Tag) fest, um ein Buch zu lesen, oder um [gezielt eine Fertigkeit auszuüben](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice).
 
 **Wenn→Dann Plan Beispiel:** *"Jeden Sonntag Abend werde ich versuchen, ein neues Rezept zu kochen."*
 
@@ -409,7 +409,7 @@ Weitere Tipps zur psychischen Gesundheit gibt es hier: [Mental Health Foundation
 
 [Feeling Good](https://www.indiebound.org/book/9780380810338), das klassische Buch aus dem Jahr 1980, das CBT populär machte.
 [Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), ein Buch von 1946, geschrieben von einem Überlebenden des Holocaust & Psychotherapeuten.
-[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), eine 2-minütige Animation.    
+[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), eine 2-minütige Animation. 
 
 ・・・
 
@@ -421,5 +421,5 @@ Ein riesiges Dankeschön geht an diese Leute für das Feedback zu diesem Essay: 
 
 Und zuletzt vielen Dank an *dich* fürs Lesen! Wer auch immer du auch bist: Bleib entschlossen. Viel Glück.
 
-<3,    
+<3,
 ~ Nicky Case
