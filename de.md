@@ -348,6 +348,78 @@ Gutes Argument! Lass uns das Gedächtnis des Lesers mit einer Zusammenfassung au
 * **Gewohnheit = Wenn X, Dann Y.**
 * Um Gewohnheiten zu bilden, brauchst du ein einheitliches "Wann" und ein einfaches "Dann". Verfolge deinen Fortschritt für ~66 Tage. Eine Gewohnheit nach der anderen.
 * Die körperliche Gesundheit beeinflusst die psychische Gesundheit und umgekehrt. Hardware beeinflusst Software, Software beeinflusst Hardware.
-* **9 Gewohnheiten für deine mentale Gesundheit (Software & Hardware):** Meditation, Journaling, Schlaf, Bewegung, Essen, mit Freunden reden, neue Freunde finden, Lernen, Tugenden üben.
+* **9 Gewohnheiten für deine mentale** Gesundheit (Software & Hardware): Meditation, Journaling, Schlaf, Bewegung, Essen, mit Freunden reden, neue Freunde finden, Lernen, Tugenden üben.
 
 ---
+
+# Ich und mein Wolf
+
+Wenn dies ein Film wäre, hätte ich lernen sollen, mich mit meinem Wolf in einem schockierenden Moment der Katharsis anzufreunden, mit Explosionen im Hintergrund. Das wäre eine gute Geschichte gewesen.
+
+Stattdessen lernte ich nur, mich mit meinem Wolf anzufreunden, während ich versuchte, eine gute Geschichte zu schreiben.
+
+Als ich anfing, mein Spiel *Adventures With Anxiety* zu schreiben, hatte ich es so geplant, dass es ein Haufen CBT- und Achtsamkeitslektionen sein sollte, die in einer Geschichte verpackt waren. Es gab zwei Probleme: 1) Die Geschichte fühlte sich unauthentisch an. 2) Ich konnte den Dialog der Angst-Figur nicht auf natürliche Weise wiedergeben.
+
+Aber dann wurde mir eine offensichtliche Lösung für Problem Nr. 2 klar: *Ich* sollte den Angst-Charakter nicht schreiben, meine *Angst* sollte den Angst-Charakter schreiben.
+
+Und so begann eine eigenartige Zusammenarbeit.
+
+Seltsame Nebenwirkung: Ich fing an, meine Angst zu mögen. Denn wann immer meine Angst sich in einer Gedankenspirale wie dieser äußerte:
+
+> 🐺 Was können wir denn schon tun, um etwas zu erreichen, was im Großen und Ganzen zählt? Zur Menschheit beitragen? Alle großen Werke verfallen wie Ozymandias. Liebe? Der Tod macht immer seinen Teil. Und wie viel Tod es gibt! Wir werden sterben, unsere Geliebten werden sterben, das zweite Gesetz der Thermodynamik bedeutet, dass sogar das *Universum* sterben wird! DAS LEBEN HAT KEINE BEDEUTUNG, DER TOD HAT KEINE BEDEUTUNG, UND SELBST DIE BEDEUTUNG HAT KEINE BEDEUT-
+
+Denke ich mir:
+
+1) Heilige Sch\*\*\*e, das ist furchteinflößend
+2) Das ist *unglaubliches* Schreibmaterial! Danke, Wolf!
+
+Damit wurde auch Problem Nr. 1 gelöst: Der Grund, warum sich die Geschichte so aufgezwungen fühlte, war, dass ich dem Angst-Charakter nie eine echte Motivation gegeben habe. Es war nur ein Skeletor-ähnlicher Feind, "böse um des Bösen willen". Aber als ich meine Angst einfach *fragte*, was ihre Motivation war, sagte sie mir:
+
+> 🐺 Ich möchte, dass du sicher bist.
+
+Und mit dieser Kernmotivation hat sich *Adventures With Anxiety* grundsätzlich selbst geschrieben. Nicht nur das, ich erfuhr auch, warum CBT & Achtsamkeit für mich stagniert haben: Weil ich immer noch die Angst als meinen Feind ansah.
+
+Bis du erkennst, dass Angst dein Wachhund ist (oder zu sein versucht), wirst du immer noch Angst vor der Angst selbst haben.
+
+Und je mehr mein misshandelter Schutzhund und ich am Spiel zusammen gearbeitet haben, desto mehr haben wir auch im Rest unseres Lebens zusammengearbeitet. Wenn ich es bellen hörte, "sie hassen uns!", sah ich das Schmerz-Signal unter den bloßen Worten, und wir versuchten ein Experiment, um das unerfüllte Bedürfnis zu erfüllen. Zusammen. Als Team.
+
+In Ordnung, ich denke, ich lasse meinem Freund das letzte Wort. Wolf?
+
+> 🐺 Okay, dieser Artikel ist *immer noch* zu lang. Es sind mehr als 4000 Wörter! Oder vielleicht ist es nicht lange *genug*, du hast nicht einmal andere Therapien wie Psychodynamik oder Humanismus oder Logotherapie behandelt, geschweige denn das Dodo-Bird-Verdict: [Neuere Metaanalysen zeigen, dass alle gängigen Psychotherapien *gleichwertig* sind](https://www.sciencedirect.com/science/article/pii/S0272735814001184), wobei CBT kurzfristig gesehen vielleicht *ein weeenig* besser ist! Wo wir gerade davon sprechen, wie war das noch gleich mit der berüchtigten Meta-Analyse, die zeigt, dass [psychiatrische Medikamente bis zu 75% Placebo sein könnten [pdf]](http://www.academia.edu/download/32556648/KirschandSapirstein1998.pdf)? Verdammt, was ist mit [der Replikationskrise](https://en.wikipedia.org/wiki/Replication_crisis), woher können wir überhaupt wissen, dass *etwas* in diesem über 4000 Wörter umfassenden Monster wissenschaftlich präzise ist?! Außerdem schreiben wir das hier gerade am 15. und du hast versprochen, dass das Spiel am 17. herauskommt, also halt bitte mal die Klappe und hör auf zu schreiben.
+
+Das ist schon wahr! In der Wissenschaft ist es gut, skeptisch zu sein, obwohl ich sagen möchte: Auch wenn alle Therapien gleichwertig sind, dann sind sie gleichwertig *gut* und viel besser als fehlende Therapie (egal ob Selbsthilfe oder professionelle). Und selbst wenn die Medikamente nur 25% besser sind als Placebo, so ist es immer noch eine große Sache, 25% besser darin zu sein, Leben zu retten. Außerdem geht es in der Wissenschaft darum, aus Fehlern zu lernen, und dankenswerter Weise *lernen* die Wissenschaftler aus der Replikationskrise.
+
+Trotzdem vielen Dank für die konstruktive Kritik und dafür, dass du mein Bedürfnis nach intellektueller Ehrlichkeit geschützt hast!
+
+> 🐺 Gern geschehen. Und, hey, danke, dass du endlich geduldig und verständnisvoll mit mir bist.... statt mich mit riskantem Verhalten und "Nun, eigentlich" zu übertönen.
+
+Aber natürlich! Irgendwelche letzten Worte?
+
+> 🐺 Ja. Nur eins.
+
+Ja?
+
+> 🐺 AAAAAAAHHHHHHHHHHH
+
+---
+
+# Zusätzliche Ressourcen:
+
+Weitere Tipps zur psychischen Gesundheit gibt es hier: [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
+
+[Feeling Good](https://www.indiebound.org/book/9780380810338), das klassische Buch aus dem Jahr 1980, das CBT populär machte.    
+[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), ein Buch von 1946, geschrieben von einem Überlebenden des Holocaust & Psychotherapeuten.    
+[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), eine 2-minütige Animation.    
+
+・・・
+
+Dieses Essay ist das "Begleitstück" zu meiner interaktiven Geschichte/Spiel, [Adventures With Anxiety](https://ncase.me/anxiety). Wenn du mir helfen möchtest, mehr kostenlose, lehrreiche Worte+Spiele zu machen, kannst du [auf Patreon](https://www.patreon.com/ncase) Münzen nach mir werfen!
+
+Es gibt noch keine Übersetzungen dieses Aufsatzes. Wenn du helfen möchtest, dann besuche doch [die Github-Seite!](https://github.com/ncase/mental-health#how-to-translate)
+
+Ein riesiges Dankeschön geht an diese Leute für das Feedback zu diesem Essay: Glen Chiacchieri, Lexi Lockwell, Spacie. Alle problematischen Wörter, die übrig bleiben, sind meine eigenen.
+
+Und zuletzt vielen Dank an *dich* fürs Lesen! Wer auch immer du auch bist: Bleib entschlossen. Viel Glück.
+
+<3,    
+~ Nicky Case
