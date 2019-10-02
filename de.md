@@ -2,8 +2,8 @@
 *Dieser Artikel ist eine Mischung aus meiner persönlichen Erfahrung, wissenschaftlichen Erkenntnissen über die psychische Gesundheit und praktischen Tipps. Die Gesamtlesedauer beträgt 22 Minuten, aber du kannst auch einfach zu den praktischen Tipps springen:*
 
 1. **[Ein alter Freund](#toc_0)** (Geschichte)
-2. **[Therapien, die ich ausprobiert habe](#toc_1)** (Geschichte + Theorie)
-3. **[Der Zweck des Schmerzes, die Funktion der Gefühle](#toc_2)** (Theorie)
+2. **[Therapien, die ich probiert habe](#toc_1)** (Geschichte + Theorie)
+3. **[Der Sinn der Schmerzen, die Funktion der Gefühle](#toc_2)** (Theorie)
 4. **[Das Einmaleins der Gewohnheiten](#toc_3)** (Theorie + Praxis)
 5. **[9 Evidenzbasierte Gewohnheiten für die psychische Gesundheit](#toc_4)** (💥**der tatsächlich nützliche Teil**💥)
 6. **[Kurz und Knapp](#toc_18)** (Zusammenfassung von allem oben)
@@ -48,7 +48,7 @@ Ein paar Monate später hörte ich die vertraute Stimme eines alten Freundes:
 
 ---
 
-# Therapien, die ich ausprobiert habe.
+# Therapien, die ich probiert habe.
 
 Wenn das hier ein Film wäre, dann wäre dies der Punkt gewesen, an dem ich den Wert der Angst erkannt hätte.
 
@@ -78,7 +78,7 @@ Angst ist ein *Freund.*
 
 ---
 
-# Der Zweck des Schmerzes, die Funktion der Gefühle
+# Der Sinn der Schmerzen, die Funktion der Gefühle
 
 "Angst ist ein Freund"?!! Das klingt für jemanden mit fast täglichen Panikattacken dumm - sogar *moralisch beleidigend*. Warum also sage ausgerechnet *ich* so etwas, als jemand, der diese Schmerzen kennt?
 
@@ -105,7 +105,7 @@ Schaden an was? An deinen grundlegenden menschlichen Bedürfnissen:
 3. **"Eine bessere Person werden" Bedürfnisse** - Lernen, Charakterwachstum, Gutes für andere tun
    (Bei Bedrohung: 🐺 "Wir sind ein schlechter Mensch!")
 
-(Diese Liste der Bedürfnisse ist <span style="text-decoration:line-through">etwas, das ich mir aus meinem Hintern gezogen habe</span> eine komprimierte Version von [Maslows Hierarchie](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Selbstbestimmungstheorie[pdf]]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
+(Diese Liste der Bedürfnisse ist <span style="text-decoration:line-through">etwas, das ich mir aus meinem Hintern gezogen habe</span> eine komprimierte Version von [Maslows Hierarchie](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Selbstbestimmungstheorie [pdf]]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
 
 Hier ist meine Vermutung. Es ist nichts Originelles, hunderte haben so etwas schon einmal gesagt, aber es hat immer noch ewig gedauert, bis ich gelernt habe:
 
@@ -146,7 +146,7 @@ Vielleicht hast du jedoch einen hyperaktiven Hund, der den Schatten anbellt. Das
 
 Er kläfft, weil er ein übel zugerichteter Schutzhund ist, und er braucht deine Hilfe zur Genesung.
 
-Leider war die erste Reaktion vieler Menschen auf den lauten Hund - einschließlich meiner -, ihn zu schlagen. Aber du kannst die Bosheit eines Hundes nicht aus ihm prügeln oder die Angst aus ihm herausschrecken. (Hinweis: [Dies gilt auch für die tatsächliche Hundeausbildung[pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
+Leider war die erste Reaktion vieler Menschen auf den lauten Hund - einschließlich meiner -, ihn zu schlagen. Aber du kannst die Bosheit eines Hundes nicht aus ihm prügeln oder die Angst aus ihm herausschrecken. (Hinweis: [Dies gilt auch für die tatsächliche Hundeausbildung [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
 
 Also.... wie *trainiert* man seinen Hund?
 
@@ -162,7 +162,7 @@ Nun.... ja! Okay, Hundeklicker sind optional. Aber wir haben ein Wort dafür, we
 
 **Gewohnheiten.**
 
-Hier ist eine kurze Zusammenfassung der wissenschaftlichen Erkenntnisse zur Entwicklung von Gewohnheiten, [paraphrasiert aus dem British Journal of General Practice[pdf]](https://bjgp.org/content/bjgp/62/605/664.full.pdf):
+Hier ist eine kurze Zusammenfassung der wissenschaftlichen Erkenntnisse zur Entwicklung von Gewohnheiten, [paraphrasiert aus dem British Journal of General Practice [pdf]](https://bjgp.org/content/bjgp/62/605/664.full.pdf):
 
 1. **Gewohnheit = Wenn X, dann Y.**
    X ist der "Auslöser", Y ist die "Routine". Beispiel: "Wenn ich aus der Dusche steige, dann werde ich mir die Zähne mit Zahnseide reinigen."
@@ -206,7 +206,7 @@ Es gibt jedoch ein Klischee über Meditation, das es wert ist, aufgelöst zu wer
 
 Obwohl ich vorhin "Achtsamkeit" (oder meine Fehlinterpretation davon) kritisiert habe, ist Meditation eigentlich *zweifellos* sehr hilfreich für mein Leben.
 
-**Beispiel Wenn→Dann Plan:** *"Nach dem Zähneputzen am Morgen gehe ich ins Wohnzimmer und stelle einen Timer ein, um für 2 Minuten zu meditieren."*
+**Wenn→Dann Plan Beispiel:** *"Nach dem Zähneputzen am Morgen gehe ich ins Wohnzimmer und stelle einen Timer ein, um für 2 Minuten zu meditieren."*
 
 Empfehlenswert: [diese 2-minütige animierte Einführung in die Meditation](https://www.youtube.com/watch?v=rqoxYKtEWEc).
 
@@ -222,7 +222,7 @@ Beispiel: *"Heute, als sich meine Freunde alle ohne mich unterhalten haben, füh
 
 (So sehr ich vorhin auch das "Seine Gedanken herauszufordern" auch kritisiert habe, *das* ist es, worin die CBT glänzt. Das Wissen über [gängige kognitive Verzerrungen](https://en.wikipedia.org/wiki/Cognitive_distortion) und wie man sie neu gestaltet, hilft dir, den Sinn der Schmerzsignale zu verstehen. Geh nur nicht wie im Debattierclub vor, als würde es nur darum gehen deine Ängste mit *Nun, eigentlich...* zu hinterfragen, um zu "gewinnen". Das Ziel sollte es sein, deiner Angst zu helfen, dir *ein besserer Helfer zu sein*. Hilf ihr dabei, dir zu helfen.)
 
-**Beispiel Wenn→Dann Plan:** *"Bevor ich schlafen gehe, werde ich 10 Minuten lang über meine Gefühle schreiben/zeichnen."*
+**Wenn→Dann Plan Beispiel:** *"Bevor ich schlafen gehe, werde ich 10 Minuten lang über meine Gefühle schreiben/zeichnen."*
 
 ・・・
 
@@ -240,7 +240,7 @@ Wenn die natürliche Selektion beschlossen hat, dich für ein Drittel deines Leb
 
 Und so ist es auch. Wie der Direktor des UC Berkeley's Center for Human Sleep Science [in seinem Buch](https://www.indiebound.org/book/9781501144318) erklärt, verringert eine gute Nachtruhe das Risiko für Herzerkrankungen, Krebs, Alzheimer, Depressionen, Angstzustände und noch mehr. Wie ein Bestseller-Autor von Kinderbüchern einst sagte: "[Geh verdammt nochmal schlafen!](https://www.indiebound.org/book/9781617750250)"
 
-**Beispiel Wenn→Dann Plan:** *"Sobald es 22 Uhr ist, werde ich alle meine Geräte ausschalten und sie an das Ladegerät anschließen, außerhalb des Schlafzimmers, in einem Mülleimer, wo sie hingehören."*
+**Wenn→Dann Plan Beispiel:** *"Sobald es 22 Uhr ist, werde ich alle meine Geräte ausschalten und sie an das Ladegerät anschließen, außerhalb des Schlafzimmers, in einem Mülleimer, wo sie hingehören."*
 
 Empfehlenswert: [F.lux](https://justgetflux.com/). Das ist eine App, welche abends die Farbtemperatur deiner Bildschirme ändert, da blaues Licht den Schlafzyklus durcheinander bringt.
 
@@ -248,7 +248,7 @@ Empfehlenswert: [F.lux](https://justgetflux.com/). Das ist eine App, welche aben
 
 Geh joggen. Geh wandern. Spiel Frisbee. Schon eine halbe Stunde moderate Bewegung pro Tag reicht aus, um deiner körperlichen *und geistigen* Gesundheit einen enormen Vorteil zu verschaffen. [Eine aktuelle Meta-Analyse](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) zeigt, dass Bewegung Depressionen *so sehr* reduziert wie eine Psychotherapie oder Medikamente!
 
-**Beispiel Wenn→Dann Plan:** *"Nachdem ich abends nach Hause komme, werde ich einen 10-minütigen Spaziergang machen. "* (Denke daran: Du kannst die Dauer/Intensität einer Gewohnheit später immer noch erhöhen).
+**Wenn→Dann Plan Beispiel:** *"Nachdem ich abends nach Hause komme, werde ich einen 10-minütigen Spaziergang machen. "* (Denke daran: Du kannst die Dauer/Intensität einer Gewohnheit später immer noch erhöhen).
 
 #### 🍆 Iss etwas:
 
@@ -256,7 +256,7 @@ Deine Darmbakterien bilden 90% des körpereigenen Serotonins. Also: Wenn du dein
 
 Es gibt eine Zillion Diäten da draußen, aber die meisten von ihnen basieren nicht auf wissenschaftlichen Erkenntnissen.... und die Wissenschaft ist voll von fehlgeschlagenen Replikationen und p-Hacking. Ich persönlich stimme Michael Pollans Anti-Diät zu: [Iss Nahrung, nicht zu viel, hauptsächlich Pflanzen](https://www.indiebound.org/book/9780143114963/Michael-Pollan/Defense-Food).
 
-**Beispiel Wenn→Dann Plan:** *"Vor dem Einkaufen im Supermarkt werde ich etwas Obst essen, damit ich keinen Hunger habe und nicht in Versuchung komme, Cheetos mit Schokoladengeschmack zu kaufen. Schon wieder."*
+**Wenn→Dann Plan Beispiel:** *"Vor dem Einkaufen im Supermarkt werde ich etwas Obst essen, damit ich keinen Hunger habe und nicht in Versuchung komme, Cheetos mit Schokoladengeschmack zu kaufen. Schon wieder."*
 
 ・・・
 
@@ -276,7 +276,7 @@ Einige Ratschläge (Anekdoten - keine Daten):
 
 Sprich auch über deine Gedanken und Gefühle mit Freunden! Neben der Stärkung eurer Freundschaft vermute ich auch, dass das Teilen der eigenen Gefühle mit einer anderen Person die psychische Gesundheit genauso verbessert wie das Aufschreiben: Wenn du deine Emotionen erklärst, wirst du sie auch verstehen.
 
-**Beispiel Wenn→Dann Plan:** *"An jedem ersten Montag im Monat werde ich meinen guten Freund, der sich im fernen, fernen Land New Haven, CT, befindet, anrufen."*
+**Wenn→Dann Plan Beispiel:** *"An jedem ersten Montag im Monat werde ich meinen guten Freund, der sich im fernen, fernen Land New Haven, CT, befindet, anrufen."*
 
 ### 🎳 Neue Freunde finden
 
@@ -284,7 +284,7 @@ Option 1: Bitte deine Freunde, dass sie dich ihren Freunden vorstellen. (z.B.: I
 
 Option 2: Tritt einer Klasse oder ehrenamtlichen Gruppe oder Bowling-Liga auf [Meetup.com](https://www.meetup.com/) bei. (Ich werde nicht dafür bezahlt, das zu sagen.) Ich arbeite selbständig und bin gerade erst in eine neue Stadt gezogen, daher hätte es super einsam sein können, aber Meetup hat mir geholfen, schnell neue Freunde zu finden! Denke nur daran, deine neuen Freunde auch *außerhalb* des Meetups zu treffen.
 
-**Beispiel Wenn→Dann Plan:** *"Jeden Donnerstagabend gehe ich zum Französich Meetup pour pratiquer mon terrible français."*
+**Wenn→Dann Plan Beispiel:** *"Jeden Donnerstagabend gehe ich zum Französich Meetup pour pratiquer mon terrible français."*
 
 ・・・
 
@@ -304,7 +304,7 @@ Also, wie findet man den Sinn des Lebens? Keine Ahnung, das ist eine Frage für 
 
 Wähle einfach *etwas* aus und lege dir einen Tag der Woche (oder eine Stunde am Tag)  fest, um ein Buch zu lesen, oder um [gezielt eine Fertigkeit auszuüben](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice).
 
-**Beispiel Wenn→Dann Plan:** *"Jeden Sonntag Abend werde ich versuchen, ein neues Rezept zu kochen."*
+**Wenn→Dann Plan Beispiel:** *"Jeden Sonntag Abend werde ich versuchen, ein neues Rezept zu kochen."*
 
 Empfehlenswert: Spaced Repetition ("Lernkarten auf Steroiden"), damit du dich daran erinnern kannst, was du gelernt hast. Schau dir [dieses 7-minütige Video](https://www.youtube.com/watch?v=eVajQPuRmk8) oder [dieses 80-minütige Essay](http://augmentingcognition.com/ltm.html) an.
 
@@ -315,7 +315,7 @@ Benjamin Franklin war der erste Lifehacker. Zwischen dem Experimentieren mit Bli
 
 Ich denke, das können wir alle auch tun. Du musst nicht die gleiche Methode wie Franklin verwenden. Tatsächlich empfehle ich, spezifischer zu sein als "Übe Demut", und einen spezifischen Wenn→Dann Plan zu haben, wie zum Beispiel:
 
-**Beispiel Wenn→Dann Plan:** *"Wenn ich im Begriff bin, etwas wütend im Internet zu posten, werde ich eine Stunde warten, bevor ich auf Senden klicke. "*
+**Wenn→Dann Plan Beispiel:** *"Wenn ich im Begriff bin, etwas wütend im Internet zu posten, werde ich eine Stunde warten, bevor ich auf Senden klicke."*
 
 "Sei die Veränderung, die du in der Welt sehen willst" usw. usf.
 
@@ -407,8 +407,8 @@ Ja?
 
 Weitere Tipps zur psychischen Gesundheit gibt es hier: [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
 
-[Feeling Good](https://www.indiebound.org/book/9780380810338), das klassische Buch aus dem Jahr 1980, das CBT populär machte.    
-[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), ein Buch von 1946, geschrieben von einem Überlebenden des Holocaust & Psychotherapeuten.    
+[Feeling Good](https://www.indiebound.org/book/9780380810338), das klassische Buch aus dem Jahr 1980, das CBT populär machte.
+[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), ein Buch von 1946, geschrieben von einem Überlebenden des Holocaust & Psychotherapeuten.
 [Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), eine 2-minütige Animation.    
 
 ・・・
