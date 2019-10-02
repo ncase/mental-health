@@ -277,3 +277,77 @@ Einige Ratschläge (Anekdoten - keine Daten):
 Sprich auch über deine Gedanken und Gefühle mit Freunden! Neben der Stärkung eurer Freundschaft vermute ich auch, dass das Teilen der eigenen Gefühle mit einer anderen Person die psychische Gesundheit genauso verbessert wie das Aufschreiben: Wenn du deine Emotionen erklärst, wirst du sie auch verstehen.
 
 **Beispiel Wenn→Dann Plan:** *"An jedem ersten Montag im Monat werde ich meinen guten Freund, der sich im fernen, fernen Land New Haven, CT, befindet, anrufen."*
+
+### 🎳 Neue Freunde finden
+
+Option 1: Bitte deine Freunde, dass sie dich ihren Freunden vorstellen. (z.B.: Ihr könnt alle zusammen ins Kino gehen)
+
+Option 2: Tritt einer Klasse oder ehrenamtlichen Gruppe oder Bowling-Liga auf [Meetup.com](https://www.meetup.com/) bei. (Ich werde nicht dafür bezahlt, das zu sagen.) Ich arbeite selbständig und bin gerade erst in eine neue Stadt gezogen, daher hätte es super einsam sein können, aber Meetup hat mir geholfen, schnell neue Freunde zu finden! Denke nur daran, deine neuen Freunde auch *außerhalb* des Meetups zu treffen.
+
+**Beispiel Wenn→Dann Plan:** *"Jeden Donnerstagabend gehe ich zum Französich Meetup pour pratiquer mon terrible français."*
+
+・・・
+
+Letztendlich - unsere physischen und sozialen Bedürfnisse sind wesentlich, aber wir sind nicht nur soziale Tiere, wir sind *Personen*. Wenn dein Hund also bellt: "Wir sind schrecklich, böse, gebrochen!", kannst du ihn mit diesen Gewohnheiten beruhigen:
+
+## Gewohnheiten, um deine "ein besserer Mensch werden" Bedürfnisse zu schützen:
+
+Im letzten Jahrzehnt der ["Wissenschaft des Glücks"](https://en.wikipedia.org/wiki/Positive_psychology) ging es immer darum, dass Glück allein nicht genug ist.
+
+Forscher haben jetzt [zwei Arten von Wohlbefinden [pdf]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) identifiziert - **Hedonie**, was Vergnügen & Spaß ist, und **Eudaimonie**, was Zweck & Erfüllung ist. Die beiden sind nicht gegensätzlich, aber sie sind unterschiedlich. Und natürlich verspricht [Eudaimonie die bessere psychische und physische Gesundheit [pdf]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf).
+
+Also, wie findet man den Sinn des Lebens? Keine Ahnung, das ist eine Frage für Philosophen. Allerdings kannst du *viele* Sinn(e) *im* Leben finden, wie z.B. ein guter Freund zu sein, ein Kind großzuziehen, sich ehrenamtlich für eine Sache einzusetzen.... und dich selbst zu deinem vollsten menschlichen Potential zu bringen, mit Gewohnheiten wie....:
+
+### 💭 Lernen
+
+[Zeichne mit der rechten Seite deines Gehirns](https://www.indiebound.org/book/9781585429202). [Lern Ukulele spielen](https://www.youtube.com/watch?v=H7Kn1olXCfM). [Verstehe Quantencomputing](https://quantum.country/qcvc). [Flirte in Französich](https://www.indiebound.org/book/9780385348119). [Halbiere Äpfel mit deinen bloßen Händen](https://www.youtube.com/watch?v=aPNTutAtbSU). [Mach Plüschtiere](https://www.indiebound.org/book/9781454703648). [Lerne Morsezeichen](https://epxx.co/morse/koch.html). [Probiere eine neuen Teamsport auf Meetup.com aus](https://www.meetup.com/find/sports-fitness/). [Erstelle Chiptunes](https://beepbox.co/). [Lerne Python zu programmieren](https://www.dataquest.io/course/python-for-data-science-fundamentals/). Spiele "erkundbare Erklärungen" über [Spieltheorie](https://ncase.me/trust/), [Musik-Komposition](https://learningmusic.ableton.com), [Fourier-Transformation](http://www.jezzamon.com/fourier/index.html), [und weitere Dinge](https://explorabl.es/). [Koche](https://www.indiebound.org/book/9781476753836).
+
+Wähle einfach *etwas* aus und lege dir einen Tag der Woche (oder eine Stunde am Tag)  fest, um ein Buch zu lesen, oder um [gezielt eine Fertigkeit auszuüben](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice).
+
+**Beispiel Wenn→Dann Plan:** *"Jeden Sonntag Abend werde ich versuchen, ein neues Rezept zu kochen."*
+
+Empfehlenswert: Spaced Repetition ("Lernkarten auf Steroiden"), damit du dich daran erinnern kannst, was du gelernt hast. Schau dir [dieses 7-minütige Video](https://www.youtube.com/watch?v=eVajQPuRmk8) oder [dieses 80-minütige Essay](http://augmentingcognition.com/ltm.html) an.
+
+
+### 😇 "Es baut den Charakter auf"
+
+Benjamin Franklin war der erste Lifehacker. Zwischen dem Experimentieren mit Blitzen und dem Kampf um die Abschaffung der Sklaverei versuchte er auch, seinen moralischen Charakter zu verbessern, mit Hilfe von.... Karteikarten. [Wie in seiner Autobiographie beschrieben](https://www.thesimpledollar.com/ben-franklins-thirteen-virtues-using-one-week-to-change-your-life/): Er trug eine Karte mit 7 Spalten - eine für jeden Wochentag - und 13 Reihen - eine für jede Tugend, an der er arbeiten wollte. Am Ende eines jeden Tages zeichnete er einen Punkt für jede Tugend auf, die er an diesem Tag erfolgreich ausgeübt hatte. Er hat viel versagt. Aber mit der Zeit machte er die krumme Klangfarbe seiner menschlichen Natur etwas weniger krumm.
+
+Ich denke, das können wir alle auch tun. Du musst nicht die gleiche Methode wie Franklin verwenden. Tatsächlich empfehle ich, spezifischer zu sein als "Übe Demut", und einen spezifischen Wenn→Dann Plan zu haben, wie zum Beispiel:
+
+**Beispiel Wenn→Dann Plan:** *"Wenn ich im Begriff bin, etwas wütend im Internet zu posten, werde ich eine Stunde warten, bevor ich auf Senden klicke. "*
+
+"Sei die Veränderung, die du in der Welt sehen willst" usw. usf.
+
+・・・
+
+Kenne deinen Wolf.
+Körperliche Bedürfnisse.
+Soziale Bedürfnisse.
+Ein besserer Mensch werden.
+
+Was dir hilft, *alle* von ihnen gleichzeitig zu treffen: **Mach die Angst zu deinem Freund.** Eine gesündere Zusammenarbeit mit deiner Angst (den Wolf zu kennen) wird dir helfen, dich besser zu schützen (körperliche Bedürfnisse), verwundbarer mit vertrauenswürdigen Freunden zu sein (soziale Bedürfnisse) und deinen moralischen Charakter zu verbessern ("ein besserer Mensch werden" Bedürfnisse).
+
+Warte, mein Freund will etwas sagen:
+
+> 🐺 Gah! Wir haben schon über 3500 Wörter geplappert! Wie soll sich ein Leser an irgendwas davon erinnern können?!!
+
+Gutes Argument! Lass uns das Gedächtnis des Lesers mit einer Zusammenfassung auffrischen:
+
+---
+
+# Kurz und Knapp
+
+* **Fürchte dich nicht vor der Angst selbst.**
+* Schmerz ist ein Beschützer.
+* Angst ist ein Wachhund für deine Bedürfnisse.
+* **Alle Gefühle sind unvollkommene Signale über erfüllte/unerfüllte Bedürfnisse.**
+* Unsere grundlegenden menschlichen Bedürfnisse sind: körperliche Bedürfnisse, soziale Bedürfnisse und "ein besserer Mensch werden" Bedürfnisse.
+* **Gesunde Menschen "bewältigen" keine Emotionen, sie arbeiten mit ihnen *zusammen*. Sie nutzen "negative" Emotionen als Anhaltspunkte, konstruktive Kritik, um ihr Leben zu verbessern.**
+* Wenn dein ängstlicher Wachhund zu hyperaktiv ist, erschieß ihn nicht! Halte ihn zurück, indem du Gewohnheiten bildest.
+* **Gewohnheit = Wenn X, Dann Y.**
+* Um Gewohnheiten zu bilden, brauchst du ein einheitliches "Wann" und ein einfaches "Dann". Verfolge deinen Fortschritt für ~66 Tage. Eine Gewohnheit nach der anderen.
+* Die körperliche Gesundheit beeinflusst die psychische Gesundheit und umgekehrt. Hardware beeinflusst Software, Software beeinflusst Hardware.
+* **9 Gewohnheiten für deine mentale** Gesundheit (Software & Hardware): Meditation, Journaling, Schlaf, Bewegung, Essen, mit Freunden reden, neue Freunde finden, Lernen, Tugenden üben.
+
+---
