@@ -6,7 +6,7 @@
 3. **[Der Sinn der Schmerzen, die Funktion der Gefühle](#toc_2)** (Theorie)
 4. **[Das Einmaleins der Gewohnheiten](#toc_3)** (Theorie + Praxis)
 5. **[9 Evidenzbasierte Gewohnheiten für die psychische Gesundheit](#toc_4)** (💥**der tatsächlich nützliche Teil**💥)
-6. **[Kurz und Knapp](#toc_18)** (Zusammenfassung von allem oben)
+6. **[Kurz und Knapp](#toc_18)** (Zusammenfassung von allem darüber)
 7. **[Ich & Mein Wolf](#toc_19)** (Geschichte)
 8. **[Zusätzliche Ressourcen](#toc_20)** (praktisch)
 
@@ -38,7 +38,7 @@ Also suchte ich nach Wegen, meine Angst zum Schweigen zu bringen.
 
 Es hat funktioniert! Ich habe willkürliche Beziehungen und risikoreichen Sex benutzt, um die Geräusche meines schreienden Gehirns zu übertönen. Und schließlich, da ich meiner Angst überhaupt keine Aufmerksamkeit mehr schenkte..... bin ich direkt in einige missbräuchliche und gefährliche Situationen geraten.
 
-(FUN FACT: 1994 fanden Neurowissenschaftler [eine Frau, bei der die beiden Amygdalae zerstört waren](https://en.wikipedia.org/wiki/S.M._(Patient)). Sie war die Frau ohne Angst. Gar keine Ängste. Überhaupt keine Sorgen. Doch deshalb wurde sie immer wieder schikaniert, überfallen und fast ermordet.)
+(FUN FACT: 1994 fanden Neurowissenschaftler [eine Frau, bei der die beiden Amygdalae zerstört waren](https://en.wikipedia.org/wiki/S.M._(patient)). Sie war die Frau ohne Angst. Gar keine Ängste. Überhaupt keine Sorgen. Doch deshalb wurde sie immer wieder schikaniert, überfallen und fast ermordet.)
 
 Glücklicherweise hatten meine Freunde Angst *für* mich, als ich selbst zu viel Angst davor hatte, meine Ängste zuzulassen. (Das Einzige, was ich fürchten muss, ist die Angst selbst, richtig?) Meine Kumpels halfen mir, zu erkennen, dass meine Situation *missbräuchlich* war, und befreiten mich daraus.
 
@@ -58,7 +58,7 @@ Es hat mich jedoch dazu inspiriert, *endlich* eine Psychotherapie auszuprobieren
 
 Kognitive Verhaltenstherapie (CBT) hat mir sehr geholfen, aber ich habe schnell ein Plateau erreicht. Mein Problem war, dass ich CBT als *Waffe* gegen meine Angst benutzte. Ich betrachtete die Angst immer noch als meinen *Feind*.
 
-Als nächstes versuchte ich eine auf [Achtsamkeit](https://en.wikipedia.org/wiki/Mindfulness) basierende Therapie - namentlich die [Akzeptanz- und Commitmenttherapie](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) - welche empfiehlt, *nicht* deine Gedanken zu bekämpfen, sondern deine Gefühle einfach vorbeiziehen zu lassen. ( Eine Metapher die mir gesagt wurde: Angst ist wie Treibsand - je mehr man sich wehrt, desto schneller sinkt man. Deshalb: nicht kämpfen.)
+Als nächstes versuchte ich eine auf [Achtsamkeit](https://en.wikipedia.org/wiki/Mindfulness) basierende Therapie - namentlich die [Akzeptanz- und Commitmenttherapie](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) - welche empfiehlt, *nicht* deine Gedanken zu bekämpfen, sondern deine Gefühle einfach vorbeiziehen zu lassen. (Eine Metapher die mir gesagt wurde: Angst ist wie Treibsand - je mehr man sich wehrt, desto schneller versinkt man. Deshalb: nicht kämpfen.)
 
 Wieder benutzte ich Achtsamkeit als einen weiteren Weg, um meine Angst zu *ignorieren*. Die Angst war *immer noch* mein Feind.
 
@@ -66,7 +66,7 @@ Ich brauchte ein *Jahrzehnt*, um es endlich herauszufinden, aber Angst ist --
 
 Warte, mein Wolf will etwas sagen:
 
-> 🐺 Nicky, CBT und Achtsamkeit haben *Millionen* von Menschen geholfen und werden durch *Hunderte* von Studien unterstützt. Wer sind *wir*, dass wir auf all das scheißen, was *Menschenleben* retten kann?!*
+> 🐺 Nicky, CBT und Achtsamkeit haben *Millionen* von Menschen geholfen und werden durch *Hunderte* von Studien unterstützt. Wer sind *wir*, dass wir auf all das scheißen, was *Menschenleben* retten kann?!
 
 Danke, Wolf! Das ist ein sehr gutes Anliegen, das du angesprochen hast.
 
@@ -98,14 +98,14 @@ Allerdings willst du auch, dass eine Alarmanlage ausgelöst wird, *bevor* der Sc
 
 Schaden an was? An deinen grundlegenden menschlichen Bedürfnissen:
 
-1. **Physikalische Bedürfnisse** - Überleben, Gesundheit, Sicherheit
+1. **Physische Bedürfnisse** - Überleben, Gesundheit, Sicherheit
    (Bei Bedrohung: 🐺 "Wir sind in Gefahr!")
 2. **Soziale Bedürfnisse** - Freunde, Familie, Geliebte
    (Bei Bedrohung: 🐺 "Niemand mag uns!")
 3. **"Eine bessere Person werden" Bedürfnisse** - Lernen, Charakterwachstum, Gutes für andere tun
    (Bei Bedrohung: 🐺 "Wir sind ein schlechter Mensch!")
 
-(Diese Liste der Bedürfnisse ist <span style="text-decoration:line-through">etwas, das ich mir aus meinem Hintern gezogen habe</span> eine komprimierte Version von [Maslows Hierarchie](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Selbstbestimmungstheorie [pdf]]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
+(Diese Liste der Bedürfnisse ist <span style="text-decoration:line-through">etwas, das ich mir aus meinem Hintern gezogen habe</span> eine komprimierte Version von [Maslows Hierarchie](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Selbstbestimmungstheorie [pdf]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
 
 Hier ist meine Vermutung. Es ist nichts Originelles, hunderte haben so etwas schon einmal gesagt, aber es hat immer noch ewig gedauert, bis ich gelernt habe:
 
@@ -138,7 +138,7 @@ Aus diesem Grund behaupte ich: "Angst ist kein Feind, sie ist ein Freund." Doch 
 
 **🐺 ANGST IST EIN WACHHUND FÜR DEINE BEDÜRFNISSE. 🐺**
 
-Wenn er "niemand mag uns" kläfft, versucht er (wie schlecht auch immer), dein Bedürfnis nach Zugehörigkeit zu schützen. Wenn er "wir sind schlechte Menschen" kläfft, versucht er (sehr schlecht), Ihr Bedürfnis nach persönlichem Wachstum zu beschützen.
+Wenn er "niemand mag uns" kläfft, versucht er (wie schlecht auch immer), dein Bedürfnis nach Zugehörigkeit zu schützen. Wenn er "wir sind schlechte Menschen" kläfft, versucht er (sehr schlecht), dein Bedürfnis nach persönlichem Wachstum zu beschützen.
 
 (Die Idee eines Subagenten in deinem Kopf ist nicht so verrückt, wie es klingt - dieser Gedanke taucht unabhängig voneinander in mehreren Bereichen auf: ["System 1 und System 2"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) in der Verhaltensökonomie, ["Der Elefant & Der Reiter"](https://en.wikipedia.org/wiki/The_Righteous_Mind) in der Sozialpsychologie, ["Die Gesellschaft des Geistes"](https://en.wikipedia.org/wiki/Society_of_Mind) in der Erkenntnisforschung, etc.)
 
@@ -171,9 +171,9 @@ Hier ist eine kurze Zusammenfassung der wissenschaftlichen Erkenntnisse zur Entw
    Beispiel: Wenn du versuchst, dich gesünder zu ernähren, sag nicht einfach "Ich werde mehr Obst essen". Nimm dir eine *bestimmte Zeit und/oder einen bestimmten Ort* vor, z. B. "nach dem Mittagessen zu Hause werde ich ein Stück Obst essen". (In der Psychologie auch bekannt als [Implementierungsabsicht. [pdf]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf))
 
 3. **Um eine Gewohnheit aufzubauen, habe ein einfaches Dann.**
-   Beispiel: Wenn du neu in der Meditation bist, beginne *nicht* mit "Meditiere 30 Minuten pro Tag". Beginne mit "Meditiere 2 Minuten am Tag". Sobald 2 Minuten zur Gewohnheit werden, *dann* kannst du sie erhöhen.
+   Beispiel: Wenn du neu in der Meditation bist, beginne *nicht* mit "Meditiere 30 Minuten pro Tag". Beginne mit "Meditiere 2 Minuten am Tag". Sobald 2 Minuten zur Gewohnheit werden, *dann* kannst du es erhöhen.
 
-4. **Um eine Gewohnheit zu brechen, ändere das Wann oder Dann:**.
+4. **Um eine Gewohnheit zu brechen, ändere das Wann oder Dann:**
    Beispiel: Um mich davon abzuhalten, Dinge aufzuschieben, benutze ich Apps, um verlockende Websites zu blockieren. (Odysseus hat sich selbst am Mast festgebunden, um den Gesang der Sirenen zu widerstehen)
 
 5. **Verfolge deinen Fortschritt.**
@@ -248,7 +248,7 @@ Empfehlenswert: [F.lux](https://justgetflux.com/). Das ist eine App, welche aben
 
 Geh joggen. Geh wandern. Spiel Frisbee. Schon eine halbe Stunde moderate Bewegung pro Tag reicht aus, um deiner körperlichen *und geistigen* Gesundheit einen enormen Vorteil zu verschaffen. [Eine aktuelle Meta-Analyse](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) zeigt, dass Bewegung Depressionen *so sehr* reduziert wie eine Psychotherapie oder Medikamente!
 
-**Wenn→Dann Plan Beispiel:** *"Nachdem ich abends nach Hause komme, werde ich einen 10-minütigen Spaziergang machen. "* (Denke daran: Du kannst die Dauer/Intensität einer Gewohnheit später immer noch erhöhen).
+**Wenn→Dann Plan Beispiel:** *"Nachdem ich abends nach Hause komme, werde ich einen 10-minütigen Spaziergang machen."* (Denke daran: Du kannst die Dauer/Intensität einer Gewohnheit später immer noch erhöhen).
 
 #### 🍆 Iss etwas:
 
@@ -409,7 +409,7 @@ Weitere Tipps zur psychischen Gesundheit gibt es hier: [Mental Health Foundation
 
 [Feeling Good](https://www.indiebound.org/book/9780380810338), das klassische Buch aus dem Jahr 1980, das CBT populär machte.
 [Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), ein Buch von 1946, geschrieben von einem Überlebenden des Holocaust & Psychotherapeuten.
-[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), eine 2-minütige Animation. 
+[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), eine 2-minütige Animation.
 
 ・・・
 
