@@ -348,6 +348,6 @@ Gutes Argument! Lass uns das Gedächtnis des Lesers mit einer Zusammenfassung au
 * **Gewohnheit = Wenn X, Dann Y.**
 * Um Gewohnheiten zu bilden, brauchst du ein einheitliches "Wann" und ein einfaches "Dann". Verfolge deinen Fortschritt für ~66 Tage. Eine Gewohnheit nach der anderen.
 * Die körperliche Gesundheit beeinflusst die psychische Gesundheit und umgekehrt. Hardware beeinflusst Software, Software beeinflusst Hardware.
-* **9 Gewohnheiten für deine mentale** Gesundheit (Software & Hardware): Meditation, Journaling, Schlaf, Bewegung, Essen, mit Freunden reden, neue Freunde finden, Lernen, Tugenden üben.
+* **9 Gewohnheiten für deine mentale Gesundheit (Software & Hardware):** Meditation, Journaling, Schlaf, Bewegung, Essen, mit Freunden reden, neue Freunde finden, Lernen, Tugenden üben.
 
 ---
