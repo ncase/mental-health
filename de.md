@@ -32,7 +32,7 @@ Ich erinnere mich an meine erste Panikattacke. Damals war ich gerade in eine neu
 >
 > 🐺 Warte, wieso schlägt unser Herz so sehr? Warum können wir nicht richtig atmen?! Gibt es nicht Herzinfarkte in unserer Familiengeschichte?!?!?! Oh mein Gott, ist das das Ende?!?!?!?!?!
 >
-> 🐺 AAAAAAAHHHHHHHHHHH
+> 🐺 AAAAAHHHHH
 
 In 4 Gedankenschritten hatte mich ein nicht erscheinender Bus zu 100% *überzeugt*, dass ich sterben werde.
 
@@ -409,7 +409,7 @@ Aber natürlich! Irgendwelche letzten Worte?
 
 Ja?
 
-> 🐺 AAAAAAAHHHHHHHHHHH
+> 🐺 AAAAAHHHHH
 
 ---
 
