@@ -1,3 +1,13 @@
+**Wenn du das Gefühl hast, dass du dich selbst verletzen könntest, rufe bitte eine Krisenhotline an. Sie sind kostenlos, vertraulich und 24/7 verfügbar:**
+
+**US:** [Nationale Lebenslinie zur Selbstmordprävention](https://suicidepreventionlifeline.org) - 1-800-273-8255    
+**US:** [Das Trevor Projekt (für LGBTQ Jugendliche)](https://www.thetrevorproject.org) - 1-866-488-7386    
+**UK:** [Samariter](https://www.samaritans.org) - 116 123    
+Für alle anderen Länder gilt: [siehe Wikipedia-Liste](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines).
+
+Für Ratschläge zur psychischen Gesundheit aus offiziellen Quellen und nicht von einer willkürlichen Person aus dem Internet wie mir, schau dir diese Listen der [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & des [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/) an.
+
+<div style="text-align:center">・・・</div>
 
 *Dieser Artikel ist eine Mischung aus meiner persönlichen Erfahrung, wissenschaftlichen Erkenntnissen über die psychische Gesundheit und praktischen Tipps. Die Gesamtlesedauer beträgt 22 Minuten, aber du kannst auch einfach zu den praktischen Tipps springen:*
 
