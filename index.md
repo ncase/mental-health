@@ -20,6 +20,8 @@ For mental health advice from official sources, rather than a random internet pe
 7. **[Me & My Wolf](#toc_19)** (story)
 8. **[Extra Resources](#toc_20)** (practical)
 
+*Fan-translations: [Deutsch](de.html)・[(make your own?)](https://github.com/ncase/mental-health#how-to-translate)*
+
 ---
 
 # An Old Friend
@@ -394,7 +396,7 @@ And the more my battered shelter dog and I collaborated on the game, the more we
 
 Alright, I think I'll let my friend have the final say. Wolf?
 
-> 🐺 Okay this article is *still* too long. It's 4000+ words! Or maybe it's not long *enough*, you didn't even cover other therapies like psychodynamic or humanist or logotherapy, let alone the Dodo Bird controversy: [recent meta-analyses show that all the main psychotherapies are *equivalent*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), with CBT maybe *sliiiiightly* better in the short-run! Speaking of which, what about the infamous meta-analysis that shows [psychiatric medication may be up to 75% placebo [pdf]](http://www.academia.edu/download/32556648/KirschandSapirstein1998.pdf)? Heck, what with [the replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), how do we know *anything* in this 4000+ word monster is scientifically accurate?! Also we're writing this on the 15th, and you promised the game to come out on the 17th, so please shut up and stop writing.
+> 🐺 Okay this article is *still* too long. It's 4000+ words! Or maybe it's not long *enough*, you didn't even cover other therapies like psychodynamic or humanist or logotherapy, let alone the Dodo Bird controversy: [recent meta-analyses show that all the main psychotherapies are *equivalent*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), with CBT maybe *sliiiiightly* better in the short-run! Speaking of which, what about the infamous meta-analysis that shows [psychiatric medication may be up to 75% placebo](https://psycnet.apa.org/record/1999-11094-001)? Heck, what with [the replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), how do we know *anything* in this 4000+ word monster is scientifically accurate?! Also we're writing this on the 15th, and you promised the game to come out on the 17th, so please shut up and stop writing.
 
 Fair enough! It's good in science to be skeptical, though I'd like to say: even if all therapies have been proven equivalent, they've been proven equivalently *good*, and much better than lack of therapy (self-help or professional). And even if meds are only 25% better than placebo, being 25% better at saving lives is still a *lot*. Also, science is a process of learning from mistakes, and gratefully, scientists *are* learning from the replication crisis.
 
@@ -423,8 +425,6 @@ More mental health tips from: [Mental Health Foundation](https://www.mentalhealt
 ・・・
 
 This essay is the "companion piece" for my interactive story/game, [Adventures With Anxiety](https://ncase.me/anxiety). If you'd like to help me make more free, educational words+games, you can throw coins at me [on Patreon](https://www.patreon.com/ncase)!
-
-There's no translations of this essay yet. If you'd like to help, check out [the Github page!](https://github.com/ncase/mental-health#how-to-translate)
 
 Huge thanks to these folks for gifting feedback on this essay: Glen Chiacchieri, Lexi Lockwell, Spacie. Any problematic words remaining are my own.
 
