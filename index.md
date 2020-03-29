@@ -11,14 +11,14 @@ For mental health advice from official sources, rather than a random internet pe
 
 *本文融合了個人故事，心理健康科學和實用技巧，閱讀整篇文章需要22分鐘左右。您也可以跳到一些實用技巧：*
 
-1. **[老朋友](#toc_0)** (story)
-2. **[我試過的療法](#toc_1)** (story + theory)
-3. **[T痛苦的目的，感覺的功用](#toc_2)** (theory)
-4. **[習慣一百零一條](#toc_3)** (theory + practical)
-5. **[9 個循證實踐的心理健康習慣](#toc_4)** (💥**the actually useful part**💥)
-6. **[文長，慎入](#toc_18)** (summary of everything above)
-7. **[我與我的狼](#toc_19)** (story)
-8. **[其他資源toc_20)** (practical)
+1. **[老朋友](#toc_0)** (故事)
+2. **[我試過的療法](#toc_1)** (故事 + 理論)
+3. **[T痛苦的目的，感覺的功用](#toc_2)** (理論)
+4. **[習慣一百零一條](#toc_3)** (理論 + 技巧)
+5. **[9 個循證實踐的心理健康習慣](#toc_4)** (💥**真正實用的段落**💥)
+6. **[文長，慎入](#toc_18)** (上述段落的摘要)
+7. **[我與我的狼](#toc_19)** (故事)
+8. **[其他資源](#toc_20)** (技巧)
 
 *翻譯: [Deutsch](de.html)・[(想貢獻翻譯嗎？)](https://github.com/ncase/mental-health#how-to-translate)*
 
