@@ -1,15 +1,10 @@
-**If you feel like you may harm yourself, please, please call a crisis hotline. They're free, confidential, and 24/7:**
+**如果你覺得想要傷害自己，請撥打衛生福利部安心專線（0800-788-995，請幫幫救救我）24 小時免費心理諮詢服務，或撥打生命線 1995 及張老師 1980。**
 
-**US:** [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org) – 1-800-273-8255    
-**US:** [The Trevor Project (for LGBTQ youth)](https://www.thetrevorproject.org) – 1-866-488-7386    
-**UK:** [Samaritans](https://www.samaritans.org) – 116 123    
-For all other countries, [see Wikipedia's list](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines).
-
-For mental health advice from official sources, rather than a random internet person like me, check out these lists from the [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/).
+如果想從官方來源獲得建議，而不是像我這樣的隨機網路人士，請參考[衛福部心理健康專區](https://www.mohw.gov.tw/cp-88-212-1-22.html)。
 
 <div style="text-align:center">・・・</div>
 
-*本文融合了個人故事，心理健康科學和實用技巧，閱讀整篇文章需要22分鐘左右。您也可以跳到一些實用技巧：*
+*本文融合了個人故事，心理健康科學和實用技巧，閱讀整篇文章需要 22 分鐘左右。你也可以跳到一些實用技巧：*
 
 1. **[老朋友](#toc_0)** (故事)
 2. **[我試過的療法](#toc_1)** (故事 + 理論)
