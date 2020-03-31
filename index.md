@@ -9,420 +9,426 @@ For mental health advice from official sources, rather than a random internet pe
 
 <div style="text-align:center">・・・</div>
 
-*本文融合了個人故事，心理健康科學和實用技巧，閱讀整篇文章需要22分鐘左右。您也可以跳到一些實用技巧：*
+*This article is a mix of personal story, the science of mental health, and practical tips. It's a 22-minute read in full, but you can just skip to the practical tips:*
 
-1. **[老朋友](#toc_0)** (故事)
-2. **[我試過的療法](#toc_1)** (故事 + 理論)
-3. **[T痛苦的目的，感覺的功用](#toc_2)** (理論)
-4. **[習慣一百零一條](#toc_3)** (理論 + 技巧)
-5. **[9 個循證實踐的心理健康習慣](#toc_4)** (💥**真正實用的段落**💥)
-6. **[文長，慎入](#toc_18)** (上述段落的摘要)
-7. **[我與我的狼](#toc_19)** (故事)
-8. **[其他資源](#toc_20)** (技巧)
+1. **[An Old Friend](#toc_0)** (story)
+2. **[Therapies I Tried](#toc_1)** (story + theory)
+3. **[The Purpose of Pain, the Function of Feelings](#toc_2)** (theory)
+4. **[Habits 101](#toc_3)** (theory + practical)
+5. **[9 Evidence-Based Mental Health Habits](#toc_4)** (💥**the actually useful part**💥)
+6. **[TL;DR](#toc_18)** (summary of everything above)
+7. **[Me & My Wolf](#toc_19)** (story)
+8. **[Extra Resources](#toc_20)** (practical)
 
-*翻譯: [Deutsch](de.html)・[(想貢獻翻譯嗎？)](https://github.com/ncase/mental-health#how-to-translate)*
-
----
-
-# 老朋友
-
-我記得第一次恐慌症發作是什麼樣子。當時我在公車站。我才剛搬到一座新城市，然後公車一直不來。於是我腦中的小狼開口說：
-
-> 🐺 我們人生地不熟的，而且我們居然連這裡的公車時刻都沒搞懂？
->
-> 🐺 那看來我們交不到朋友了！連安全回家都辦不到！或連買到生存必需品都不行！
->
-> 🐺 等等，為什麼我們心跳這麼快？為什麼我們呼吸困難？！我們家族不是沒有心臟病史嗎？！天啊，這是心臟病嗎？！
->
-> 🐺 啊啊啊啊
-
-短短閃過 4 個念頭，一直沒出現的公車就讓我 100% *確信*我會死掉。
-
-所以，我始終不相信人家說的「相信你的直覺」，或是「你的感覺是合理的。」不然你想像一下這個情境：
-
-> 朋友對你說：我覺得自己毫無價值，覺得自己對每個人都造成負擔，覺得自己內心深處早就壞得無藥可救了，我是個邪惡的人。
-
-> 你對朋友說：你的感覺是合理的！:D
-
-所以，我反而比較相信 *其他* 陳腔濫調：「情緒是不理性的。」「該恐懼的是恐懼本身。」「別擔心，要開心！」
-
-總之，我有在尋找方法關閉我的恐懼。
-
-而我找到了！我四處亂搭訕，用有風險的性愛，壓制我滿腦子的尖叫聲。終於，我不會再注意到我的任何恐懼了... 我直接走進不善、危險的境地。
-
-（小知識：1994 年，神經科學家發現了 [一位兩個杏仁核都受損的女人](https://en.wikipedia.org/wiki/S.M._(patient))。她是一個沒有恐懼的女人。不會焦慮，也從不擔憂。所以她才會不斷遭到迫害、施暴，甚至幾乎遭到謀殺好幾次。）
-
-謝天謝地，在我害怕到無法讓自己足夠害怕的時候，我的朋友都*為*我擔心著。（該恐懼的就是恐懼本身，沒錯吧？）我的夥伴們幫助我了解到我那時的狀況*是*不善的，也把我拉了出來。
-
-幾個月過後，我聽到了一位老朋友熟悉的聲音：
-
-> 🐺 啊啊啊啊
+*Fan-translations: [Deutsch](de.html)・[(make your own?)](https://github.com/ncase/mental-health#how-to-translate)*
 
 ---
 
-# 我試過的療法
+# An Old Friend
 
-如果這是一部電影，那劇情該演到我察覺恐懼的價值的時候了。
+I remember my first panic attack. I was at the bus stop. I'd just moved to a new city, and the bus never showed up. So the little wolf in my brain said to me:
 
-但沒有。我什麼都沒學到。
+> 🐺 We're in a new place, and we can't even figure out how busses here work?
+> 
+> 🐺 That means we won't be able to make friends! Or get home safely! Or buy things we need to survive!
+> 
+> 🐺 Wait, why is our heart pounding? Why can't we breathe?! Aren't heart attacks in our family medical history?!?! Oh my god is this it?!?!?!
+> 
+> 🐺 AAAAAHHHHH
 
-不過，我也 *終於* 鼓起勇氣去嘗試心理治療了。我首先試了 [認知行為療法](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT)，這種療法 [透過綜合分析顯示](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829)，效果不輸給憂鬱症和焦慮症藥物，甚至更好。這種療法的做法是「挑戰你的想法」，指出你的恐懼中所有不理性的「認知扭曲」。（🤓 其實就是講一堆 *大道理* ...）
+In 4 mental steps, a no-show bus had me 100% *convinced* I was going to die.
 
-CBT 幫了我很多，但我很快又撞到一堵高牆了。我的問題是我把 CBT 當成 *武器* 來對付恐懼。我依然把恐懼當成 *敵人* 。
+So, that's why I never trusted the saying, "trust your gut." Or, "your feelings are valid." Imagine this scene:
 
-再來，我嘗試了 [正念](https://en.wikipedia.org/wiki/Mindfulness) 認知治療法——具體來說叫做 [接納與承諾療法](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy)，這種療法建議你 *不要* 反抗你的思緒，而是讓感受直接通過。（我聽過這個比喻：焦慮就像流沙，你越是掙扎，你下沉得越快。所以，別掙扎。）
+> Friend, to you: I feel worthless. I feel like a burden to everyone. I feel that deep down I'm an irredeemably broken, evil person. 
 
-再一次，我用正念當作另一種 *忽視* 恐懼的方法。恐懼 *仍然* 是我的敵人。
+> You, to friend: Your feelings are valid! :D
 
-我花了 *十年* 才終於明白這件事，但恐懼——
+Thus, I trusted those *other* platitudes: "Emotions are irrational." "The only thing to fear is fear itself." "Don't worry, be happy!"
 
-等一下，我的狼有話要說：
+So, I looked for ways to shut my fear up.
 
-> 🐺 Nicky，CBT 和正念幫助過 *上百萬* 人，而且有 *上百篇* 研究的背書。*我們* 憑什麼把這些拯救 *人命* 的東西噴得一無是處？！
+It worked! I used random hookups and risky sex to drown out the sounds of my brain screaming. Finally, now that I paid no attention at all to my fear... I walked straight into several abusive and dangerous situations.
 
-謝啦，狼狼！你有這種顧慮真的很貼心。
+(FUN FACT: In 1994, neuroscientists found [a woman with both her amygdala destroyed](https://en.wikipedia.org/wiki/S.M._(patient)). She was the woman with no fear. No anxiety. No worries at all. That's why she's been victimized, mugged, and almost murdered several times.)
 
-我要澄清：CBT 和正念 *的確* 幫了不少人。這些療法也幫了 *我* 非常多。
+Thankfully, my friends were afraid *for* me, when I was too afraid to let myself be afraid. (The only thing to fear is fear itself, right?) My pals helped me realize my situation *was* abusive, and got me out of it.
 
-但要是你相信恐懼是必須「克服」或「戰勝」的 *敵人*，或者某種必須「充滿正念」去忍受的煩人東西，那任何技術都無法完整發揮作用。就像我剛說的：我花了十年才終於明白這件事：恐懼並不是敵人。
+A few months later, I heard the familiar voice of an old friend:
 
-恐懼是 *朋友*。
-
----
-
-# 痛苦的目的，感覺的功用
-
-「恐懼是朋友」？！那些幾乎每天遭受恐慌症發作折磨的人，聽到這話一定覺得很白癡，甚至 *道德上感到被冒犯*。那麼像 *我* 這種了解這類痛苦的人，為什麼要說 *這種話*？ 想知道為什麼的話，先想像一下把手放在點開的火爐上。 🔥👋😰
-
-任誰都知道：一定會受傷。
-
-但不是誰都知道：會受傷其實是 *好事*。
-
-痛苦是一種警報系統。它會告訴你情況不太妙，但這 *反而是好事*。
-
-（小知識：有一種很少見的病症，叫做 [先天性痛覺不敏感症](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain)，這種症狀的人感覺不到痛。也因此，有這種病症的成年人，身上都有好幾處傷口、燒燙痕跡和骨折。這些人還算運氣好的，因為其他的都死了。）
-
-然而，你肯定也希望在傷害已經造成 *之前*，警報系統就先響起來。這種警報系統叫做「恐懼」。這是一種會預測 *未來* 的傷害，並嘗試保護你免於傷害的警報。
-
-傷害什麼？傷害你的基本人類需求：
-
-1. **生理需求**——生存、健康、安全 （遭受威脅的時候：🐺「我們有危險了！」）
-2. **社交需求**——朋友、家人、愛人 （遭受威脅的時候：🐺「沒人喜歡我們！」）
-3. **「成為更好的人」的需求**——學習、性格成長、為他人做善事 （遭受威脅的時候：🐺「我們是壞人！」）
-
-（這份需求清單是<span style="text-decoration:line-through">我現學現賣</span>整理出來的濃縮版 [需求層次理論](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [自我決定論 [pdf]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)）
-
-以下是我的推論。這些話不是原創的，很多人都有說過，但我仍然花了一輩子在搞懂：
-
-**🚨 所有感覺都是需求獲得滿足及不滿足時產生的不完美訊號。🚨**
-
-這是一種 [情緒的功能主義觀點](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion)。不過，「訊號」是什麼意思？
-
-想像一間咖啡廳。客人上門的時候，入口的鈴鐺會響起 *叮叮* 的訊號。
-
-同樣地，身心需求如果得到滿足，或者即將得到滿足，我們就會感覺到愉悅的訊號：開心、好預兆、好奇心、讓人「啊哈！」叫起來的時刻、驕傲。
-
-再想像一下咖啡廳的煙霧警報。如果廚房有東西燒起來了，它就會響起 *嗶嗶嗶* 的訊號。
-
-同樣地，如果身心需求*不*滿足，或者遭受威脅，我們就會感覺到痛苦的訊號：恐懼、孤獨、挫折、罪惡感、悲傷。
-
-等一下，這說法不就和「你的感覺是合理的」一樣嗎？錯了，因為 *所有訊號都有可能是假的警報*。所以說，負面感受並非 *全都* 合理，但也不是 *一律* 非理性的。負面感受是線索，雖然不能百分之百當真，但也不能完全拋在腦後。（你的警報會過度敏感嗎？我們下個章節再來談談怎麼靠習慣來「重新校正」訊號）
-
-我這輩子都一直認為心理健康的人不過就是比較擅長「應付」「負面情緒」而已。*但這個概念說得非常不精確。*
-
-**心理健康的人不是在「應付」情緒，而是在與情緒*合作*。訊號出現的時候，他們知道怎麼聽、怎麼行動和怎麼重新校正。**
-
-所以煙霧警報響起的時候：
-
-* 健康的人知道要關上爐火，打開窗戶，然後把蘇打粉撒在油脂上的火。如果警報過度敏感，他們會把警報器擺遠點。
-* 焦慮的人會把水潑在油脂上的火，結果火勢更大。或者把耳朵塞起來當作沒聽見警報，或者抓起槌子把警報器砸了，或者嘗試理性地和警報爭論它有多不準確，或者決定用「正念」忽視它。
-
-就在我搞懂感覺就等於警報和訊號之後，我總算明白許多過去我以為是情緒失靈的狀況，其實是情緒的功能！「負面」情緒會自己啟動，你沒辦法靠自己的意志關閉它，*這是自動煙霧偵測器的好功能。*「正面」情緒從不持久，而是會一直重新自我調整為新的常態標準，*這是智慧型恆溫器的好功能。*
-
-美好的人生並不是盡量減少痛苦和努力放大愉悅。這就像一家咖啡廳打算把警報器調成最小聲，然後把入口鈴鐺調到最大聲一樣。感覺 *不是* 終點，感覺是 *途徑*，讓你通往終點：令人滿意的人生。
-
-所以我才說「恐懼不是敵人，而是朋友」。但恐懼是什麼樣的朋友？它是「人類最忠心的朋友」那一種。有句話說：
-
-**🐺 恐懼是需求的看門狗。🐺**
-
-要是牠吠叫「沒有人喜歡我們！」，那牠是在試著保護你的歸屬感需求（雖然方法有點糟）。要是牠吠叫「我們是壞人！」，那牠是在試著保護你的個人成長需求（雖然方法糟透了）。
-
-（腦中的次級代理人這個概念可不是什麼天外飛來一筆的說法，這種說法在多個不同領域都出現過，比方：行為經濟學的 [「系統 1 和系統 2」](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)，社會心理學的 [「大象與騎士」](https://en.wikipedia.org/wiki/The_Righteous_Mind)，認知科學的 [「心智社會」](https://en.wikipedia.org/wiki/Society_of_Mind) 等）
-
-不過，有可能你的狗狗超級過動，看到陰影就會叫。這不是狗的錯。也許狗狗過去常常亂吠，或者被無視，但牠是真心想幫助你的！這是牠的演化功能。
-
-牠會叫，是因為牠是一隻憔悴的收容所狗狗，牠需要你幫牠療傷。
-
-很遺憾，許多人聽到這隻狗狗吵鬧的第一反應，包括我在內，都是毒打一頓。但是你不能用打的把狗打乖，你這樣只會讓牠嚇破膽。（備註：[同樣的道理，也適用於現實的狗狗 [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf)。）
-
-那麼...該 *怎麼* 訓練狗才好？
+> 🐺 AAAAAHHHHH
 
 ---
 
-# 習慣一百零一條
+# Therapies I Tried
 
-訓練狗狗第一守則：不可以打狗。不要用恐懼去對抗恐懼。
+If this was a movie, that should've been the point I realized the value of fear.
 
-那該怎麼辦？難道真的要去買個訓狗用的響片，用操作制約來訓練自己的心智嗎？
+Nope. I learnt nothing.
 
-沒錯...你說對了！好吧，訓狗用響片看個人啦。不過，我們有一個用詞是用在人類對自己的操作制約：
+It did, however, inspire me to *finally* try psychotherapy. I first tried [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT), which [meta-analyses have shown](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) is as good or better than medications for depression & anxiety. The therapy recommends "challenging your thoughts" by pointing out all the irrational "cognitive distortions" in your fears. (🤓 “Well, *Actually*...”)
 
-**習慣**。
+CBT helped me a lot, but I quickly hit a plateau. My problem was I used CBT as a *weapon* against my fear. I still thought of fear as my *enemy*.
 
-以下是習慣怎麼成形的簡短科學摘要，[摘寫自《英國家醫科醫學期刊》[pdf]](https://bjgp.org/content/bjgp/62/605/664.full.pdf)：
+Next, I tried a [mindfulness](https://en.wikipedia.org/wiki/Mindfulness)-based therapy – specifically, [Acceptance & Commitment Therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) – which recommends *not* fighting your thoughts, but just letting your feelings pass by. (Metaphor I was told: anxiety's like quicksand – the more you struggle, the quicker you sink. Therefore: don't struggle.)
 
-1. **習慣就是，發生 X 時，你就做 Y。**
-   X 是「提示事件」，Y 是「慣例行為」。範例：「我只要一沖好澡，我就會剔牙。」
+Again, I used mindfulness as just another way to *ignore* my fear. Fear was *still* my enemy.
 
-2. **如要建立習慣，那就設定一致的時間。**
-   範例：如果你想要吃得健康點，不要光說「我會多吃水果」。給自己設定一個 *特定的時間和/或地點* ，比方「我在家吃完午餐以後，我就要吃一份水果」。（這在心理學裡又稱為 [執行意圖[pdf]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf)。）
+It took me a *decade* to finally figure it out, but fear is––
 
-3. **如要建立習慣，那就設定簡單的漸進行為。**
-   範例：如果你剛開始做冥想，*不要* 設定成「每天冥想 30 分鐘」。要就設定成「每天冥想 2 分鐘」。2 分鐘變成習慣後，*接著* 就可以開始增加時間了。
+Hang on, my wolf wants to say something:
 
-4. **如要 *打破* 習慣，那就改變時間和漸進行為。**
-   範例：為了不再讓自己工作拖拖拉拉，我用應用程式封鎖那些誘人的網站。（奧德修斯則是把自己綁在船桅上，抵抗海妖賽蓮的歌聲。）
+> 🐺 Nicky, CBT and mindfulness have helped *millions* of people, and are backed by *hundreds* of studies. Who are *we* to poop all over what saves peoples' *lives?!*
 
-5. **追蹤你的進度**
-   舉我自己為例：每天我只要成功從固定時間進展到漸進行為，我就會在日曆上畫 ⭕。如果失敗，我就畫 ❌。
+Thanks, wolf! That's a very good concern you've brought up.
 
-6. **「不要」嘗試一次建立超過一項習慣。**
+I want to clarify: CBT and mindfulness *does* help people. They helped *me* immensely.
 
-7. **要讓一項習慣成自然，平均要花 66 天。**
-   耐心點！心智訓練很花時間，但也很值得。
+But no technique will fully work if you believe that fear is an *enemy* to be "overcome" or "conquered". Or an annoying thing to "mindfully" put up with. As I was saying earlier: it took me a decade to finally figure it out, but fear is not an enemy.
 
-等一下，我的看門狗有話要說：
-
-> 🐺 我們已經講半篇的廢話了，但到現在還沒有 *實際* 告訴讀者任何有用的心理健康提示！我們這是在浪費人家的時間！
-
-你真貼心！我會在最上方加上一個連結，讓讀者可以直接跳到「心理健康習慣」的章節。說到這個：
+Fear is a *friend.*
 
 ---
 
-# 9 個循證實踐的心理健康習慣
+# The Purpose of Pain, The Function of Feelings
 
-這份清單可用來幫助你 *馬上* 開始改善心理健康。九個聽起來有點太超過，所以從以下清單挑 *一個* 習慣來做就好。設定一項簡單不過份的「固定時間到漸進行為」計劃，然後追蹤進度 66 天，或者直到習慣成自然為止。然後再回頭，重新挑一個習慣，重複相同步驟。
+"Fear is a friend"?! That sounds stupid – even *morally offensive* – to someone with near-daily panic attacks. So why am *I*, someone who knows this pain, saying something like *that?*
 
-## 讓你更加認識內心那頭狼的習慣
+To understand this, imagine putting your hand on a lit stove.
 
-### 😌 冥想：
+🔥👋😰
 
-講到這裡，再提冥想可就老梗了，但綜合分析顯示冥想 [確實可以改善焦慮和憂鬱症狀](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754)。
+Obviously: it would hurt.
 
-不過，關於冥想，確實還有一件老梗的事不得不提：冥想的目標 *不是*「停止思想」。這是初學者會犯的典型錯誤！冥想的目標是 *審視* 你的內心，像個科學家一樣，不要下批判。要是狼開始嚎叫——反正牠一定會叫——不要用恐懼對付恐懼。好好傾聽。好好看著。
+Less obvious: it's a *good thing* that it would hurt.
 
-雖然我前面也批評過「正念」（不過我批評的是我的錯誤執行），但冥想對我的人生 *確實有* 很大的幫助。
+Pain is an alarm system. It tells you when things are bad, *which is good.*
 
-**「固定時間到漸進行為」計劃範例：** *「早上刷完牙之後，我就要去客廳設定計時器，做 2 分鐘的冥想。」*
+(FUN FACT: There's a rare condition called [congenital insensitivity to pain](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), where people can't feel pain. As a result, adults with the condition have lots of wounds, burns, and broken bones. They're the lucky ones – the rest are dead.)
 
-建議你參考[這部 2 分鐘的冥想解說動畫](https://www.youtube.com/watch?v=rqoxYKtEWEc)。
+However, you'd also want an alarm system to go off *before* harm is done. This alarm system is called "fear". It's an alarm that predicts – and tries to protect you from – *future* harm.
 
-### 📓 寫日記：
+Harm to what? Your fundamental human needs:
 
-這也是老梗了。不過研究顯示，把情緒寫下來可以適度地 [改善心理 *與生理* 健康 [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.518.1710&rep=rep1&type=pdf)。不過，你得寫下情緒，*然後嘗試理解它們*。光是表達情緒，但沒有完成認知上的意義建構，[可能沒有幫助 [pdf]](https://www.researchgate.net/profile/Philip_Ullrich/publication/11212874_Journaling_about_stressful_events_Effects_of_cognitive_processing_and_emotional_expression/links/0fcfd5090027dd0d0a000000.pdf)。
+1. **Physical Needs** – survival, health, safety    
+   (When threatened: 🐺 “We're in danger!”)
+2. **Social Needs** – friends, family, lovers    
+   (When threatened: 🐺 “Nobody likes us!”)
+3. **"Becoming A Better Person" Needs** – learning, character growth, doing good for others   
+   (When threatened: 🐺 “We're a bad person!”)
 
-不知道該怎麼開始透過寫日記來理解情緒嗎？這裡有一則簡單的範本：
+(This list of needs is <span style="text-decoration:line-through">something I pulled out my bum</span> a condensed version of [Maslow's hierarchy](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Self-Determination Theory [pdf]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
 
-*「今天，[發生某件事] 的時候，我有 [某種感覺]，因為這件事似乎滿足/挑戰了我 [某種需求] 的需求。下一次，我要試著 [對這個需求做試驗]。」*
+Here's my conjecture. It's not original, hundreds have said it before, but it still took me forever to learn:
 
-範例：*「今天，我的朋友們大聊特聊的時候，我插不上話。這讓我有不安全感，因為這件事似乎挑戰了我的歸屬感需求。下一次，我要試著滿足我的歸屬感需求，要不嘛試著多說話，要不嘛就練習自在聆聽夥伴說話，既要主動，也要全面接受，不用大聲嚷嚷地證明我的存在。」*
+**🚨 ALL FEELINGS ARE IMPERFECT SIGNALS ABOUT MET & UNMET NEEDS. 🚨**
 
-（就和我之前評論的「挑戰你的想法」一樣，*這個* 就是 CBT 的功效所在。了解 [常見的認知扭曲](https://en.wikipedia.org/wiki/Cognitive_distortion) 以及如何重新建構這些扭曲，*真的* 可以幫助你理解痛苦訊號。只不過千萬不要搬出辯論社那一套來做這件事，因為這種做法，就是靠著對你的恐懼搬出長篇大道理來「贏過」它。你的目標應該是幫助你的恐懼 *成為更好的助力*，幫它為你提供協助。）
+This is the [functionalist view of emotions](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). But, what do I mean by "signal"?
 
-**「固定時間到漸進行為」計劃範例：** *「在我上床睡覺之前，我要花 10 分鐘寫下/畫下我的感覺。」*
+Imagine a cafe. When a customer arrives, the bell above the entrance door gives a *ding* signal.
+
+Likewise, when a body/mind need is met – or is about to – we feel a Pleasure signal: joy, anticipation, curiosity, the "Aha!" moment, pride.
+
+Imagine a cafe's smoke alarm. When something in the kitchen is burning, it gives a *BEEP BEEP BEEP* signal.
+
+Likewise, when a body/mind need is *not* being met – or is being threatened – we feel a Pain signal: fear, loneliness, frustration, guilt, grief.
+
+But wait, isn't this just the same as "your feelings are always valid"? No, because *all signals can have false alarms*. Thus, negative feelings aren't *always* valid, but they aren't *always* irrational either. They're clues – not to be taken as 100% literal truth, but not to be thrown out entirely either. (Have an over-sensitive alarm? We'll see how to "re-calibrate" your signals with Habits, in the next section)
+
+All my life, I thought mentally healthy people were just better at "coping" with "negative" emotions. *The very vocabulary of this idea is wrong.* **The mentally healthy don't "cope" with emotions, they collaborate *with* them. They know how to listen to, act on, and re-calibrate the signals.**
+
+When the smoke alarm goes off:
+
+* A healthy person knows to turn off the stove, open a window, and put baking soda over the grease fire. If the alarm's too sensitive, they'll move it somewhere further.
+* An anxious person throws water over the grease fire and makes it worse. Or plugs their ears to not hear the alarm. Or smashes the alarm with a hammer. Or tries to rationally argue with the alarm about its distortions. Or decides to "mindfully" ignore it.
+
+Once I understood feelings = alarms & signals, I realized a lot of what I thought were emotions' bugs were actually features! "Negative" emotions turn on by themselves and you can't turn them off at will – *this is a good feature for an automatic smoke detector.* "Positive" emotions never last, they always re-adjust themselves to your new normal – *this is a good feature for smart thermostats.*
+
+A good life is not about minimizing Pain and maximizing Pleasure. That's like a cafe whose goal to minimize alarms & maximize entrance-bell-ringing. Feelings are *NOT* the ends, they are the *means* to the ends: a fulfilling life.
+
+So that's why I claim "fear is not an enemy, it's a friend." But what kind of friend is fear? The "Man's [sic] Best Friend" kind. In a sentence:
+
+**🐺 FEAR IS A GUARD DOG FOR YOUR NEEDS. 🐺**
+
+When it yaps “nobody likes us!” it's trying (however badly) to protect your need for belonging. When it yaps “we're bad people!” it's trying (very poorly) to protect your need for personal growth.
+
+(The idea of a sub-agent in your mind isn't as wacky as it sounds – this thought's popped up independently in several fields: ["System 1 and System 2"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) in behavioral economics, ["The Elephant & The Rider"](https://en.wikipedia.org/wiki/The_Righteous_Mind) in social psychology, ["The Society of Mind"](https://en.wikipedia.org/wiki/Society_of_Mind) in cognitive science, etc)
+
+However, maybe you have a hyperactive dog that barks at shadows. It's not the dog's fault. Maybe in the past, it's been abused or neglected. But the dog genuinely wants to help you! That's its literal evolved function!
+
+It yaps because it's a battered shelter dog, and it needs you to help it heal.
+
+Sadly, many people's first response to the loud dog – including mine – was to lash out at it. But you can't beat the meanness out of a dog, or scare the fear out of it. (Note: [this is also true for literal dog-training [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
+
+So... how *do* you train your dog?
+
+---
+
+# Habits 101
+
+To train a dog, first: don't beat the dog. Don't fear fear itself.
+
+So, what then, are you supposed to buy one of those clickers and train your own mind with operant conditioning?
+
+Well... yeah! Okay, dog clicker is optional. But, we have a word for when humans do operant conditioning on themselves:
+
+**Habits.**
+
+Here's a quick summary of the science of forming habits, [paraphrased from the British Journal of General Practice [pdf]](https://bjgp.org/content/bjgp/62/605/664.full.pdf):
+
+1. **Habit = When X, Then Y.**    
+   X is the "cue", Y is the "routine". Example: "when I come out of the shower, then I will floss my teeth."
+   
+2. **To build a habit, have a consistent When.**    
+   Example: if you're trying to eat healthier, don't just say "I'll eat more fruits". Give yourself a *specific time and/or place,* like, "after I have lunch at home I will have a piece of fruit". (Also known in psychology as an [Implementation Intention. [pdf]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf))
+   
+3. **To build a habit, have a simple Then.**    
+   Example: if you're new to meditation, *don't* start with "meditate for 30 minutes a day." Start with "meditate for 2 minutes a day." Once 2 minutes becomes habit, *then* you can increase it. 
+   
+4. **To *break* a habit, change the When or Then:**    
+   Example: to stop myself from procrastinating, I use apps to block tempting websites. (Odysseus tied himself to the mast to resist the sirens' song.)
+   
+5. **Track your progress.**    
+    Personally: for each day I successfully do my When→Then plan, I draw an ⭕ on a calendar. If I fail, I draw an ❌.
+    
+6. **Do NOT try building more than one habit at a time.**    
+
+7. **It takes 66 days (on average) for a habit to become automatic.**    
+   Be patient! Mind-training takes time, but it's worth it.
+
+Hang on, my guard dog wants to say something:
+
+> 🐺 We just spent 1800+ words and we haven't *actually* given the reader any practical mental health tips! We're wasting their time!
+
+That's a good concern! I'll add a link at the top to let readers skip to the Mental Health Habits sections. Speaking of which:
+
+---
+
+# 9 Evidence-Based Mental Health Habits
+
+This list is to help you start improving your mental health *today.* Nine sounds overwhelming, so just pick *one* habit from the list below, make a small, simple When→Then plan, and track your progress for 66 days or until it becomes automatic. Then come back, pick another habit, repeat.
+
+## Habits to get to know your wolf better
+
+### 😌 Meditation:
+
+Yeah it's a cliché at this point, but meditation's been shown in meta-analyses to [improve anxiety & depression](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754).
+
+However, there's one cliché about meditation worth dispelling: the goal is *NOT* "clear your mind". Classic beginner mistake! The goal is to *observe* your mind, like a scientist: non-judgmentally. When the wolf starts howling – and it will – don't fear fear. Just listen. Observe.
+
+Though I was critiquing "mindfulness" earlier (or my mis-implementation of it), meditation actually *is* profoundly helpful to my life.
+
+**Example When→Then plan:** *“After brushing my teeth in the morning, I will go to the living room and set a timer to meditate for 2 minutes.”*
+
+Recommended: [this 2-minute animated intro to meditation](https://www.youtube.com/watch?v=rqoxYKtEWEc).
+
+### 📓 Journaling:
+
+Another cliché, but writing about your emotions has been shown to moderately [improve psychological *and physical* health [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.518.1710&rep=rep1&type=pdf). Though, you have to write about your emotions *and try to understand them*. Expressing emotions without cognitive sense-making [seems to not help [pdf]](https://www.researchgate.net/profile/Philip_Ullrich/publication/11212874_Journaling_about_stressful_events_Effects_of_cognitive_processing_and_emotional_expression/links/0fcfd5090027dd0d0a000000.pdf).
+
+Not sure how to begin journaling to understand your emotions? Here's a simple template:
+
+*"Today when [event], I felt [feeling] because it seemed to fulfill/challenge my need for [need]. Next time, I'll try [experiments around that need]."*
+
+Example: *"Today when my friends all chatted without me, I felt insecure because it seemed to challenge my need for belonging. Next time, I'll try to fulfill my need for belonging either by speaking up more, or practicing being comfortable listening to my pals, actively and wholly, without needing to pipe up to prove my existence."*
+
+(As much as I criticized "challenging your thoughts" earlier, *this* is where CBT shines. Knowing [common cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and how to reframe them *does* help you make sense of the Pain signals. Just don't approach it like Debate Club, where the point of the game is to "win" by Well, Actually-ing your fear. The goal should be to help your fear *be a better helper*. Help it help you.)
+
+**Example When→Then plan:** *“Before going to sleep, I will write/draw about my feelings for 10 minutes.”*
 
 ・・・
 
-別忘了，恐懼是需求的看門狗。如果你聽到牠叫著「我們有危險了！」，但卻沒有 *特定* 動機，那有可能是你的 *一般* 生理需求並未獲得完整滿足。為了讓內心的狗解除疑慮，*你* 可以好好照顧這些需求：
+Remember, fear is a guard dog for your needs. If you hear it barking "we're in danger!" but with no *specific* cause, it's likely your *general* physical needs are not being fully met. To reassure your inner dog, *you* can take care of those needs:
 
-## 用於維護生理需求的習慣：
+## Habits to protect your physical needs:
 
-想像一下，如果你讀到科普雜誌這樣寫：「天啊！原來把電腦硬體弄濕 *會影響軟體的執行效果*！」或者，「天啊！原來一次執行太多高資源耗用量的軟體 *會讓硬體過熱！*」
+Imagine if popsci magazines wrote, "Wow! Getting your computer's hardware wet *can affect how well the software runs*." Or "Wow! Having a lot of intensive software running *can make the hardware hot!*"
 
-這樣你應該能懂，我讀到那些對於生理健康會影響心理健康這件事（以及心理影響生理）表現得很驚訝的文章時，是什麼心情了。
+That's how I feel about articles acting surprised that physical health affects mental health & vice versa.
 
-### 😴 睡眠：
+### 😴 Sleep:
 
-如果天擇決定要讓你整個人生的三分之一陷入無意識，那你最好 *相信* 這當中存在著某種用成本效益分析能夠算出來的巨大優勢。
+If natural selection decided to knock you out unconscious for a third of your life, you'd better *bet* there's a huge benefit to make that cost/benefit analysis work out.
 
-事實上也真的存在。加州大學柏克萊分校人類睡眠科學中心主任 [在他的書中](https://www.indiebound.org/book/9781501144318) 說過，晚上好好睡一覺能夠降低心臟病、癌症、阿茲海默症、憂鬱、焦慮等各種疾病的風險。還有一位童書作家說「[給我他X的去睡覺](https://www.indiebound.org/book/9781617750250)。」
+And it does. As the director of UC Berkeley’s Center for Human Sleep Science explains [in his book](https://www.indiebound.org/book/9781501144318), a good night's sleep reduces your risk for heart disease, cancer, Alzheimer's, depression, anxiety, and more. As a best-selling children's author once said, “[Go The F**k To Sleep](https://www.indiebound.org/book/9781617750250).”
 
-**「固定時間到漸進行為」計劃範例：** *「到晚上 10 點的時候，我就要關掉所有裝置，把它們插上充電器、留在臥房外、丟進垃圾桶，以及每個它們所屬的地方。」*
+**Example When→Then plan:** *“When it's 10pm, I will turn off all my devices, and put them on charger, outside the bedroom, in a trash can, where they belong.”*
 
-建議你考慮 [F.lux](https://justgetflux.com/)。這是一款能在夜間改變螢幕光線的應用程式，因為藍光會干擾睡眠循環。
+Recommended: [F.lux](https://justgetflux.com/). It's an app that changes your screens' lights in evenings, because blue light messes up your sleep cycle.
 
-### 🏃‍♀️ 運動：
+### 🏃‍♀️ Exercise:
 
-跑步、爬山、玩飛盤。每天只要半小時的適度運動，就足以為生理 *和心理* 健康帶來許多好處。[近期一份綜合分析](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) 顯示，運動降低憂鬱症狀的效果跟心理治療或藥物*一樣好*！
+Jog. Hike. Play Frisbee. Just half an hour of moderate exercise a day is enough to give great benefits to your physical *and mental* health. [A recent meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) shows that exercise reduces depression *as much as* than psychotherapy or medication!
 
-**「固定時間到漸進行為」計劃範例：** *「傍晚回家以後，我要去散步 10 分鐘。」*（別忘了，你之後隨時都可以提高習慣的持續時間或強度）
+**Example When→Then plan:** *“After getting home in the evening, I'll go for a 10 minute stroll.”* (Remember: you can always increase duration/intensity of a habit later)
 
-### 🍆 飲食：
+### 🍆 Eat:
 
-腸道菌群會製造體內 90% 的血清素。所以，讓你的微生物吃得開心，它們就會讓你過得開心，懂了嗎？（參考這份 [精神健康基金會的報告](https://www.mentalhealth.org.uk/publications/feeding-minds)）
+Your gut bacteria makes 90% of your body's serotonin. So: you keep your microbes happy, they keep you happy, capiche? (See: this [Mental Health Foundation report](https://www.mentalhealth.org.uk/publications/feeding-minds))
 
-坊間的節食菜單多到數也數不清，但大多數都沒有科學基礎... 而科學則又充滿重複驗證失敗和 p-hacking 出來的結果。個人來說，我推薦 Michael Pollan 的反節食飲食法：[要吃，但別吃太多，以蔬果為主](https://www.indiebound.org/book/9780143114963/Michael-Pollan/Defense-Food)。
+There's a zillion diets out there, but most of them aren't based on science... and the science is full of failed replications and p-hacking. Personally, I go with Michael Pollan's anti-diet diet: [Eat food, not too much, mostly plants](https://www.indiebound.org/book/9780143114963/Michael-Pollan/Defense-Food).
 
-**「固定時間到漸進行為」計劃範例：** *「去採買之前，我要吃一點水果，好讓自己不會太餓，才不會被巧克力口味的洋芋片誘惑。這次要忍住。」*
-
-・・・
-
-我們的生理需求是必須解決的，但我們並不是單純的動物，我們是 *社交型* 動物。所以，如果你的看門狗吠叫「沒有人喜歡我們！」，你可以靠以下的習慣讓牠安靜下來：
-
-## 用於維護社交需求的習慣：
-
-一點都不意外地，高品質的社交關係能夠 [減緩憂鬱和焦慮 [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf)。但「讓人意外地」，它還能 [降低 50% 的早死風險](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline)。（再次強調，你*依然*不必對硬體和軟體互相影響的關係太過驚訝）
-
-### 👯‍♂️ 和朋友聊聊
-
-有一些大家都在講的說法是這樣建議的：
-
-1. 如果 *可行* 的話：真人面對面 > 視訊通話 > 電話 > 簡訊/電子郵件。
-
-2. 和朋友在平常的脈絡 *以外* 碰面。範例：和公司裡的朋友在上班 *以外* 的時間碰面、約室友 *出去* 看場電影。不然的話，你有可能一離職或出遠門就和所有人失聯了。
-
-3. 由於每個人都忙得像蜜蜂一樣，活在名為行事曆的四角形蜂巢裡，所以你要 *經常安排朋友相聚放鬆的行程*。把友誼變成 *習慣*，對你們兩個都好！
-
-此外，多跟夥伴們聊聊你的想法和感受！除了增強情誼之外，我猜和其他人分享感受也和寫日記帶來的心理健康效果一樣，因為說明你的情緒，能讓你了解自己的情緒。
-
-**「固定時間到漸進行為」計劃範例：** *「每個月第一個星期一，我都要和我住在康乃狄克州紐黑文的遠方摯友視訊通話。」* 
-
-### 🎳 交新朋友
-
-選項 1：請朋友介紹朋友給你認識。（比如：你們一起去看電影）
-
-選項 2：到 [Meetup.com](https://www.meetup.com/) 加入課程、義工團體或保齡球聯盟。（這可不是業配文。）我是自由工作者，而且才剛搬到新城市，本來有可能會過得超寂寞，但是 Meetup 讓我快速交到了新朋友！不過也別忘了，在 meetup *之外* 的世界和新朋友見個面吧。
-
-**「固定時間到漸進行為」計劃範例：** *「每週四晚上，我要去參加法文聚會練習我糟糕的法文。」*
+**Example When→Then plan:** *“Before grocery shopping, I'll eat a fruit so I'm not hungry and won't get tempted to buy chocolate-flavored Cheetos. Again.”*
 
 ・・・
 
-最後，我們的生理需求和社交需求都是必須解決的，但我們並不是單純的社交動物，我們是*人*。所以，如果你的狗吠叫「我們有夠爛、有夠邪惡，根本壞掉了！」，你可以靠以下的習慣讓牠安靜下來：
+Our physical needs are essential, but we're not just animals, we're *social* animals. So, if your guard dog barks "nobody likes us!" you can reassure it with these habits:
 
-## 用於維護你「成為更好的人」的需求的習慣：
+## Habits to protect your social needs:
 
-近十年，[「快樂科學」](https://en.wikipedia.org/wiki/Positive_psychology) 都在闡述為何光是快樂是不夠的。
+High-quality social connections, not surprisingly, [reduces depression and anxiety [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf). And "surprisingly", it even [reduces your risk of an early death by 50%](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (Again, it shouldn't *still* be surprising that hardware affects software and software affects hardware)
 
-研究人員如今指出了 [兩種生活安樂的樣態 [pdf]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf)——**享樂 (Hedonia)**，也就是愉悅和趣味，還有 **幸福 (Eudaimonia)**，也就是成就感和滿足。這兩者並非截然相反，但是也有不同之處。想當然耳，[「幸福」是更能夠提升心理和生理健康的 [pdf]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf)。
+### 👯‍♂️ Talk To Friends
 
-所以，要怎麼看人生的意義？這種問題該拿去問哲學家。不過，你 *在* 人生中可以找到 *許多種* 意義，比方當個好朋友、養育孩子、當志工做善事... 你還可以靠以下習慣，將你身為人的完整潛力推到最大：
+Some anecdote-not-data advice:
 
-### 💭 學習
+1. Whenever *possible:* Real-Life Face-To-Face > Videochat > Phone Call > Text/Email. 
+2. Meet with friends *outside* your usual context. Examples: meet a friend from work *outside* work, go with housemates *out* to a movie. Otherwise, you'll probably lose touch after leaving the job or house.
+3. Because everyone's a busy bee who lives in a rectangular beehive called a calendar, *regularly schedule friend-hangouts*. Make friendship a *habit*, for both of you!
 
-[用右腦繪畫](https://www.indiebound.org/book/9781585429202)。[演奏烏克麗麗](https://www.youtube.com/watch?v=H7Kn1olXCfM)。[搞懂量子計算](https://quantum.country/qcvc)。[用法語調情](https://www.indiebound.org/book/9780385348119)。[徒手把蘋果分成兩半](https://www.youtube.com/watch?v=aPNTutAtbSU)。[製作絨毛玩具](https://www.indiebound.org/book/9781454703648)。[學習摩斯密碼](https://epxx.co/morse/koch.html)。[試試到 Meetup.com 和人組團運動](https://www.meetup.com/find/sports-fitness/)。[製作電子合成音樂](https://beepbox.co/)。[學習 Python 程式設計](https://www.dataquest.io/course/python-for-data-science-fundamentals/)。玩玩看遊戲理論的[「探索性解釋」](https://audreyt.github.io/trust-zh-TW/)、[作曲](https://learningmusic.ableton.com)、[傅立葉變換](http://www.jezzamon.com/fourier/index.html)，[還有其他知識](https://explorabl.es/)。[烹飪](https://www.indiebound.org/book/9781476753836)。
+Also, talk about your thoughts & feelings with pals! Besides strengthening the friendship, I suspect sharing your feelings with another person improves your mental health the same way journaling does: explaining your emotions makes you understand your own emotions.
 
-總之挑一件 *事情* 做，每周挪出一天（或每天某個時段）讀本書，或 [刻意練習](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice) 某項技能。
+**Example When→Then plan:** *“Every first Monday of the month, I'll video-call my good friend who's in the distant, faraway land of New Haven, CT.”*
 
-**「固定時間到漸進行為」計劃範例：** *「每個星期天晚上，我都要煮一道新菜色。」*
+### 🎳 Make New Friends
 
-建議你運用間隔重複（「增強型速記卡」）方法來幫助你記住所學，可以參考 [這部 7 分鐘的影片](https://www.youtube.com/watch?v=eVajQPuRmk8) 或 [這篇得讀上 80 分鐘的長文](http://augmentingcognition.com/ltm.html)。
+Option 1: Ask friends to introduce you to their friends. (e.g: you all go to a movie together)
 
-### 😇「這麼做可以建立人格」
+Option 2: Join a class or volunteer group or bowling league on [Meetup.com](https://www.meetup.com/). (They're not paying me to say this.) I work independently and just moved to a new city, so it could've been super lonely, but Meetup helped me make new friends fast! Just remember to also meet your new friends *outside* of the meetup.
 
-班傑明·富蘭克林是史上第一位生活黑客。除了閃電實驗和廢奴抗爭之外，他還試圖努力提升他的道德人格，靠的方法是... 索引卡。[他的自傳裡就有說到](https://www.thesimpledollar.com/ben-franklins-thirteen-virtues-using-one-week-to-change-your-life/)：他隨身帶著一張卡片，上面有 7 欄，每個欄各自代表一周的七天，另外還有 13 列，每個列代表他想要改善的美德。每天結束的時候，他會在當天成功實踐的美德上畫個圓點。他失敗了超多次的。但隨著時間過去，他讓自己本性裡惡劣的特質變得沒那麼惡劣。
-
-我覺得我們也都辦得到。你不一定要用富蘭克林的那種方法。事實上，我建議你採取比「練習謙卑」更具體的方法，想個「固定時間到漸進行為」的計劃，比方說：
-
-**「固定時間到漸進行為」計劃範例：** *「如果我很想在網路上貼一則很憤怒的貼文，在按下『送出』以前我要先等一小時。」*
-
-「去成為你想在世界裡看到的那股改變的力量」之類的老生常談。 
+**Example When→Then plan:** *“Every Thursday evening, I'll go to the French Meetup pour pratiquer mon terrible français.”*
 
 ・・・
 
-認識你的狼。
-生理需求。
-社交需求。
-成為更好的人。
+Finally – our physical and social needs are essential, but we're not just social animals, we're *persons*. So, if your dog barks "we're terrible, evil, broken!", you can reassure it with these habits:
 
-能幫助你同時達成上面 *這一切* 的是：**讓恐懼成為你的朋友。**和你的恐懼建立起健康的合作關係（認識你的狼），就能幫助你更能保護自己（生理需求）、讓你更容易對信任的朋友展現脆弱的一面（社交需求），以及改善你的道德人格（「成為更好的人」）。
+## Habits to protect your "becoming a better person" needs:
 
-等一下，我的朋友有話要說：
+The last decade of ["the science of happiness"](https://en.wikipedia.org/wiki/Positive_psychology) has been all about how happiness is not enough.
 
-> 🐺 吼！我們已經喋喋不休一大堆屁話了！讀者是要怎麼記得住這些啊？！
+Researchers now identify [two kinds of well-being [pdf]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) – **Hedonia**, which is pleasure & fun, and **Eudaimonia**, which is purpose & fulfillment. The two aren't opposed, but they are different. And of course, [eudamonia predicts better psychological & physical health [pdf]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf).
 
-說得對！我們再總結一下，讓讀者恢復記憶吧：
+So, how do you find the meaning of life? Dunno, that's a question for philosophers. However, you can find *many* meaning(s) *in* life, like being a good friend, raising a child, volunteering for a cause... and pushing yourself to your fullest human potential, with habits like:
+
+### 💭 Learning
+
+[Draw on the right side of your brain](https://www.indiebound.org/book/9781585429202). [Play your ukelele](https://www.youtube.com/watch?v=H7Kn1olXCfM). [Understand quantum computing](https://quantum.country/qcvc). [Flirt in French](https://www.indiebound.org/book/9780385348119). [Split apples in half with your bare hands](https://www.youtube.com/watch?v=aPNTutAtbSU). [Make plushies](https://www.indiebound.org/book/9781454703648). [Learn Morse code](https://epxx.co/morse/koch.html). [Try a new team sport on Meetup.com](https://www.meetup.com/find/sports-fitness/). [Make chiptunes](https://beepbox.co/). [Learn Python programming](https://www.dataquest.io/course/python-for-data-science-fundamentals/). Play "explorable explanations" about [game theory](https://ncase.me/trust/), [music composition](https://learningmusic.ableton.com), [fourier transforms](http://www.jezzamon.com/fourier/index.html), [and more](https://explorabl.es/). [Cook](https://www.indiebound.org/book/9781476753836).
+
+Just pick *something* and set aside a day of the week (or hour of the day) to read a book, or [deliberately practice](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice) a skill.
+
+**Example When→Then plan:** *“Every Sunday evening, I'll try cooking a new recipe.”*
+
+Recommended: Spaced Repetition ("flashcards on steroids") to help you remember what you learn. See [this 7-minute video](https://www.youtube.com/watch?v=eVajQPuRmk8) or [this 80-minute long essay](http://augmentingcognition.com/ltm.html).
+
+### 😇 “It Builds Character”
+
+Benjamin Franklin was the first lifehacker. In-between experimenting with lightning and fighting to abolish slavery, he also strived to improve his moral character with the help of... index cards. [As described in his autobiography](https://www.thesimpledollar.com/ben-franklins-thirteen-virtues-using-one-week-to-change-your-life/): he carried a card with 7 columns – one for each day of the week – and 13 rows – one for each Virtue he wanted to work on. At the end of each day, he'd draw a dot for each Virtue he'd successfully practiced that day. He failed a lot. But over time, he got the crooked timbre of his human nature a little less crooked.
+
+I think we all can, too. You don't have to use Franklin's exact method. In fact, I recommend being more specific than "practice Humilty", and have a specific When→Then plan, like:
+
+**Example When→Then plan:** *“When I'm about to post something angry on the internet, I will wait one hour before hitting Send.”*
+
+“Be the change you want to see in the world” etc etc.
+
+・・・
+
+Know your wolf.   
+Physical needs.   
+Social needs.   
+Becoming a better person.
+
+What helps you meet *all* of these at the same time: **making fear your friend.** Building a healthier collaboration with your fear (know the wolf) will help you get better at protecting yourself (physical needs), be more vulnerable with trusted friends (social needs), and let you improve your moral character ("becoming a better person" needs).
+
+Hang on, my friend wants to say something:
+
+> 🐺 Gah! We've blabbered on for 3500+ words! How's a reader supposed to remember any of this?!
+
+Good point! Let's refresh the reader's memory with a summary:
 
 ---
 
-# 文長，慎入
+# TL;DR
 
-* **不要用恐懼對抗恐懼。**
-* 痛苦是保護機制。
-* 恐懼是需求的看門狗。
-* **所有感覺都是需求獲得滿足及不滿足時產生的不完美訊號。**
-* 我們的基本人性需求有：生理需求、社交需求、「成為更好的人」的需求。
-* **心理健康的人不是在「應付」情緒，而是在與情緒 *合作* 。他們會把「負面」情緒當作提示，當作改善生活的建設性批判**
-* 如果你怕看門狗太過動，可別把狗一槍斃了！透過建立習慣來馴服牠吧。
-* **習慣就是：發生 X 時，你就做 Y。**
-* 要建立習慣，先設定一致的「時間」，然後是簡單的「漸進行為」。追蹤你的進度最多 66 天。一次建立一個習慣。
-* 生理健康會影響心理健康，反之亦然。就像硬體會影響軟體，軟體也會影響硬體。
-* **9 個你的個人軟硬體專用的心理健康習慣：** 冥想、寫日記、睡覺、運動、飲食、和朋友聊聊、交新朋友、學習、練習美德。
-
----
-
-# 我與我的狼
-
-如果這是一部電影，我應該會在某個令人震撼的時刻覺醒，伴隨著背景的大爆炸，學會和我的狼成為朋友。這一定會是一則好故事。
-
-只不過，我只能學會在 *嘗試著* 把故事說好的情況下，和狼當朋友。
-
-在我開始設計 *和焦慮一起冒險* 這個遊戲時，我原本預期它會是一則用大量 CBT 和正念課堂包裝起來的故事。結果兩個問題冒了出來：1) 故事感覺有點假。2) 我無法讓焦慮這個角色的對白說得自然。
-
-不過後來我針對問題 #2 想出了一個明顯的解法：寫焦慮這個角色的不該是 *我*，應該是由我的 *焦慮* 來寫才對。
-
-這段奇怪的合作關係於焉開始。
-
-奇怪的副作用發生了：我開始 *喜歡* 我的焦慮。因為只要我的焦慮陷入思考螺旋，比方說：
-
-> 🐺 我們做得出什麼了不起的大事嗎？為人性做出貢獻？所有偉大成就都會像奧西曼德斯 (Ozymandias) 一樣衰敗。愛呢？死亡終究會把愛拆散的。而死亡根本擋都擋不住！我們會死，我們的愛人會死，熱力學第二定律甚至說連 *宇宙* 也會死！生命根本沒意義，死亡根本沒意義，就連意義本身都沒有意——
-
-這時候我會想： 1) 哇靠這想法太驚人了 2) 這根本是 *超棒的* 寫作題材啊！謝啦，狼狼！
-
-而這也解決了問題 #1：故事感覺太勉強的原因，是我從來就沒有幫焦慮這個角色設定真實的動機。它就像幽靈王 (Skeletor) 這類「為邪惡而邪惡」的壞蛋。不過在我向我的焦慮 *問過* 它的動機是什麼時，它告訴我：
-
-> 🐺 我想要你好好的。
-
-因為有了這個核心動機，*和焦慮一起冒險* 基本上就是在寫焦慮本身。不僅如此，我還懂了為什麼我的 CBT 和正念進展停滯不前了：因為我依然把恐懼當成敵人。
-
-除非你能搞懂恐懼其實是（在努力當）你的看門狗，不然你還是在用恐懼對抗恐懼。
-
-在遊戲中，我越是和我那條憔悴的收容所狗狗合作，我們就越能在接下來的人生中緊密配合。我要是聽到牠叫著「大家都討厭我們！」，我就會發現這些話語底下的痛苦訊號，然後我們會嘗試做些試驗來完成未滿足的需求。我們並肩攜手。因為我們是隊友。
-
-好啦，我想我就讓我的朋友來說最後幾句話吧。狼咧？
-
-> 🐺 好，我得說這篇文章 *還是* 太長了啦。你講得滔滔不絕耶！不過也可以說還 *不夠* 長，你都還沒提到心理動力、人本主義或意義治療等等其他療法呢，更別說還有渡渡鳥 (Dodo Bird) 爭議了：[近期的綜合分析指出，所有主流心理治療的效果都 *一樣*](https://www.sciencedirect.com/science/article/pii/S0272735814001184)，不過 CBT 可能在短期內的效果 *稍～微* 好一些些！說到這個，有篇爭議很大的綜合分析說 [精神病藥物可能有高達 75% 是安慰劑](https://psycnet.apa.org/record/1999-11094-001)，這你又怎麼看？見鬼了，[再現性危機](https://en.wikipedia.org/wiki/Replication_crisis) 又怎麼樣呢？我們怎麼會知道這篇長篇大論當中有 *任何內容* 在科學上站得住腳？！還有，我們是在 15 日寫下這篇文章的，而你居然答應讓遊戲在 17 日推出，你最好閉上嘴巴，不要再寫了。
-
-這話公道！科學就是要敢懷疑，不過我會說：就算所有療法都已證明效果一樣，那就證明了它們一樣 *有效*，而也就表示總比不接受療法（自助或找專家）更好。而且就算藥物只有 25% 不只是安慰劑，靠著這提升的 25% 來拯救生命也是 *很大* 的功勞。再說了，科學是一種從錯誤中學習的過程，謝天謝地，科學家 *就是* 從再現性危機當中學習的。
-
-還有，感謝你的建設性批評，還有感謝你保護我追求知識誠實的需求！
-
-> 🐺 不用客氣。噢，還有啊，感謝你始終保持耐心試著理解我...沒有用高風險行為淹沒我，然後還講一堆大道理壓制我。
-
-應該的！最後還想說什麼嗎？
-
-> 🐺 有。只有一件事。
-
-什麼事？
-
-> 🐺 啊啊啊啊
+* **Do not fear fear itself.**
+* Pain is a protector. 
+* Fear is a guard dog for your needs.
+* **All feelings are imperfect signals about met/unmet needs.**
+* Our fundamental human needs are: physical needs, social needs, "becoming a better person" needs.
+* **Healthy people don't "cope" with emotions, they *collaborate* with them. They use "negative" emotions as clues, constructive criticism to improve their lives.**
+* If your fear guard-dog is too hyperactive, don't shoot the dog! Retrain it by forming habits.
+* **Habit = When X, Then Y.** 
+* To form habits, have a consistent "When" and simple "Then". Track your progress for ~66 days. One habit at a time.
+* Physical health affects mental health & vice versa. Hardware affects software, software affects hardware.
+* **9 Mental Health Habits for your software & hardware:** Meditation, Journaling, Sleep, Exercise, Eat, Talk with friends, Make new friends, Learning, Practicing virtues.
 
 ---
 
-# 其他資源：
+# Me & My Wolf
 
-這裡有更多心理健康訣竅：[精神健康基金會](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) 和 [英國國家保健局](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/) [《好心情》](https://www.indiebound.org/book/9780380810338)，這本 1980 年的經典書籍讓 CBT 廣為流傳。
+If this was a movie, I should've learnt to befriend my wolf in a shocking moment of catharsis, with explosions in the background. That would have made a good story.
 
-[《活出意義來》](https://www.indiebound.org/book/9780807014295)，這本 1946 年的書是由一位從納粹大屠殺生還的心理治療師寫的。
+Instead, I only learnt to befriend my wolf *while trying* to make a good story.
 
-[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc)，這是一部 2 分鐘的動畫。
+When I started writing my game *Adventures With Anxiety*, I planned it to be a bunch of CBT & mindfulness lessons wrapped up in a narrative. Two problems: 1) The story felt inauthentic. 2) I couldn't make the Anxiety character's dialogue come out naturally.
+
+But then I realized an obvious solution for Problem #2: *I* shouldn't write the Anxiety character, my *anxiety* should write the Anxiety character.
+
+Thus began a weird collaboration.
+
+Strange side effect: I started *liking* my anxiety. Because now, whenever my anxiety went on a thought-spiral like:
+
+> 🐺 What can we even do that matters in the grand scheme of things? Contribute to humanity? All great works decay like Ozymandias. Love? Death always does it part. And how much death there is! We'll die, our loved ones will die, the 2nd Law of Thermodynamics means even the *universe* will die! LIFE HAS NO MEANING, DEATH HAS NO MEANING, AND EVEN MEANING HAS NO MEANI–
+
+I would think:
+
+1) holy s*** that's terrifying    
+2) this is *incredible* writing material! Thanks, wolf!
+
+This also solved Problem #1: the reason the story felt forced was because I never gave the Anxiety character a real motivation. It was just a Skeletor-like "evil for the sake of being evil" enemy. But when I just *asked* my anxiety what its motivation was, it told me:
+
+> 🐺 I want you to be safe.
+
+And with that core motivation, *Adventures With Anxiety* basically wrote itself. Not only that, I learnt that why CBT & mindfulness plateaued out for me: because I was still thinking of fear as my enemy.
+
+Until you realize fear is (trying to be) your guard-dog, you will still fear fear itself.
+
+And the more my battered shelter dog and I collaborated on the game, the more we collaborated in the rest of our life. I'd hear it bark "they hate us!", I'd see the Pain signal below the mere words, and we'd try an experiment to fulfill the unmet need. Together. As a team.
+
+Alright, I think I'll let my friend have the final say. Wolf?
+
+> 🐺 Okay this article is *still* too long. It's 4000+ words! Or maybe it's not long *enough*, you didn't even cover other therapies like psychodynamic or humanist or logotherapy, let alone the Dodo Bird controversy: [recent meta-analyses show that all the main psychotherapies are *equivalent*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), with CBT maybe *sliiiiightly* better in the short-run! Speaking of which, what about the infamous meta-analysis that shows [psychiatric medication may be up to 75% placebo](https://psycnet.apa.org/record/1999-11094-001)? Heck, what with [the replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), how do we know *anything* in this 4000+ word monster is scientifically accurate?! Also we're writing this on the 15th, and you promised the game to come out on the 17th, so please shut up and stop writing.
+
+Fair enough! It's good in science to be skeptical, though I'd like to say: even if all therapies have been proven equivalent, they've been proven equivalently *good*, and much better than lack of therapy (self-help or professional). And even if meds are only 25% better than placebo, being 25% better at saving lives is still a *lot*. Also, science is a process of learning from mistakes, and gratefully, scientists *are* learning from the replication crisis.
+
+Still, thanks for the constructive criticism, and protecting my need for intellectual honesty!
+
+> 🐺 You're welcome. And, hey, thanks for finally being patient and understanding with me... instead of drowning me out with risky behaviors and "Well, Actually"s.
+
+Of course! Any final words?
+
+> 🐺 Yes. Just one.
+
+Yeah?
+
+> 🐺 AAAAAHHHHH
+
+---
+
+# Extra Resources:
+
+More mental health tips from: [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
+
+[Feeling Good](https://www.indiebound.org/book/9780380810338), the classic 1980 book that popularized CBT.    
+[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), a 1946 book written by a Holocaust survivor & psychotherapist.    
+[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), a 2-minute animation.    
 
 ・・・
 
-這篇文章是我的互動故事遊戲 [和焦慮一起冒險](https://audreyt.github.io/anxiety/) 的「附錄」。如果你想幫助我製作更多免費的教育性文字 + 遊戲，你可以 [到 Patreon](https://www.patreon.com/ncase) 捐款給我！
+This essay is the "companion piece" for my interactive story/game, [Adventures With Anxiety](https://ncase.me/anxiety). If you'd like to help me make more free, educational words+games, you can throw coins at me [on Patreon](https://www.patreon.com/ncase)!
 
-以下這些人對這篇文章提出了回饋，我要致上大大的感謝：Glen Chiacchieri、Lexi Lockwell、Spacie。還有剩下一些會造成困惑的話語，我就留給自己了。
+Huge thanks to these folks for gifting feedback on this essay: Glen Chiacchieri, Lexi Lockwell, Spacie. Any problematic words remaining are my own.
 
-最後，感謝 *你* 的閱讀！不管你是誰：請保持堅定。祝好運。
+Finally, thank *you* for reading! Whoever you are: Stay determined. Good luck.
 
-<3，
+<3,    
 ~ Nicky Case
