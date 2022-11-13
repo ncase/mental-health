@@ -18,21 +18,21 @@ Pour des conseils officiels sur la santé mentale, plutôt qu'une personne rando
 
 *Cet article est un mix d'histoires personelles, de sciences sur la santé mentale, et de conseils pratiques. Ça prend 22 minutes à lire, mais vous pouvez juste aller aux conseils pratiques.*
 
-1. **[Un vieil ami](#toc_8)** (histoire)
-2. **[Les thérapies que j'ai essayées](#toc_1)** (histoire + théorie)
-3. **[Le but de la douleur, et la fonction des sentiments](#toc_2)** (théorie)
+1. **[Un Vieil Ami](#toc_8)** (histoire)
+2. **[Les Thérapies que j'ai Essayées](#toc_1)** (histoire + théorie)
+3. **[Le But de la Douleur, et la Fonction des Sentiments](#toc_2)** (théorie)
 4. **[Habitudes 101](#toc_3)** (théorie + pratique)
-5. **[9 habitudes de santé mentale prouvées](#toc_4)** (💥**La partie vraiment utile**💥)
-6. **[En bref](#toc_18)** (résumé de tout ce qu'il y a au-dessus)
-7. **[Moi et mon loup)(#toc_19)** (histoire)
-8. **[Ressources supplémentaires](#toc_20)** (pratique)
+5. **[9 Habitudes de Santé Mentale Prouvées](#toc_4)** (💥**La partie vraiment utile**💥)
+6. **[En Bref](#toc_18)** (résumé de tout ce qu'il y a au-dessus)
+7. **[Moi et mon Loup)(#toc_19)** (histoire)
+8. **[Ressources Supplémentaires](#toc_20)** (pratique)
 
 
 *Traductions de fans: [Français](fr.html) · [(faire la tienne?)](https://github.com/ncase/mental-health#how-to-translate)*
 
 ---
 
-# Un vieil ami
+# Un Vieil Ami
 
 Je me rappelle de ma première crise de panique. J'étais à l'arrêt de bus. Je venais de déménager dans une nouvelle ville, et le bus n'est jamais arrivé. Alors le petit loup dans ma tête m'a dit :
 
@@ -54,7 +54,7 @@ Donc, voilà pourquoi je n'ai jamais fait confiance à "fait confiance à ton in
 
 > Toi, à ton ami : Tes sentiments sont valables ! :D
 
-Ainsi, j'ai fait confiance à d'autre banalités : "Les émotions sont irrationelles." "La seule chose à craindre est la peur elle-même." "Ne t'inquiète pas, sois heureux!"
+Ainsi, j'ai fait confiance à d'autre banalités : "Les émotions sont irrationnelles." "La seule chose à craindre est la peur elle-même." "Ne t'inquiète pas, sois heureux !"
 
 Donc, j'ai cherché des moyens de faire taire ma peur.
 
@@ -71,13 +71,13 @@ Quelques mois plus tard, j'ai entendu la voix de mon vieil ami :
 
 ---
 
-# Les thérapies que j'ai essayées
+# Les Thérapies que j'ai Essayées
 
 Si c'était un film, ça aurait dû être le moment où je réalise l'importance de la peur.
 
 Sauf que non. Je n'ai rien appris. 
 
-Ça m'a, en revanche, inspiré à *enfin* essayer la psychothérapie. J'ai d'abord essayé la [thérapie cognitivo-comportementale) (TCC ou CBT), que des [métaanalyses ont montré](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) être aussi bonne, voir meilleure que des médicaments contre la dépression et l'anxiété. La thérapie recommande de "défier vos pensées" en pointant toutes les "distortions cognitives" irrationnelles dans vos peurs. (🤓 “Bah, *en fait*...”)
+Ça m'a, en revanche, inspiré à *enfin* essayer la psychothérapie. J'ai d'abord essayé la [thérapie cognitivo-comportementale) (TCC ou CBT), que des [métaanalyses ont montré (en anglais)](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) être aussi bonne, voir meilleure que des médicaments contre la dépression et l'anxiété. La thérapie recommande de "défier vos pensées" en pointant toutes les "distortions cognitives" irrationnelles dans vos peurs. (🤓 “Bah, *en fait*...”)
 
 Cette thérapie m'a beaucoup aidée, mais j'ai rapidement heurté un mur. Mon problème c'est que j'utilisais cette thérapie comme une *arme* contre ma peur. Et je l'ai toujours considérée comme mon *ennemie*.
 
@@ -103,7 +103,7 @@ La peur est une *amie.*
 
 ---
 
-# Le but de la douleur, la fonction des sentiments
+# Le But de la Douleur, la Fonction des Sentiments
 
 "La peur est une amie" ?! Ça a l'air stupide – même *moralement offensant* – pour quelqu'un qui doit gérer ses crises de paniques quotidiennes. Alors pourquoi *moi*, qui connaît cette douleur, est en train de dire quelque chose comme *ça ?*
 
@@ -134,13 +134,13 @@ Dommages à quoi ? À vos besoins fondamentaux en tant qu'humains :
 
 Voici mon hypothèse. Ce n'est pas original, des centaines de personnes l'ont dit avant moi, mais ça m'a quand même pris une éternité pour l'apprendre :
 
-**🚨 TOUS LES SENTIMENTS SONT DES SIGNAUX IMPARFAITS SUR LES BESOINS SATISFAITS ET NON SATISFAITS. 🚨**
+**🚨 TOUS LES SENTIMENTS SONT DES SIGNAUX IMPARFAITS SUR NOS BESOINS SATISFAITS ET NON SATISFAITS. 🚨**
 
 Il s'agit de la [vision fonctionnaliste des émotions (en anglais)](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). Mais qu'est-ce que j'entends par "signal" ?
 
 Imaginez un café. Lorsqu'un client rentre, une clochette au-dessus de l'entrée sonne avec un *ding* comme signal.
 
-De même, lorsque un besoin du corps ou de l'esprit est satisfait – ou est sur le point de l'être – on ressent un signal de bien-être : joie, excitation, curiosité, le moment où l'on fait "Aha!", fierté.
+De même, lorsque un besoin du corps ou de l'esprit est satisfait – ou est sur le point de l'être – on ressent un signal de bien-être : joie, excitation, curiosité, le moment où l'on fait "Aha !", fierté.
 
 Imaginez le détecteur de fumée d'un café. Lorsque quelque chose se met à brûler dans la cuisine, il retentit avec un *BIP BIP BIP* comme signal.
 
@@ -153,7 +153,7 @@ Toute ma vie, j'ai cru que les personnes ayant une bonne santé mentale étaient
 Lorsque le détecteur de fumée se déclenche :
 
 * Une personne saine d'esprit sait éteindre la cuisinière, ouvrir la fenêtre, and mettre du bicarbonate de soude sur le feu de graisse. Si l'alarme est trop forte, elle la placera quelque part plus loin.
-* Une personne anxieuse jettera de l'eau sur le feu de graisse et l'empirera. Ou bouchera ses oreilles pour ne plus entendre l'alarme. Ou frappera l'alarme avec un marteau. Ou tentera de débattre de manière rationnelle avec l'alarme à propos de son disfonctionnement. Ou décidera de manière "consciente" de l'ignorer.
+* Une personne anxieuse jettera de l'eau sur le feu de graisse et l'empirera. Ou se bouchera les oreilles pour ne plus entendre l'alarme. Ou frappera l'alarme avec un marteau. Ou tentera de débattre de manière rationnelle avec l'alarme à propos de son disfonctionnement. Ou décidera de manière "consciente" de l'ignorer.
 
 Une fois que j'ai compris que sentiments = alarmes et signaux, j'ai réalisé que beaucoup de ce que je pensais être des distortions étaient en fait des fonctionnalités ! Les émotions "négatives" s'activent d'elles-mêmes et ne se désactivent pas juste parce que vous le voulez – *c'est une bonne fonctionnalité pour un détecteur de fumée automatique.* Les émotions "positives" ne durent jamais, elles se réajustent d'elles-mêmes jusqu'à ce que vous reveniez à votre vous normal – *c'est une bonne fonctionnalité pour des thermostats intelligents.*
 
@@ -177,69 +177,69 @@ Alors... comment *faire* pour entrainer votre chien ?
 
 ---
 
-# Habits 101
+# Habitudes 101
 
-To train a dog, first: don't beat the dog. Don't fear fear itself.
+Pour entrainer un chien, premièrement : ne battez pas le chien. N'effrayez pas la peur elle-même.
 
-So, what then, are you supposed to buy one of those clickers and train your own mind with operant conditioning?
+Alors, que faire, êtes-vous censés acheter un ce ces clickers et entraîner votre propre esprit avec le conditionnement opérant ?
 
-Well... yeah! Okay, dog clicker is optional. But, we have a word for when humans do operant conditioning on themselves:
+Et bien... oui ! Ok, le clicker pour chien est optionnel. Mais, il existe un mot pour la situation où les humains font du conditionnement opérant sur eux-mêmes :
 
-**Habits.**
+**Les habitudes.**
 
-Here's a quick summary of the science of forming habits, [paraphrased from the British Journal of General Practice [pdf]](https://bjgp.org/content/bjgp/62/605/664.full.pdf):
+Voici un rapide résumé sur la science de la création d'habitudes, [paraphrasé du British Journal of General Practice [pdf en anglais]](https://bjgp.org/content/bjgp/62/605/664.full.pdf) :
 
-1. **Habit = When X, Then Y.**    
-   X is the "cue", Y is the "routine". Example: "when I come out of the shower, then I will floss my teeth."
+1. **Habitude = Lorsque X, Faire Y.**    
+   X est le "signal", Y est la "tâche". Exemple : "lorsque je sors de la douche, je me brosse les dents."
    
-2. **To build a habit, have a consistent When.**    
-   Example: if you're trying to eat healthier, don't just say "I'll eat more fruits". Give yourself a *specific time and/or place,* like, "after I have lunch at home I will have a piece of fruit". (Also known in psychology as an [Implementation Intention. [pdf]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf))
+2. **Pour construire une habitude, ayez un "Lorsque" consistant.**    
+   Exemple : si vous essayez de manger plus sainement, ne dites pas juste "Je vais manger plus de fruits". Donnez-vous un *horaire et/ou lieu spécifique,* comme, "après avoir mangé à la maison, je prendrai un fruit". (Aussi connu en psychologie en tant qu' [Intention de Mise en Œuvre. [pdf en anglais]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf))
    
-3. **To build a habit, have a simple Then.**    
-   Example: if you're new to meditation, *don't* start with "meditate for 30 minutes a day." Start with "meditate for 2 minutes a day." Once 2 minutes becomes habit, *then* you can increase it. 
+3. **Pour construire une habitude, ayez un "Faire" simple.**    
+   Exemple : si vous êtes débutant en méditation, ne commencez *pas* avec "méditez 30 minutes par jour." Commencez avec "méditez 2 minutes par jour." Une fois que les 2 minutes seront devenu une habitude, *alors* vous pourrez augmenter la durée. 
    
-4. **To *break* a habit, change the When or Then:**    
-   Example: to stop myself from procrastinating, I use apps to block tempting websites. (Odysseus tied himself to the mast to resist the sirens' song.)
+4. **Pour *casser* une habitude, changez le Lorsque ou le Faire :**    
+   Exemple : pour arrêter de procrastiner, j'utilise des applications pour bloquer la tentation d'aller sur des sites. (Ulysse s'est attaché au mât de son bateau pour résister au chant des sirènes.)
    
-5. **Track your progress.**    
-    Personally: for each day I successfully do my When→Then plan, I draw an ⭕ on a calendar. If I fail, I draw an ❌.
+5. **Suivez vos progrès.**    
+    Personnellement : chaque jour où je réussis un plan Lorsque→Faire, je dessine un ⭕ sur un calendrier. Si j'échoue, je dessine un ❌.
     
-6. **Do NOT try building more than one habit at a time.**    
+6. **N'essayez PAS de contruire plus d'une habitude à la fois.**    
 
-7. **It takes 66 days (on average) for a habit to become automatic.**    
-   Be patient! Mind-training takes time, but it's worth it.
+7. **Cela prend 66 jours (environ) pour qu'une habitude devienne automatique.**    
+   Soyez patient ! Entrainer son esprit prend du temps, mais ça en vaut la peine.
 
-Hang on, my guard dog wants to say something:
+Attendez, mon chien de garde veut dire quelque chose :
 
-> 🐺 We just spent 1800+ words and we haven't *actually* given the reader any practical mental health tips! We're wasting their time!
+> 🐺 On vient de passer plus de 1800 mots et on n'a pas *vraiment* donné au lecteur un quelconque conseil pour avoir un mental sain ! On perd notre temps !
 
-That's a good concern! I'll add a link at the top to let readers skip to the Mental Health Habits sections. Speaking of which:
+C'est une bonne remarque ! Je vais ajouter un lien tout en haut pour que les lecteurs puissent passer directement à la section des Habituded de Santé Mentales. En parlant de ça :
 
 ---
 
-# 9 Evidence-Based Mental Health Habits
+# 9 Habitudes de Santé Mentale Prouvées
 
-This list is to help you start improving your mental health *today.* Nine sounds overwhelming, so just pick *one* habit from the list below, make a small, simple When→Then plan, and track your progress for 66 days or until it becomes automatic. Then come back, pick another habit, repeat.
+Cette liste est là pour vous aider à améliorer votre santé mentale *dès aujourd'hui.* Neuf peut sembler imposant, alors choisissez juste *une* habitude de la liste ci-dessous, faites un petit, simple plan Lorsque→Faire, et suivez vos progrès sur 66 jours ou jusqu'à ce que ça devienne automatique. Puis revenez, choisissez une autre habitude, recommencez.
 
-## Habits to get to know your wolf better
+## Habitudes pour mieux connaître votre loup
 
-### 😌 Meditation:
+### 😌 Méditation :
 
-Yeah it's a cliché at this point, but meditation's been shown in meta-analyses to [improve anxiety & depression](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754).
+Oui, à ce stade ça fait un peu cliché, mais la méditation s'est montré dans des métas analyses comme [améliorant la capacité à combattre l'anxiété et la dépression (en anglais)](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754).
 
-However, there's one cliché about meditation worth dispelling: the goal is *NOT* "clear your mind". Classic beginner mistake! The goal is to *observe* your mind, like a scientist: non-judgmentally. When the wolf starts howling – and it will – don't fear fear. Just listen. Observe.
+Cependant, il y a un cliché à propos de la méditation qui mérite qu'on s'y attarde : le but n'est *PAS* "videz votre esprit". Erreur de débutant ! Le but est d'*observer* votre esprit, comme un scientifique: sans jugement. Lorsque votre loup se met à aboyer – et il aboiera – ne craignez pas la peur. Juste écoutez. Observez.
 
-Though I was critiquing "mindfulness" earlier (or my mis-implementation of it), meditation actually *is* profoundly helpful to my life.
+Bien que je critiquais la "pleine conscience" plus tôt (ou ma mauvaise interprétation de ça), la méditation *est* en réalité profondément utile dans ma vie.
 
-**Example When→Then plan:** *“After brushing my teeth in the morning, I will go to the living room and set a timer to meditate for 2 minutes.”*
+**Exemple de plan Lorsque→Faire :** *“Après avoir brossé mes dents le matin, je vais dans le salon et mettre un minuteur pour méditer 2 minutes.”*
 
-Recommended: [this 2-minute animated intro to meditation](https://www.youtube.com/watch?v=rqoxYKtEWEc).
+Recommandé : [cette intro de 2 minutes à la méditation (en anglais)](https://www.youtube.com/watch?v=rqoxYKtEWEc).
 
-### 📓 Journaling:
+### 📓 Tenir un journal :
 
-Another cliché, but writing about your emotions has been shown to moderately [improve psychological *and physical* health [pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.518.1710&rep=rep1&type=pdf). Though, you have to write about your emotions *and try to understand them*. Expressing emotions without cognitive sense-making [seems to not help [pdf]](https://www.researchgate.net/profile/Philip_Ullrich/publication/11212874_Journaling_about_stressful_events_Effects_of_cognitive_processing_and_emotional_expression/links/0fcfd5090027dd0d0a000000.pdf).
+Un autre cliché, mais écrire à propos de ses émotions a montré que cela [améliorait la santé psychologique *et physique* [pdf en anglais]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.518.1710&rep=rep1&type=pdf). Mais tu dois écrire sur tes émotions et *essayer de les comprendre*. Exprimer des émotions sans effort cognitique pour les comprendre [semble ne rien apporter [pdf en anglais]](https://www.researchgate.net/profile/Philip_Ullrich/publication/11212874_Journaling_about_stressful_events_Effects_of_cognitive_processing_and_emotional_expression/links/0fcfd5090027dd0d0a000000.pdf).
 
-Not sure how to begin journaling to understand your emotions? Here's a simple template:
+Pas sûr de comment tenir un journal pour comprendre vos émotions ? Voici un simple modèle :
 
 *"Today when [event], I felt [feeling] because it seemed to fulfill/challenge my need for [need]. Next time, I'll try [experiments around that need]."*
 
