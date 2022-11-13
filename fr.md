@@ -1,6 +1,4 @@
-**If you feel like you may harm yourself, please, please call a crisis hotline. They're free, confidential, and 24/7:**
-
-**Si tu penses que tu vas te faire du mal, s'il te plais, appelle un numéro d'aide. Ils sont gratuits, confidentiels et 24/7:**
+**Si tu penses que tu vas te faire du mal, s'il te plait, appelle un numéro d'aide. Ils sont gratuits, confidentiels et 24/7:**
 
 **BE:** [Prévention Suicide](https://www.preventionsuicide.be/fr) - 0-800-32-123
 
@@ -13,19 +11,19 @@
 Pour d'autre pays, [voir la liste de Wikipedia](https://fr.wikipedia.org/wiki/Pr%C3%A9vention_du_suicide).
 
 
-Pour des conseils officiels sur la santé mentale, plus tôt qu'une personne random comme moi, allez voir cette liste depuis la [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/).
+Pour des conseils officiels sur la santé mentale, plutôt qu'une personne random comme moi, allez voir cette liste depuis la [Mental Health Foundation (en anglais)](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/).
 
 <div style="text-align:center">・・・</div>
 
 
-*Cet article est un mixe d'histoire personelle, de science sur la santé mentale, et de conseils pratiques. Ça prends 22 minutes à lire, mais vous pouvez juste aller aux conseils pratiques.*
+*Cet article est un mix d'histoires personelles, de sciences sur la santé mentale, et de conseils pratiques. Ça prend 22 minutes à lire, mais vous pouvez juste aller aux conseils pratiques.*
 
-1. **[Un viel amis](#toc_8)** (histoire)
-2. **[Les thérapies que j'ai essayé](#toc_1)** (histoire + théorie)
+1. **[Un vieil ami](#toc_8)** (histoire)
+2. **[Les thérapies que j'ai essayées](#toc_1)** (histoire + théorie)
 3. **[Le but de la douleur, et la fonction des sentiments](#toc_2)** (théorie)
 4. **[Habitudes 101](#toc_3)** (théorie + pratique)
 5. **[9 habitudes de santé mentale prouvées](#toc_4)** (💥**La partie vraiment utile**💥)
-6. **[En bref](#toc_18)** (résumé de tout ce qu'il y a au dessus)
+6. **[En bref](#toc_18)** (résumé de tout ce qu'il y a au-dessus)
 7. **[Moi et mon loup)(#toc_19)** (histoire)
 8. **[Ressources supplémentaires](#toc_20)** (pratique)
 
@@ -34,72 +32,72 @@ Pour des conseils officiels sur la santé mentale, plus tôt qu'une personne ran
 
 ---
 
-# Un viel amis
+# Un vieil ami
 
-Je me rappelle de ma première crise de panique. Je venais de déménager dans une nouvelle ville, et le bus n'est jamais arrivé. Alors le petit loup dans ma tête m'a dit:
+Je me rappelle de ma première crise de panique. J'étais à l'arrêt de bus. Je venais de déménager dans une nouvelle ville, et le bus n'est jamais arrivé. Alors le petit loup dans ma tête m'a dit :
 
 
-> 🐺 Nous sommes dans un nouvel endroit, et nous ne pouvons même pas comprendre comment les bus fonctionnent ici ?
+> 🐺 On est dans un nouvel endroit, et on ne peut même pas comprendre comment les bus fonctionnent ici ?
 > 
 > 🐺 Ça veut dire que l'on ne va pas pouvoir se faire des amis ! Ou aller à la maison en sécurité ! Ou acheter des choses pour survivre !
 > 
-> 🐺 Attends, pourquoi notre coeur bat-il si vite ? Pourquoi on ne sais plus respirer ?! Les crises cardiaques ne sont-elles pas quelque chose de courrant dans notre famille ?!?! Oh mon dieu, est ce que c'est ça ?!?!?!
+> 🐺 Attends, pourquoi notre coeur bat-il si vite ? Pourquoi on ne sait plus respirer ?! Les crises cardiaques ne sont-elles pas quelque chose de courant dans notre famille ?!?! Oh mon dieu, est-ce que c'est ça ?!?!?!
 > 
 > 🐺 AAAAAHHHHH
 
 
-En 4 étapes mentales, un bus qui ne venait pas m'a *convaincu* que j'allais mourrir.
+En 4 étapes mentales, un bus qui ne venait pas m'a *convaincu* que j'allais mourir.
 
-Donc, voilà pourquoi je n'ai jamais fait confiance à "fait confiance à tes tripes" ou, "tes sentiments sont valides." Imaginez la scène :
+Donc, voilà pourquoi je n'ai jamais fait confiance à "fait confiance à ton instinct" ou "tes sentiments sont valables." Imaginez la scène :
 
-> Un amis, à toi : Je me sens inutile. J'ai l'impression d'être un poid pour tout le monde. Je ressent que profondément en moi, je suis définitivement cassé, une mauvaise personne.
+> Un ami, à toi : Je me sens inutile. J'ai l'impression d'être un poids pour tout le monde. Je ressens que profondément en moi, je suis définitivement cassé, une mauvaise personne.
 
-> Toi, à ton amis : Tes sentiments sont valides ! :D
+> Toi, à ton ami : Tes sentiments sont valables ! :D
 
-Ainsi, j'ai fait confiance à d'autre banalités : "Les émotions sont irrationelles." "La seule chose à craindre est la peur elle même." "Ne t'inquiète pas, sois heureux!"
+Ainsi, j'ai fait confiance à d'autre banalités : "Les émotions sont irrationelles." "La seule chose à craindre est la peur elle-même." "Ne t'inquiète pas, sois heureux!"
 
 Donc, j'ai cherché des moyens de faire taire ma peur.
 
-Ça a fonctionné ! Je faisais des rencontres au hasard et du sexe dangereux pour noyer les bruits de mon cerveau en train de crier. Finallement, je ne payais plus attention à toute cette peur... J'ai marché directement dans plusieurs situations dangereuses et toxiques.
+Ça a marché ! Je faisais des rencontres au hasard et du sexe dangereux pour noyer les bruits de mon cerveau en train de crier. Finalement, je ne payais plus attention à toute cette peur... J'ai marché droit dans plusieurs situations dangereuses et toxiques.
 
 
-(INFO AMUSANTE : En 1994, des neuroscientifiques ont trouvé [une femme avec ses deux amygdales détruites](https://en.wikipedia.org/wiki/S.M._(patient)). Elle était une femme sans peur. Sans anxiété. Sans aucune inquiétude. C'est pourquoi elle a été victimisée, aggressée et presque tuée plusieurs fois.)
+(PETITE ANECDOTE : En 1994, des neuroscientifiques ont trouvé [une femme avec ses deux amygdales détruites (en anglais)](https://en.wikipedia.org/wiki/S.M._(patient)). Elle était une femme sans peur. Sans anxiété. Sans aucune inquiétude. C'est pourquoi elle a été victimisée, aggressée et presque tuée plusieurs fois.)
 
-Heureusement, mes amis avaient peur *pour* moi, quand j'avais trop peur pour me laisser avoir peur. (La seule chose à craindre c'est la peur elle même, n'est ce pas ?) Mes amis m'ont aidé à réaliser que ma situation *était* toxique, et m'en ont sorti.
+Heureusement, mes amis avaient peur *pour* moi, quand j'avais trop peur pour me laisser avoir peur. (La seule chose à craindre c'est la peur elle-même, n'est-ce pas ?) Mes amis m'ont aidé à réaliser que ma situation *était* toxique, et m'en ont sorti.
 
-Quelques mois plus tard, j'ai entendu la voix de mon viel amis :
+Quelques mois plus tard, j'ai entendu la voix de mon vieil ami :
 
 > 🐺 AAAAAHHHHH
 
 ---
 
-# Les thérapies que j'ai essayé
+# Les thérapies que j'ai essayées
 
-Si c'était un film, ça aurait dû être le moment ou je réalise l'importance de la peur.
+Si c'était un film, ça aurait dû être le moment où je réalise l'importance de la peur.
 
 Sauf que non. Je n'ai rien appris. 
 
-Ça m'a, en revanche, inspiré à *enfin* essayer la psychothérapie. J'ai d'abord essayé la [thérapie cognitivo-comportementale) (TCC ou CBT), que des [métaanalyses ont montré](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) être aussi bon, voir meilleure que des médicaments contre la dépression & l'anxiété. La thérapie recommende de "défier vos pensées" en pointant toutes les "distortions cognitives" irrationelles dans vos peurs. (🤓 “Bah, *en fait*...”)
+Ça m'a, en revanche, inspiré à *enfin* essayer la psychothérapie. J'ai d'abord essayé la [thérapie cognitivo-comportementale) (TCC ou CBT), que des [métaanalyses ont montré](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) être aussi bonne, voir meilleure que des médicaments contre la dépression et l'anxiété. La thérapie recommande de "défier vos pensées" en pointant toutes les "distortions cognitives" irrationnelles dans vos peurs. (🤓 “Bah, *en fait*...”)
 
-Cette thérapie m'a beaucoup aidé, mais j'ai rapidement hurté un mur. Mon problème c'est que j'utilisais cette thérapie comme une *arme* contre ma peur. Et je l'ai toujours considéré comme mon *enemie*.
+Cette thérapie m'a beaucoup aidée, mais j'ai rapidement heurté un mur. Mon problème c'est que j'utilisais cette thérapie comme une *arme* contre ma peur. Et je l'ai toujours considérée comme mon *ennemie*.
 
-En suite, j'ai essayé une thérapie basée sur la [pleine conscience](https://en.wikipedia.org/wiki/Mindfulness) - plus particulièment la [thérapie d'acceptation et d'engagement](https://fr.wikipedia.org/wiki/Th%C3%A9rapie_d%27acceptation_et_d%27engagement) - qui recommende de ne *pas* combattre vos pensées, mais de laisser ses sentiments passer. (La métaphore que l'on m'a dite : l'anxiété c'est comme les sables mouvants - plus tu luttes, plus tu sombres rapidement. Donc : ne luttes pas.)
+Par la suite, j'ai essayé une thérapie basée sur la [pleine conscience](https://fr.wikipedia.org/wiki/Pleine_conscience) - plus particulièrement la [thérapie d'acceptation et d'engagement](https://fr.wikipedia.org/wiki/Th%C3%A9rapie_d%27acceptation_et_d%27engagement) - qui recommande de ne *pas* combattre vos pensées, mais de laisser ses sentiments passer. (La métaphore que l'on m'a dite : l'anxiété c'est comme les sables mouvants - plus tu luttes, plus tu sombres rapidement. Donc : ne lutte pas.)
 
-De nouveau, j'ai utilisé la pleine conscience comme une manière *d'ignorer* ma peur. Ma peur était *toujours* mon énemie. 
+De nouveau, j'ai utilisé la pleine conscience comme une manière *d'ignorer* ma peur. Ma peur était *toujours* mon ennemie. 
 
-Ça m'a pris une *décénie* pour enfin comprendre, mais ma peur est--
+Ça m'a pris une *décennie* pour enfin comprendre, mais ma peur est--
 
 Attends une seconde, mon loup veut dire quelque chose :
 
 
-> 🐺 Nicky, ces thérapies ont aidé des *millions* de personnes, et sont prouvées par des *centaines* d'études. Qui sommes *nous* pour chier sur ce qui sauve la *vie* des gens ?!
+> 🐺 Nicky, ces thérapies ont aidé des *millions* de personnes, et sont prouvées par des *centaines* d'études. Qui sommes-*nous* pour discréditer ce qui sauve la *vie* des gens ?!
 
 
 Merci, loup ! C'est une très bonne remarque que tu as faite. 
 
 Juste pour clarifier : la TCC et la méditation *aident* les gens. Ça *m'a* aidé énormément. 
 
-Mais aucune technique ne fonctionne complètement si tu penses que la peur est une *énemie* à "surmonter" ou "conquérir". Ou une chose ennuyeuse à supporter "consciemment". Comme je l'ai dit plus tôt, ça m'a pris une décénie pour enfin le comprendre, mais la peur n'est pas une énemie. 
+Mais aucune technique ne fonctionne complètement si tu penses que la peur est une *ennemie* à "surmonter" ou "conquérir". Ou une chose ennuyeuse à supporter "consciemment". Comme je l'ai dit plus tôt, ça m'a pris une décennie pour enfin le comprendre, mais la peur n'est pas une ennemie. 
 
 La peur est une *amie.*
 
@@ -107,75 +105,75 @@ La peur est une *amie.*
 
 # Le but de la douleur, la fonction des sentiments
 
-"Fear is a friend"?! That sounds stupid – even *morally offensive* – to someone with near-daily panic attacks. So why am *I*, someone who knows this pain, saying something like *that?*
+"La peur est une amie" ?! Ça a l'air stupide – même *moralement offensant* – pour quelqu'un qui doit gérer ses crises de paniques quotidiennes. Alors pourquoi *moi*, qui connaît cette douleur, est en train de dire quelque chose comme *ça ?*
 
-To understand this, imagine putting your hand on a lit stove.
+Pour le comprendre, imaginez mettre votre main sur une poêle brûlante.
 
 🔥👋😰
 
-Obviously: it would hurt.
+Évidemment : ça ferait mal.
 
-Less obvious: it's a *good thing* that it would hurt.
+Moins évident : c'est une *bonne chose* que ça fasse mal.
 
-Pain is an alarm system. It tells you when things are bad, *which is good.*
+La douleur est un système d'alarme. Il te dit quand les choses vont mal, *ce qui est bien.*
 
-(FUN FACT: There's a rare condition called [congenital insensitivity to pain](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), where people can't feel pain. As a result, adults with the condition have lots of wounds, burns, and broken bones. They're the lucky ones – the rest are dead.)
+(PETITE ANECDOTE : Il existe une maladie rare nommée [insensitivité congénitale à la douleur](https://fr.wikipedia.org/wiki/Insensibilit%C3%A9_cong%C3%A9nitale_%C3%A0_la_douleur), caractérisée par l'absence de ressenti de douleur. Par conséquent, les adultes qui ont cette maladie ont un tas de blessures, brûlures, et os cassés. Ce sont les plus chanceux – les autres sont morts.)
 
-However, you'd also want an alarm system to go off *before* harm is done. This alarm system is called "fear". It's an alarm that predicts – and tries to protect you from – *future* harm.
+Cependant, vous aimeriez peut-être que votre système d'alarme se déclenche *avant* que le mal soit fait. Ce système d'alarme est appelé "peur". C'est une alarme qui prédit – et essaie de vous protéger des – *futurs* dommages.
 
-Harm to what? Your fundamental human needs:
+Dommages à quoi ? À vos besoins fondamentaux en tant qu'humains :
 
-1. **Physical Needs** – survival, health, safety    
-   (When threatened: 🐺 “We're in danger!”)
-2. **Social Needs** – friends, family, lovers    
-   (When threatened: 🐺 “Nobody likes us!”)
-3. **"Becoming A Better Person" Needs** – learning, character growth, doing good for others   
-   (When threatened: 🐺 “We're a bad person!”)
+1. **Besoins physiques** – survie, santé, sécurité    
+   (Lorsqu'ils sont menacés : 🐺 “On est en danger !”)
+2. **Besoins sociaux** – amis, famille, amants    
+   (Lorsqu'ils sont menacés : 🐺 “Personne ne nous aime !”)
+3. **Besoin d'accomplissement de soi** – apprendre, se forger un caractère, apporter du bien aux autres   
+   (Lorsqu'il est menacé : 🐺 “On est une mauvaise personne !”)
 
-(This list of needs is <span style="text-decoration:line-through">something I pulled out my bum</span> a condensed version of [Maslow's hierarchy](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Self-Determination Theory [pdf]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
+(Cette liste des besoins est <span style="text-decoration:line-through">tirée de mon chapeau</span> une version condensée de [la pyramide de Maslow](https://fr.wikipedia.org/wiki/Pyramide_des_besoins) + [Self-Determination Theory [pdf en anglais]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
 
-Here's my conjecture. It's not original, hundreds have said it before, but it still took me forever to learn:
+Voici mon hypothèse. Ce n'est pas original, des centaines de personnes l'ont dit avant moi, mais ça m'a quand même pris une éternité pour l'apprendre :
 
-**🚨 ALL FEELINGS ARE IMPERFECT SIGNALS ABOUT MET & UNMET NEEDS. 🚨**
+**🚨 TOUS LES SENTIMENTS SONT DES SIGNAUX IMPARFAITS SUR LES BESOINS SATISFAITS ET NON SATISFAITS. 🚨**
 
-This is the [functionalist view of emotions](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). But, what do I mean by "signal"?
+Il s'agit de la [vision fonctionnaliste des émotions (en anglais)](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). Mais qu'est-ce que j'entends par "signal" ?
 
-Imagine a cafe. When a customer arrives, the bell above the entrance door gives a *ding* signal.
+Imaginez un café. Lorsqu'un client rentre, une clochette au-dessus de l'entrée sonne avec un *ding* comme signal.
 
-Likewise, when a body/mind need is met – or is about to – we feel a Pleasure signal: joy, anticipation, curiosity, the "Aha!" moment, pride.
+De même, lorsque un besoin du corps ou de l'esprit est satisfait – ou est sur le point de l'être – on ressent un signal de bien-être : joie, excitation, curiosité, le moment où l'on fait "Aha!", fierté.
 
-Imagine a cafe's smoke alarm. When something in the kitchen is burning, it gives a *BEEP BEEP BEEP* signal.
+Imaginez le détecteur de fumée d'un café. Lorsque quelque chose se met à brûler dans la cuisine, il retentit avec un *BIP BIP BIP* comme signal.
 
-Likewise, when a body/mind need is *not* being met – or is being threatened – we feel a Pain signal: fear, loneliness, frustration, guilt, grief.
+De même, lorsque un besoin du corps ou de l'esprit n'est *pas* satisfait – ou est menacé – on ressent un signal de mal-être : peur, solitude, frustration, culpabilité, chagrin.
 
-But wait, isn't this just the same as "your feelings are always valid"? No, because *all signals can have false alarms*. Thus, negative feelings aren't *always* valid, but they aren't *always* irrational either. They're clues – not to be taken as 100% literal truth, but not to be thrown out entirely either. (Have an over-sensitive alarm? We'll see how to "re-calibrate" your signals with Habits, in the next section)
+Mais attend, n'est-ce pas la même chose que de dire que "tes sentiments sont toujours valables" ? Non, car *tous les signaux peuvent avoir des fausses alertes*. Ainsi, les sentiments négatifs ne sont pas *toujours* valables, mais ile ne sont pas *toujours* irrationnels non plus. Ce sont des indices – à ne pas prendre au pied de la lettre, mais à ne pas complétement rejeter non plus. (Vous êtes hypersensibles ? Nous allons voir comment "recalibrer" vos signaux avec certaines habitudes, dans la prochaine section)
 
-All my life, I thought mentally healthy people were just better at "coping" with "negative" emotions. *The very vocabulary of this idea is wrong.* **The mentally healthy don't "cope" with emotions, they collaborate *with* them. They know how to listen to, act on, and re-calibrate the signals.**
+Toute ma vie, j'ai cru que les personnes ayant une bonne santé mentale étaient juste meilleures pour "surmonter" leurs émotions "négatives". *Le vocabulaire même de cette idée est faux.* **La personne saine ne "surmonte" pas ses émotions, elle collabore *avec* elles. Elle sait comment les écouter, agit, et recalibre ses signaux.**
 
-When the smoke alarm goes off:
+Lorsque le détecteur de fumée se déclenche :
 
-* A healthy person knows to turn off the stove, open a window, and put baking soda over the grease fire. If the alarm's too sensitive, they'll move it somewhere further.
-* An anxious person throws water over the grease fire and makes it worse. Or plugs their ears to not hear the alarm. Or smashes the alarm with a hammer. Or tries to rationally argue with the alarm about its distortions. Or decides to "mindfully" ignore it.
+* Une personne saine d'esprit sait éteindre la cuisinière, ouvrir la fenêtre, and mettre du bicarbonate de soude sur le feu de graisse. Si l'alarme est trop forte, elle la placera quelque part plus loin.
+* Une personne anxieuse jettera de l'eau sur le feu de graisse et l'empirera. Ou bouchera ses oreilles pour ne plus entendre l'alarme. Ou frappera l'alarme avec un marteau. Ou tentera de débattre de manière rationnelle avec l'alarme à propos de son disfonctionnement. Ou décidera de manière "consciente" de l'ignorer.
 
-Once I understood feelings = alarms & signals, I realized a lot of what I thought were emotions' bugs were actually features! "Negative" emotions turn on by themselves and you can't turn them off at will – *this is a good feature for an automatic smoke detector.* "Positive" emotions never last, they always re-adjust themselves to your new normal – *this is a good feature for smart thermostats.*
+Une fois que j'ai compris que sentiments = alarmes et signaux, j'ai réalisé que beaucoup de ce que je pensais être des distortions étaient en fait des fonctionnalités ! Les émotions "négatives" s'activent d'elles-mêmes et ne se désactivent pas juste parce que vous le voulez – *c'est une bonne fonctionnalité pour un détecteur de fumée automatique.* Les émotions "positives" ne durent jamais, elles se réajustent d'elles-mêmes jusqu'à ce que vous reveniez à votre vous normal – *c'est une bonne fonctionnalité pour des thermostats intelligents.*
 
-A good life is not about minimizing Pain and maximizing Pleasure. That's like a cafe whose goal to minimize alarms & maximize entrance-bell-ringing. Feelings are *NOT* the ends, they are the *means* to the ends: a fulfilling life.
+Une vie heureuse ne consiste pas à minimiser la douleur est maximiser le plaisir. Ce serait comme un café qui aurait pour but de minimiser les sons d'alarmes et de maximiser les sons de clochettes. Les sentiments ne sont *PAS* une fin en soi, ils sont le *moyen* d'arriver à l'objectif ultime : avoir une vie épanouie.
 
-So that's why I claim "fear is not an enemy, it's a friend." But what kind of friend is fear? The "Man's [sic] Best Friend" kind. In a sentence:
+Voici donc pourquoi je dis que "la peur n'est pas une ennemie, c'est une amie." Mais quel type d'ami est le peur ? Le genre à être "Le Meilleur Ami de l'Homme [sic]". En bref :
 
-**🐺 FEAR IS A GUARD DOG FOR YOUR NEEDS. 🐺**
+**🐺 LA PEUR EST UN CHIEN DE GARDE QUI VEILLE SUR VOS BESOINS. 🐺**
 
-When it yaps “nobody likes us!” it's trying (however badly) to protect your need for belonging. When it yaps “we're bad people!” it's trying (very poorly) to protect your need for personal growth.
+Lorsqu'il aboit “personne ne nous aime !” il essaie de dire (bien que mal) de protéger votre besoin d'appartenance. Lorsqu'il aboit “on est une mauvaise personne !” il essaie de dire (très pauvrement) de protéger votre besoin d'accomplissement de soi.
 
-(The idea of a sub-agent in your mind isn't as wacky as it sounds – this thought's popped up independently in several fields: ["System 1 and System 2"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) in behavioral economics, ["The Elephant & The Rider"](https://en.wikipedia.org/wiki/The_Righteous_Mind) in social psychology, ["The Society of Mind"](https://en.wikipedia.org/wiki/Society_of_Mind) in cognitive science, etc)
+(L'idée d'un sous-agent dans votre têtre n'est pas aussi fou que ça en a l'air – cette idée est revenu de façon indépendante dans plusieurs domaines : ["Système 1 / Système 2"](https://fr.wikipedia.org/wiki/Syst%C3%A8me_1_/_Syst%C3%A8me_2_:_Les_deux_vitesses_de_la_pens%C3%A9e) en comportements économiques, ["The Elephant & The Rider (en anglais)"](https://en.wikipedia.org/wiki/The_Righteous_Mind) en psychologie sociale, ["La Société de l'Esprit"](https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_de_l%27esprit) en sciences cognitives, etc.)
 
-However, maybe you have a hyperactive dog that barks at shadows. It's not the dog's fault. Maybe in the past, it's been abused or neglected. But the dog genuinely wants to help you! That's its literal evolved function!
+Cependant, peut-être que vous avez un chien hyperactif qui aboit sur des ombres. Ce n'est pas la faute du chien. Peut-être que dans le passé, il a été abusé ou négligé. Mais ce chien veut véritablement vous aider ! C'est sa littéralement sa fonction première !
 
-It yaps because it's a battered shelter dog, and it needs you to help it heal.
+Il aboit car c'est un chien de refuge battu, et il a besoin de votre aide pour guérir.
 
-Sadly, many people's first response to the loud dog – including mine – was to lash out at it. But you can't beat the meanness out of a dog, or scare the fear out of it. (Note: [this is also true for literal dog-training [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
+Malheureusement, la première réaction de beaucoup de gens à un chien bruyant – y compris moi – était de s'en prendre à lui. Mais vous ne pouvez retirer la méchanceté d'un chien, ni enlever la peur d'un chien. (Note : [c'est également vrai pour des entrainements de chien [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
 
-So... how *do* you train your dog?
+Alors... comment *faire* pour entrainer votre chien ?
 
 ---
 
