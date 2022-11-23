@@ -24,7 +24,7 @@ Pour des conseils officiels sur la santé mentale, plutôt qu'une personne rando
 4. **[Habitudes 101](#toc_3)** (théorie + pratique)
 5. **[9 Habitudes de Santé Mentale Prouvées](#toc_4)** (💥**La partie vraiment utile**💥)
 6. **[En Bref](#toc_18)** (résumé de tout ce qu'il y a au-dessus)
-7. **[Moi et mon Loup)(#toc_19)** (histoire)
+7. **[Moi et mon Loup](#toc_19)** (histoire)
 8. **[Ressources Supplémentaires](#toc_20)** (pratique)
 
 
@@ -241,41 +241,41 @@ Un autre cliché, mais écrire à propos de ses émotions a montré que cela [am
 
 Pas sûr de comment tenir un journal pour comprendre vos émotions ? Voici un simple modèle :
 
-*"Today when [event], I felt [feeling] because it seemed to fulfill/challenge my need for [need]. Next time, I'll try [experiments around that need]."*
+*"Aujourd'hui quand [événement], je me suis senti [émotion] car ça m'a semblé remplir/challenger mon besoin pour [besoin]. La prochaine fois, j'essaierai [d'expérimenter autour de ce besoin]."*
 
-Example: *"Today when my friends all chatted without me, I felt insecure because it seemed to challenge my need for belonging. Next time, I'll try to fulfill my need for belonging either by speaking up more, or practicing being comfortable listening to my pals, actively and wholly, without needing to pipe up to prove my existence."*
+Exemple: *"Aujourd'hui lorsque mes amis ont bavardé sans moi, j'ai senti un manque de confiance en moi car ça a challengé mon besoin d'appartenance. La prochaine fois, j'essaierai de combler mon besoin d'appartenance, soit en parlant un peu plus, soit en m'entrainant à être confortable à l'idée d'écouter attentivement mes amis, de façon active et pleinement, sans besoin de prouver mon existence."*
 
-(As much as I criticized "challenging your thoughts" earlier, *this* is where CBT shines. Knowing [common cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and how to reframe them *does* help you make sense of the Pain signals. Just don't approach it like Debate Club, where the point of the game is to "win" by Well, Actually-ing your fear. The goal should be to help your fear *be a better helper*. Help it help you.)
+(Même si j'ai le "challenge tes pensées" plus tôt, *c'est* là où le CBT brille. Connaître les [distortions cognitives communes](https://fr.wikipedia.org/wiki/Distorsion_cognitive) et comment les recadrer vous aide *vraiment* à donner du sens aux signaux de mal-être. Juste ne l'approche pas comme si c'était un club de débat, où le but du jeu est de "gagner" , Actually-ing your fear. Le but devrait être d'aider votre peur à *être un meilleur support*. J'espère que ça vous aidera.)
 
-**Example When→Then plan:** *“Before going to sleep, I will write/draw about my feelings for 10 minutes.”*
+**Exemple de plan Lorsque→Faire:** *“Avant d'aller me coucher, je vais écrire/dessiner à propos de mes sentiments pendant 10 minutes.”*
 
 ・・・
 
-Remember, fear is a guard dog for your needs. If you hear it barking "we're in danger!" but with no *specific* cause, it's likely your *general* physical needs are not being fully met. To reassure your inner dog, *you* can take care of those needs:
+Souvenez-vous, la peur est un chien qui garde vos besoins. Si vous entendez son aboiement "on est en danger !" mais qu'il n'y a aucune raison *spécifique*, alors probablement que vos besoins physiques *général* ne sont pas complétement satisfaits. Pour rassurer votre chien intérieur, *vous* pouvez prendre soin de ces besoins :
 
-## Habits to protect your physical needs:
+## Habitudes pour protéger vos besoins physiques :
 
-Imagine if popsci magazines wrote, "Wow! Getting your computer's hardware wet *can affect how well the software runs*." Or "Wow! Having a lot of intensive software running *can make the hardware hot!*"
+Imaginez si les magazines écrivaient : "Wow ! Avoir votre matériel informatique mouillé *peut affecter la manière dont les logiciels tournent*." Ou "Wow ! Avoir beaucoup de logiciels ouverts *peut rendre brûlant votre matériel informatique !*"
 
-That's how I feel about articles acting surprised that physical health affects mental health & vice versa.
+Voici comment je me sens vis-à-vis des articles qui ont l'air surpris que la santé physique agit sur la santé mentale et vice versa.
 
-### 😴 Sleep:
+### 😴 Sommeil :
 
-If natural selection decided to knock you out unconscious for a third of your life, you'd better *bet* there's a huge benefit to make that cost/benefit analysis work out.
+Pour que la sélection naturelle décide de vous rendre inconscient un tier de votre vie, il vaut *mieux* qu'il y ait un grand bénéfice pour que le ration coût/bénéfice soit favorable.
 
-And it does. As the director of UC Berkeley’s Center for Human Sleep Science explains [in his book](https://www.indiebound.org/book/9781501144318), a good night's sleep reduces your risk for heart disease, cancer, Alzheimer's, depression, anxiety, and more. As a best-selling children's author once said, “[Go The F**k To Sleep](https://www.indiebound.org/book/9781617750250).”
+And it does. Comme l'explique le directeur du UC Berkeley’s Center pour les sciences du sommeil chez l'humain [dans son livre (en anglais)](https://www.indiebound.org/book/9781501144318), une bonne nuit réduit votre risque de maladie cardio-vasculaire, de cancer, d'Alzheimer, de dépression, d'anxiété, et bien plus. Tout comme l'a dit un auteur célébre de best-sellers pour enfants, “[Va dormir, bordel ! (en anglais)](https://www.indiebound.org/book/9781617750250).”
 
-**Example When→Then plan:** *“When it's 10pm, I will turn off all my devices, and put them on charger, outside the bedroom, in a trash can, where they belong.”*
+**Exemple de plan Lorsque→Faire :** *“Lorsqu'il est 22h, je vais éteindre tous mes écrans, et les mettre à charger, dehors de la chambre, dans une poubelle, où ils devraient être.”*
 
-Recommended: [F.lux](https://justgetflux.com/). It's an app that changes your screens' lights in evenings, because blue light messes up your sleep cycle.
+Recommandé: [F.lux](https://justgetflux.com/). C'est une application qui change la lumière de vos écrans la nuit, car la lumière bleue perturbe votre cycle du sommeil.
 
-### 🏃‍♀️ Exercise:
+### 🏃‍♀️ Exercice :
 
-Jog. Hike. Play Frisbee. Just half an hour of moderate exercise a day is enough to give great benefits to your physical *and mental* health. [A recent meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) shows that exercise reduces depression *as much as* than psychotherapy or medication!
+Jogger. Randonner. Jouer au frisbee. Juste une demie heure d'exercice modéré par jour est suffisant pour apporter de grands bénéfices à votre santé physique *et mentale*. [Une méta-analyse récente (en anglais)](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) montre que l'exercice réduit la dépression *autant* que la psychothérapie ou la médication !
 
-**Example When→Then plan:** *“After getting home in the evening, I'll go for a 10 minute stroll.”* (Remember: you can always increase duration/intensity of a habit later)
+**Exemple de plan Lorsque→Faire :** *“Après être rentré à la maison le soir, je vais faire une balade de 10 minutes.”* (Souvenez-vous : vous pouvez toujours augmenter la durée/l'intensité de cette habitude plus tard)
 
-### 🍆 Eat:
+### 🍆 Manger :
 
 Your gut bacteria makes 90% of your body's serotonin. So: you keep your microbes happy, they keep you happy, capiche? (See: this [Mental Health Foundation report](https://www.mentalhealth.org.uk/publications/feeding-minds))
 
