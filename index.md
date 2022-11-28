@@ -20,7 +20,7 @@ For mental health advice from official sources, rather than a random internet pe
 7. **[Me & My Wolf](#toc_19)** (story)
 8. **[Extra Resources](#toc_20)** (practical)
 
-*Fan-translations: [Deutsch](de.html)・[(make your own?)](https://github.com/ncase/mental-health#how-to-translate)*
+*Fan-translations: [Deutsch](de.html)・[Русский](ru.html)・[(make your own?)](https://github.com/ncase/mental-health#how-to-translate)*
 
 ---
 
