@@ -277,90 +277,90 @@ Jogger. Randonner. Jouer au frisbee. Juste une demie heure d'exercice modéré p
 
 ### 🍆 Manger :
 
-Your gut bacteria makes 90% of your body's serotonin. So: you keep your microbes happy, they keep you happy, capiche? (See: this [Mental Health Foundation report](https://www.mentalhealth.org.uk/publications/feeding-minds))
+Vos bactéries intestinales produisent 90% de la sérotonine de votre corps. Retenez donc: gardez vos microbes heureux et ils vous rendront heureux, compris ? (Voir: ce [rapport de la Mental Health Foundation (en anglais)](https://www.mentalhealth.org.uk/publications/feeding-minds))
 
-There's a zillion diets out there, but most of them aren't based on science... and the science is full of failed replications and p-hacking. Personally, I go with Michael Pollan's anti-diet diet: [Eat food, not too much, mostly plants](https://www.indiebound.org/book/9780143114963/Michael-Pollan/Defense-Food).
+Il existe des millions de diètes, mais la plupart ne sont pas basées sur la science... et la science est pleine de réplication échouées et de p-hacking. Personnellement, je suis la diète anti-diète de Michael Pollan: [Mangez, pas trop, surtout des légumes (en anglais)](https://www.indiebound.org/book/9780143114963/Michael-Pollan/Defense-Food).
 
-**Example When→Then plan:** *“Before grocery shopping, I'll eat a fruit so I'm not hungry and won't get tempted to buy chocolate-flavored Cheetos. Again.”*
-
-・・・
-
-Our physical needs are essential, but we're not just animals, we're *social* animals. So, if your guard dog barks "nobody likes us!" you can reassure it with these habits:
-
-## Habits to protect your social needs:
-
-High-quality social connections, not surprisingly, [reduces depression and anxiety [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf). And "surprisingly", it even [reduces your risk of an early death by 50%](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (Again, it shouldn't *still* be surprising that hardware affects software and software affects hardware)
-
-### 👯‍♂️ Talk To Friends
-
-Some anecdote-not-data advice:
-
-1. Whenever *possible:* Real-Life Face-To-Face > Videochat > Phone Call > Text/Email. 
-2. Meet with friends *outside* your usual context. Examples: meet a friend from work *outside* work, go with housemates *out* to a movie. Otherwise, you'll probably lose touch after leaving the job or house.
-3. Because everyone's a busy bee who lives in a rectangular beehive called a calendar, *regularly schedule friend-hangouts*. Make friendship a *habit*, for both of you!
-
-Also, talk about your thoughts & feelings with pals! Besides strengthening the friendship, I suspect sharing your feelings with another person improves your mental health the same way journaling does: explaining your emotions makes you understand your own emotions.
-
-**Example When→Then plan:** *“Every first Monday of the month, I'll video-call my good friend who's in the distant, faraway land of New Haven, CT.”*
-
-### 🎳 Make New Friends
-
-Option 1: Ask friends to introduce you to their friends. (e.g: you all go to a movie together)
-
-Option 2: Join a class or volunteer group or bowling league on [Meetup.com](https://www.meetup.com/). (They're not paying me to say this.) I work independently and just moved to a new city, so it could've been super lonely, but Meetup helped me make new friends fast! Just remember to also meet your new friends *outside* of the meetup.
-
-**Example When→Then plan:** *“Every Thursday evening, I'll go to the French Meetup pour pratiquer mon terrible français.”*
+**Exemple de plan Lorsque-Faire :** *“Avant d'aller à l'épicerie, je mangerai un fruit pour ne pas avoir faim et être tenté d'acheter des barres chocolatées. Une nouvelle fois.”*
 
 ・・・
 
-Finally – our physical and social needs are essential, but we're not just social animals, we're *persons*. So, if your dog barks "we're terrible, evil, broken!", you can reassure it with these habits:
+Notre besoin physique est essentiel, mais nous ne sommes pas juste des animaux, nous sommes des animaux *sociaux*. Alors, si votre chien de garde aboit "personne ne nous aime !", vous pouvez le rassurer avec ces habitudes :
 
-## Habits to protect your "becoming a better person" needs:
+## Habitudes pour protéger vos besoins sociaux :
 
-The last decade of ["the science of happiness"](https://en.wikipedia.org/wiki/Positive_psychology) has been all about how happiness is not enough.
+Des connexions sociales de grande qualité, sans surprise, [réduit la dépression et l'anxiété [pdf en anglais]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf). And "étonnamment", cela [réduit même le risque d'une mort précoce de 50% (en anglais)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (Encore une fois, cela ne devrait *toujours* pas être surprenant que le matériel informatique affecte le logiciel et vice-versa)
 
-Researchers now identify [two kinds of well-being [pdf]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) – **Hedonia**, which is pleasure & fun, and **Eudaimonia**, which is purpose & fulfillment. The two aren't opposed, but they are different. And of course, [eudamonia predicts better psychological & physical health [pdf]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf).
+### 👯‍♂️ Parler à Vos Amis
 
-So, how do you find the meaning of life? Dunno, that's a question for philosophers. However, you can find *many* meaning(s) *in* life, like being a good friend, raising a child, volunteering for a cause... and pushing yourself to your fullest human potential, with habits like:
+Quelques conseils anecdotes:
 
-### 💭 Learning
+1. Lorsque c'est *possible :* Vrai Face-à-Face > Chat Vidéo > Appel > Texte/Email. 
+2. Voyez vos amis *en-dehors* de d'habitude. Exemples : voyez un ami du boulot *en-dehors* du boulot, allez voir un film *au cinéma* avec vos collocataires. Sinon, vous allez probablement perdre le contact après avoir quitté votre boulot ou votre appartement.
+3. Parce que tout le monde est une abeille occupée qui vit dans une ruche rectangulaire appelée un calendrier, *prévoyez des sorties entre amis*. Faites de votre amitié une *habitude*, pour vous deux !
 
-[Draw on the right side of your brain](https://www.indiebound.org/book/9781585429202). [Play your ukelele](https://www.youtube.com/watch?v=H7Kn1olXCfM). [Understand quantum computing](https://quantum.country/qcvc). [Flirt in French](https://www.indiebound.org/book/9780385348119). [Split apples in half with your bare hands](https://www.youtube.com/watch?v=aPNTutAtbSU). [Make plushies](https://www.indiebound.org/book/9781454703648). [Learn Morse code](https://epxx.co/morse/koch.html). [Try a new team sport on Meetup.com](https://www.meetup.com/find/sports-fitness/). [Make chiptunes](https://beepbox.co/). [Learn Python programming](https://www.dataquest.io/course/python-for-data-science-fundamentals/). Play "explorable explanations" about [game theory](https://ncase.me/trust/), [music composition](https://learningmusic.ableton.com), [fourier transforms](http://www.jezzamon.com/fourier/index.html), [and more](https://explorabl.es/). [Cook](https://www.indiebound.org/book/9781476753836).
+Aussi, parlez de vos pensées et de vos émotions avec vos amis ! Autre que renforcer votre amitié, je suspecte que le fait de partager vos sentiments avec une autre personne améliore votre santé mentale de la même façon que le fait de tenir un journal : expliquer vos émotions vous fait comprendre vos émotions.
 
-Just pick *something* and set aside a day of the week (or hour of the day) to read a book, or [deliberately practice](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice) a skill.
+**Exemple de plan Lorsque-Faire :** *“Chaque premier mardi du mois, je vais faire un appel vidéo à mon bon ami qui vit dans la distante terre de New Haven, CT.”*
 
-**Example When→Then plan:** *“Every Sunday evening, I'll try cooking a new recipe.”*
+### 🎳 Faites-vous de Nouveaux Amis
 
-Recommended: Spaced Repetition ("flashcards on steroids") to help you remember what you learn. See [this 7-minute video](https://www.youtube.com/watch?v=eVajQPuRmk8) or [this 80-minute long essay](http://augmentingcognition.com/ltm.html).
+Option 1 : Demandez à vos amis de vous introduire à leurs amis. (ex : vous allez à un film tous ensemble)
 
-### 😇 “It Builds Character”
+Option 2 : Rejoignez une classe ou un groupe de volontaires ou une league de bowling sur [Meetup.com](https://www.meetup.com/). (Ils ne me paient pas pour dire ça.) Je travaille indépendamment et je viens d'arriver dans une nouvelle ville, alors j'aurais pu être super seule, mais Meetup m'a aidée à me faire de nouveaux amis très vite ! Juste souvenez-vous de rencontrer également vos nouveaux amis *en-dehors* du point de rencontre habituel.
 
-Benjamin Franklin was the first lifehacker. In-between experimenting with lightning and fighting to abolish slavery, he also strived to improve his moral character with the help of... index cards. [As described in his autobiography](https://www.thesimpledollar.com/ben-franklins-thirteen-virtues-using-one-week-to-change-your-life/): he carried a card with 7 columns – one for each day of the week – and 13 rows – one for each Virtue he wanted to work on. At the end of each day, he'd draw a dot for each Virtue he'd successfully practiced that day. He failed a lot. But over time, he got the crooked timbre of his human nature a little less crooked.
-
-I think we all can, too. You don't have to use Franklin's exact method. In fact, I recommend being more specific than "practice Humilty", and have a specific When→Then plan, like:
-
-**Example When→Then plan:** *“When I'm about to post something angry on the internet, I will wait one hour before hitting Send.”*
-
-“Be the change you want to see in the world” etc etc.
+**Exemple de plan Lorsque-Faire :** *“Chaque jeudi soir, je vais aller à la réunion de français pour pratiquer mon terrible français.”*
 
 ・・・
 
-Know your wolf.   
-Physical needs.   
-Social needs.   
-Becoming a better person.
+Finalement – nos besoins physiques et sociaux sont essentiels, mais nous ne sommes pas juste des animaux sociaux, nous sommes des *personnes*. Alors, si votre chien aboit "on est horrible, méchant, brisé !", vous pouvez le rassurer avec ces habitudes :
 
-What helps you meet *all* of these at the same time: **making fear your friend.** Building a healthier collaboration with your fear (know the wolf) will help you get better at protecting yourself (physical needs), be more vulnerable with trusted friends (social needs), and let you improve your moral character ("becoming a better person" needs).
+## Habitudes pour protéger votre besoin de "devenir une meilleure personne" :
 
-Hang on, my friend wants to say something:
+La dernière décennie de ["la science du bonheur"](https://fr.wikipedia.org/wiki/Psychologie_positive) a montré que le bonheur n'était pas suffisant.
 
-> 🐺 Gah! We've blabbered on for 3500+ words! How's a reader supposed to remember any of this?!
+Les recherches ont maintenant identifiées [deux types de bien-être [pdf en anglais]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) – **L'Hédonie**, qui correspond au plaisir et au fun, et **l'Eudémonie**, qui correspond au but et au sentiment de plénitude. Ces deux types ne sont pas opposés, mais sont différents. Et bien-sûr, [l'eudémonie predit mieux la santé psychologique et physique [pdf en anglais]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf).
 
-Good point! Let's refresh the reader's memory with a summary:
+Alors, comment trouver un sens à sa vie ? Je ne sais pas, c'est une question pour les philosophes. Cependant, vous pouvez trouver *beaucoup* de sens *dans* la vie, comme être un bon ami, élever un enfant, se porter volontaire pour une cause, ... et pousser votre être à son plein potentiel, avec des habitudes comme :
+
+### 💭 Apprendre
+
+[Draw on the right side of your brain](https://www.indiebound.org/book/9781585429202). [Jouez votre ukelele](https://www.youtube.com/watch?v=H7Kn1olXCfM). [Comprendre l'information quantique](https://quantum.country/qcvc). [Flirter en français](https://www.indiebound.org/book/9780385348119). [Coupez une pomme en deux à mains nues](https://www.youtube.com/watch?v=aPNTutAtbSU). [Faire des peluches](https://www.indiebound.org/book/9781454703648). [Apprendre le code Morse](https://epxx.co/morse/koch.html). [Essayez un nouveau sport d'équipe sur Meetup.com](https://www.meetup.com/find/sports-fitness/). [Faire du chiptune](https://beepbox.co/). [Apprendre à coder en Python](https://www.dataquest.io/course/python-for-data-science-fundamentals/). Jouez des "explications interactives" sur [la théorie des jeux](https://ncase.me/trust/), [la composition musicale](https://learningmusic.ableton.com), [la transformée de Fourier](http://www.jezzamon.com/fourier/index.html), [et plus](https://explorabl.es/). [Cuisiner](https://www.indiebound.org/book/9781476753836).
+
+Juste choisissez *quelque chose* et gardez un jour de la semaine (ou une heure du jour) pour lire un livre, ou [pratiquez posément](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice) une compétence.
+
+**Exemple de plan Lorsque-Faire :** *“Chaque dimanche soir, je vais essayer de cuisiner un nouveau plat.”*
+
+Recommandé: La répétition espacée ("flashcards sous stéroïdes") pour vous aider à vous souvenir de ce que vous avez appris. Regarder cette [vidéo de 7 minutes](https://www.youtube.com/watch?v=eVajQPuRmk8) ou [cet essai de 80 minutes](http://augmentingcognition.com/ltm.html).
+
+### 😇 Cela forge le Caractère”
+
+Benjamin Franklin était le premier lifehacker. Entre ses expériences avec la lumière et son combat pour abolir l'esclavage, il s'efforçait également d'améliorer son caractère moral avec l'aide... de cartes index. [Comme décrit dans son autobiographie (en anglais)](https://www.thesimpledollar.com/ben-franklins-thirteen-virtues-using-one-week-to-change-your-life/): il portait une carte avec 7 colonnes – une pour chaque jour de la semaine – et 13 lignes – une pour chaque Vertu il voulait améliorer. A la fin de chaque jour, il mettait un point pour chaque Vertu qu'il avait pratiquée ce jour. Il échouait beaucoup. Mais sur la durée, il a eu le timbre de sa nature humaine un peu moins tordu.
+
+Je pense que l'on peut tous le faire également. Vous n'avez pas à utiliser l'exacte même méthode de Franklin. En fait, je recommande être un peu plus spécifique que "travailler son humilité", et avoir un plan spécifique Lorsque→Faire, comme :
+
+**Exemple de plan Lorsque→Faire :** *“Lorsque je suis sur le point de poster un message sur Internet en étant en colère, je vais attendre une heure avant d'appuyer sur Envoyer.”*
+
+“Soyez le changement que vous voulez voir dans le monde" etc etc.
+
+・・・
+
+Connaissez votre loup.   
+Besoins physiques.   
+Besoins sociaux.
+Besoin d'accomplissement de soi.
+
+Qu'est-ce qui aide à combler *tous* ces besoins en même temps : **faire de votre peur votre amie.** Construire une collaboration saine avec votre peur (connaître votre loup) vous aidera à devenir meilleure pour mieux vous protéger (besoins physiques), être plus vulnérable avec des amis de confiance (besoin social), et laisser votre caractère s'améliorer ("besoin d'accomplissement de soi").
+
+Attendez, mon ami veut dire quelque chose :
+
+> 🐺 Gah ! On a parler pendant plus de 3500 mots ! Comment un lecteur est supposé se souvenir de tout ça ?!
+
+Bon point ! Raffraichissons la mémoire du lecteur avec un résumé :
 
 ---
 
-# TL;DR
+# En Bref
 
 * **Do not fear fear itself.**
 * Pain is a protector. 
