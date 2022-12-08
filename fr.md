@@ -333,7 +333,7 @@ Juste choisissez *quelque chose* et gardez un jour de la semaine (ou une heure d
 
 Recommandé: La répétition espacée ("flashcards sous stéroïdes") pour vous aider à vous souvenir de ce que vous avez appris. Regarder cette [vidéo de 7 minutes](https://www.youtube.com/watch?v=eVajQPuRmk8) ou [cet essai de 80 minutes](http://augmentingcognition.com/ltm.html).
 
-### 😇 Cela forge le Caractère”
+### 😇 "Cela forge le Caractère”
 
 Benjamin Franklin était le premier lifehacker. Entre ses expériences avec la lumière et son combat pour abolir l'esclavage, il s'efforçait également d'améliorer son caractère moral avec l'aide... de cartes index. [Comme décrit dans son autobiographie (en anglais)](https://www.thesimpledollar.com/ben-franklins-thirteen-virtues-using-one-week-to-change-your-life/): il portait une carte avec 7 colonnes – une pour chaque jour de la semaine – et 13 lignes – une pour chaque Vertu il voulait améliorer. A la fin de chaque jour, il mettait un point pour chaque Vertu qu'il avait pratiquée ce jour. Il échouait beaucoup. Mais sur la durée, il a eu le timbre de sa nature humaine un peu moins tordu.
 
@@ -356,92 +356,92 @@ Attendez, mon ami veut dire quelque chose :
 
 > 🐺 Gah ! On a parler pendant plus de 3500 mots ! Comment un lecteur est supposé se souvenir de tout ça ?!
 
-Bon point ! Raffraichissons la mémoire du lecteur avec un résumé :
+Bon point ! Rafraichissons la mémoire du lecteur avec un résumé :
 
 ---
 
 # En Bref
 
-* **Do not fear fear itself.**
-* Pain is a protector. 
-* Fear is a guard dog for your needs.
-* **All feelings are imperfect signals about met/unmet needs.**
-* Our fundamental human needs are: physical needs, social needs, "becoming a better person" needs.
-* **Healthy people don't "cope" with emotions, they *collaborate* with them. They use "negative" emotions as clues, constructive criticism to improve their lives.**
-* If your fear guard-dog is too hyperactive, don't shoot the dog! Retrain it by forming habits.
-* **Habit = When X, Then Y.** 
-* To form habits, have a consistent "When" and simple "Then". Track your progress for ~66 days. One habit at a time.
-* Physical health affects mental health & vice versa. Hardware affects software, software affects hardware.
-* **9 Mental Health Habits for your software & hardware:** Meditation, Journaling, Sleep, Exercise, Eat, Talk with friends, Make new friends, Learning, Practicing virtues.
+* **Ne craint pas la peur.**
+* La douleur te protège. 
+* La peur est un chien de garde qui veille sur tes besoins.
+* **Tous les sentiments sont des signaux imparfaits à propos de tes besoins satisfaits/insatisfaits.**
+* Nos besoins fondamentaux en tant qu'humains sont : besoins physiques, besoins sociaux, besoin "d'accomplissement de soi".
+* **Les personnes saines ne "surmontent" pas leurs émotions, elles *collaborent* avec elles. Elles utilisent les émotions "négatives" comme des indices, critiques constructives pour améliorer leur vie.**
+* Si votre chien de garde peureux est trop hyperactif, ne lui criez pas dessus ! Réeduquez le en créant des habitudes.
+* **Habitude = Lorsque X, Faire Y.** 
+* Pour former des habitudes, ayez un consistant "Lorsque" et un simple "Faire". Gardez votre progression durant environ 66 jours. Une habitude à la fois.
+* La santé physique affecte la santé mentale et vice versa. Le matériel affecte le logiciel, le logiciel affecte le matériel.
+* **9 Habitudes de Santé Mentale pour votre logiciel et matériel :** Méditation, Tenir un journal, Dormir, Faire du sport, Manger, Parler avec vos Amis, Se Faire de nouveaux amis, Apprendre, Cultivez des vertus.
 
 ---
 
-# Me & My Wolf
+# Moi et Mon Loup
 
-If this was a movie, I should've learnt to befriend my wolf in a shocking moment of catharsis, with explosions in the background. That would have made a good story.
+Si c'était un film, j'aurais dû apprendre à me lier d'amitié avec mon loup dans un choquant moment de catharsis, avec des explosions en arrière-plan. Ça aurait fait une bonne histoire.
 
-Instead, I only learnt to befriend my wolf *while trying* to make a good story.
+À la place, je n'ai appris à me lier d'amitié avec mon loup *qu'en essayant* de faire une bonne histoire.
 
-When I started writing my game *Adventures With Anxiety*, I planned it to be a bunch of CBT & mindfulness lessons wrapped up in a narrative. Two problems: 1) The story felt inauthentic. 2) I couldn't make the Anxiety character's dialogue come out naturally.
+Lorsque j'ai commencé à écrire mon jeu *Adventures With Anxiety*, j'avais prévu d'en faire un tas de leçons de conscience regroupées dans une narration. Deux problèmes : 1) L'histoire ne semblait pas authentique. 2) Je n'était pas capable de créer le dialogue de l'Anxiété de manière naturelle.
 
-But then I realized an obvious solution for Problem #2: *I* shouldn't write the Anxiety character, my *anxiety* should write the Anxiety character.
+Mais j'ai ensuite réalisé une solution évidente à mon problème #2: *Je* ne devrait pas écrire le personnage de l'Anxiété, mon *anxiété* devrait écrire le personnage de l'anxiété.
 
-Thus began a weird collaboration.
+Alors débuta une collaboration étrange.
 
-Strange side effect: I started *liking* my anxiety. Because now, whenever my anxiety went on a thought-spiral like:
+Effet secondaire étrange : j'ai commencé à *apprécier* mon anxiété. Parce que maintenant, à chaque fois que mon anxiété va dans une spirale de pensée comme :
 
-> 🐺 What can we even do that matters in the grand scheme of things? Contribute to humanity? All great works decay like Ozymandias. Love? Death always does it part. And how much death there is! We'll die, our loved ones will die, the 2nd Law of Thermodynamics means even the *universe* will die! LIFE HAS NO MEANING, DEATH HAS NO MEANING, AND EVEN MEANING HAS NO MEANI–
+> 🐺 Qu'est-ce qu'on peut faire qui compte réellement dans le grand schéma des choses ? Contribuer à l'humanité ? Tout grand travail finit par se décomposer comme Ozymandias. L'amour ? La mort fait toujours sa part. Et combien de morts il y a ! Nous mourrons, nos proches mourront, la 2nd Loi de la Thermodynamique elle-même dit que *l'univers* va mourir ! LA VIE N'A AUCUN SENS, LA MORT N'A AUCUN SENS, ET MÊME LE SENS N'A AUCUN SE–
 
-I would think:
+Je pourrais penser :
 
-1) holy s*** that's terrifying    
-2) this is *incredible* writing material! Thanks, wolf!
+1) oh p****, c'est terrifiant    
+2) c'est une *incroyable* source d'idée pour écrire ! Merci, loup !
 
-This also solved Problem #1: the reason the story felt forced was because I never gave the Anxiety character a real motivation. It was just a Skeletor-like "evil for the sake of being evil" enemy. But when I just *asked* my anxiety what its motivation was, it told me:
+Cela résoud également le problème #1 : la raison pourquoi l'histoire paraissait forcée était parce que je ne donnais jamais au personnage de l'Anxiété une réelle motivation. C'était juste un personnage comme Skeletor, un ennemi "méchant juste pour être méchant". Mais quand j'ai juste *demandé* à mon anxiété quelle était sa motivation, elle m'a dit :
 
-> 🐺 I want you to be safe.
+> 🐺 Je veux que tu sois en sécurité.
 
-And with that core motivation, *Adventures With Anxiety* basically wrote itself. Not only that, I learnt that why CBT & mindfulness plateaued out for me: because I was still thinking of fear as my enemy.
+Et avec cette motivation intérieure, *Adventures With Anxiety* s'est essentiellement écrit tout seul. Pas seulement ça, j'ai appris pourquoi les leçons de conscience me limitaient : car je pensais toujours que la peur était une ennemie.
 
-Until you realize fear is (trying to be) your guard-dog, you will still fear fear itself.
+Jusqu'à ce que tu réalises que la peur est (tente d'être) ton chien de garde, tu craindras toujours la peur elle-même.
 
-And the more my battered shelter dog and I collaborated on the game, the more we collaborated in the rest of our life. I'd hear it bark "they hate us!", I'd see the Pain signal below the mere words, and we'd try an experiment to fulfill the unmet need. Together. As a team.
+Et plus mon chien de refuge battu et moi collaborions sur le jeu, plus nous collaborions pour le reste de la vie. Je l'entendais aboyer "ils nous détestent!", je verrais le signal de douleur sous ces simples mots, et nous essaierions de combler les besoins encore incomblés. Ensemble. En tant qu'équipe.
 
-Alright, I think I'll let my friend have the final say. Wolf?
+D'accord, je pense que je vais laisser mon ami avoir la dernière parole. Loup ?
 
-> 🐺 Okay this article is *still* too long. It's 4000+ words! Or maybe it's not long *enough*, you didn't even cover other therapies like psychodynamic or humanist or logotherapy, let alone the Dodo Bird controversy: [recent meta-analyses show that all the main psychotherapies are *equivalent*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), with CBT maybe *sliiiiightly* better in the short-run! Speaking of which, what about the infamous meta-analysis that shows [psychiatric medication may be up to 75% placebo](https://psycnet.apa.org/record/1999-11094-001)? Heck, what with [the replication crisis](https://en.wikipedia.org/wiki/Replication_crisis), how do we know *anything* in this 4000+ word monster is scientifically accurate?! Also we're writing this on the 15th, and you promised the game to come out on the 17th, so please shut up and stop writing.
+> 🐺 Ok, cet article est *toujours* trop long. Il fait plus de 4000 mots ! Ou peut-être qu'il n'est pas *assez* long, tu n'as même pas couvert les autres thérapies comme la psychodynamique ou l'humanisme ou la logothérapie, sans parler de la controverse de l'oiseau Dodo : [des méta-analyses récentes montrent que toutes les principales psychothérapies sont *équivalentes (en anglais)*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), avec CBT peut-être *unnnnnnnn peuuuuuu* meilleur sur le court-terme ! En parlant de ça, qu'en est-il de cette infâme méta-analyse qui montre [que la médication psychiatrique pourrait être constituée à 75% de placebos (en anglais)](https://psycnet.apa.org/record/1999-11094-001)? Diable, et la [crise  de la réplication (en anglais)](https://en.wikipedia.org/wiki/Replication_crisis), comment retenir *n'importe quoi* de ces 4000 mots monstres en tant que vérité scientifiquement prouvée ?! Aussi, on écrit ça le 15, et tu as promis que le jeu sortirais le 17, alors s'il te plait, tais-toi et arrête d'écrire.
 
-Fair enough! It's good in science to be skeptical, though I'd like to say: even if all therapies have been proven equivalent, they've been proven equivalently *good*, and much better than lack of therapy (self-help or professional). And even if meds are only 25% better than placebo, being 25% better at saving lives is still a *lot*. Also, science is a process of learning from mistakes, and gratefully, scientists *are* learning from the replication crisis.
+Très bien ! Il est bon pour la science d'être sceptique, bien que j'aime dire : même si toutes les thérapies étaient prouvées comme équivalentes, elles seraient prouvées comme étant *efficaces* de manière équivalente, et mieux encore que l'absence de thérapie (personnelle ou professionnelle. Et même si les médicaments ne sont que 25% fois meilleurs que les placebos, cela reste 25% fois meilleur pour sauver des vies, ce qui est *beaucoup*. Aussi, la science est un processus d'apprentissage des erreurs commises, et heureusement, les scientifiques *sont en train* d'apprendre de la crise de la réplication.
 
-Still, thanks for the constructive criticism, and protecting my need for intellectual honesty!
+Cependant, merci pour cette critique constructive, et pour avoir protégé mon besoin d'honnêteté intellectuelle !
 
-> 🐺 You're welcome. And, hey, thanks for finally being patient and understanding with me... instead of drowning me out with risky behaviors and "Well, Actually"s.
+> 🐺 Je t'en prie. Et, euh, merci pour avoir été finallement patiente et compréhensive avec moi... à la place de me noyer avec des habitudes à risques et des "Et bien, en réalité".
 
-Of course! Any final words?
+Bien sûr ! Un dernier mot ?
 
-> 🐺 Yes. Just one.
+> 🐺 Oui. Just un.
 
-Yeah?
+Oui ?
 
 > 🐺 AAAAAHHHHH
 
 ---
 
-# Extra Resources:
+# Ressources supplémentaires :
 
-More mental health tips from: [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
+Plus de conseils pour une meilleure santé mentale de la : [Fondation de Santé Mentale (en anglais)](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) et du [Service National de la Santé](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
 
-[Feeling Good](https://www.indiebound.org/book/9780380810338), the classic 1980 book that popularized CBT.    
-[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), a 1946 book written by a Holocaust survivor & psychotherapist.    
-[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), a 2-minute animation.    
+[Feeling Good](https://www.indiebound.org/book/9780380810338), un livre classique des années 80 qui a popularisé le CBT.    
+[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), un livre de 1946 écrit par un survivant de la Shoah et psychothérapiste.    
+[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), une courte animation de 2 minutes.    
 
 ・・・
 
-This essay is the "companion piece" for my interactive story/game, [Adventures With Anxiety](https://ncase.me/anxiety). If you'd like to help me make more free, educational words+games, you can throw coins at me [on Patreon](https://www.patreon.com/ncase)!
+Cet essai est un document complémentaire de mon jeu/histoire interactif/interactive, [Adventures With Anxiety](https://ncase.me/anxiety). Si vous aimeriez m'aider à continuer de faire plus de jeux et d'articles gratuis, vous pouvez me lancer des pièces [sur Patreon](https://www.patreon.com/ncase)!
 
-Huge thanks to these folks for gifting feedback on this essay: Glen Chiacchieri, Lexi Lockwell, Spacie. Any problematic words remaining are my own.
+Merci beaucoup à ces personnes pour avoir donné leur avis sur cet essai : Glen Chiacchieri, Lexi Lockwell, Spacie. Chaque mot problématique reste le mien own.
 
-Finally, thank *you* for reading! Whoever you are: Stay determined. Good luck.
+Finallement, merci à *vous* pour avoir lu ! Qui que vous soyez : restez déterminez. Bonne chance.
 
 <3,    
 ~ Nicky Case
