@@ -77,7 +77,7 @@ Si c'était un film, ça aurait dû être le moment où je réalise l'importance
 
 Sauf que non. Je n'ai rien appris. 
 
-Ça m'a, en revanche, inspiré à *enfin* essayer la psychothérapie. J'ai d'abord essayé la [thérapie cognitivo-comportementale) (TCC ou CBT), que des [métaanalyses ont montré (en anglais)](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) être aussi bonne, voir meilleure que des médicaments contre la dépression et l'anxiété. La thérapie recommande de "défier vos pensées" en pointant toutes les "distortions cognitives" irrationnelles dans vos peurs. (🤓 “Bah, *en fait*...”)
+Ça m'a, en revanche, inspiré à *enfin* essayer la psychothérapie. J'ai d'abord essayé la [thérapie cognitivo-comportementale](https://fr.wikipedia.org/wiki/Th%C3%A9rapie_cognitivo-comportementale) (TCC ou CBT), que des [métaanalyses ont montré (en anglais)](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) être aussi bonne, voir meilleure que des médicaments contre la dépression et l'anxiété. La thérapie recommande de "défier vos pensées" en pointant toutes les "distortions cognitives" irrationnelles dans vos peurs. (🤓 “Bah, *en fait*...”)
 
 Cette thérapie m'a beaucoup aidée, mais j'ai rapidement heurté un mur. Mon problème c'est que j'utilisais cette thérapie comme une *arme* contre ma peur. Et je l'ai toujours considérée comme mon *ennemie*.
 
