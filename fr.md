@@ -77,7 +77,7 @@ Si c'était un film, ça aurait dû être le moment où je réalise l'importance
 
 Sauf que non. Je n'ai rien appris. 
 
-Ça m'a, en revanche, inspiré à *enfin* essayer la psychothérapie. J'ai d'abord essayé la [thérapie cognitivo-comportementale](https://fr.wikipedia.org/wiki/Th%C3%A9rapie_cognitivo-comportementale) (TCC ou CBT), que des [métaanalyses ont montré (en anglais)](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) être aussi bonne, voir meilleure que des médicaments contre la dépression et l'anxiété. La thérapie recommande de "défier vos pensées" en pointant toutes les "distortions cognitives" irrationnelles dans vos peurs. (🤓 “Bah, *en fait*...”)
+Ça m'a, en revanche, inspiré à *enfin* essayer la psychothérapie. J'ai d'abord essayé la [thérapie cognitivo-comportementale](https://fr.wikipedia.org/wiki/Th%C3%A9rapie_cognitivo-comportementale) (TCC ou CBT), que des [méta-analyses ont montré (en anglais)](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) être aussi bonne, voir meilleure que des médicaments contre la dépression et l'anxiété. La thérapie recommande de "défier vos pensées" en pointant toutes les "distortions cognitives" irrationnelles dans vos peurs. (🤓 “Bah, *en fait*...”)
 
 Cette thérapie m'a beaucoup aidée, mais j'ai rapidement heurté un mur. Mon problème c'est que j'utilisais cette thérapie comme une *arme* contre ma peur. Et je l'ai toujours considérée comme mon *ennemie*.
 
@@ -140,11 +140,11 @@ Il s'agit de la [vision fonctionnaliste des émotions (en anglais)](https://en.w
 
 Imaginez un café. Lorsqu'un client rentre, une clochette au-dessus de l'entrée sonne avec un *ding* comme signal.
 
-De même, lorsque un besoin du corps ou de l'esprit est satisfait – ou est sur le point de l'être – on ressent un signal de bien-être : joie, excitation, curiosité, le moment où l'on fait "Aha !", fierté.
+De même, lorsqu'un besoin du corps ou de l'esprit est satisfait – ou est sur le point de l'être – on ressent un signal de bien-être : joie, excitation, curiosité, le moment où l'on fait "Aha !", fierté.
 
 Imaginez le détecteur de fumée d'un café. Lorsque quelque chose se met à brûler dans la cuisine, il retentit avec un *BIP BIP BIP* comme signal.
 
-De même, lorsque un besoin du corps ou de l'esprit n'est *pas* satisfait – ou est menacé – on ressent un signal de mal-être : peur, solitude, frustration, culpabilité, chagrin.
+De même, lorsqu'un besoin du corps ou de l'esprit n'est *pas* satisfait – ou est menacé – on ressent un signal de mal-être : peur, solitude, frustration, culpabilité, chagrin.
 
 Mais attend, n'est-ce pas la même chose que de dire que "tes sentiments sont toujours valables" ? Non, car *tous les signaux peuvent avoir des fausses alertes*. Ainsi, les sentiments négatifs ne sont pas *toujours* valables, mais ile ne sont pas *toujours* irrationnels non plus. Ce sont des indices – à ne pas prendre au pied de la lettre, mais à ne pas complétement rejeter non plus. (Vous êtes hypersensibles ? Nous allons voir comment "recalibrer" vos signaux avec certaines habitudes, dans la prochaine section)
 
@@ -152,34 +152,34 @@ Toute ma vie, j'ai cru que les personnes ayant une bonne santé mentale étaient
 
 Lorsque le détecteur de fumée se déclenche :
 
-* Une personne saine d'esprit sait éteindre la cuisinière, ouvrir la fenêtre, and mettre du bicarbonate de soude sur le feu de graisse. Si l'alarme est trop forte, elle la placera quelque part plus loin.
+* Une personne saine d'esprit sait éteindre la cuisinière, ouvrir la fenêtre, et mettre du bicarbonate de soude sur le feu de graisse. Si l'alarme est trop forte, elle la placera quelque part plus loin.
 * Une personne anxieuse jettera de l'eau sur le feu de graisse et l'empirera. Ou se bouchera les oreilles pour ne plus entendre l'alarme. Ou frappera l'alarme avec un marteau. Ou tentera de débattre de manière rationnelle avec l'alarme à propos de son disfonctionnement. Ou décidera de manière "consciente" de l'ignorer.
 
 Une fois que j'ai compris que sentiments = alarmes et signaux, j'ai réalisé que beaucoup de ce que je pensais être des distortions étaient en fait des fonctionnalités ! Les émotions "négatives" s'activent d'elles-mêmes et ne se désactivent pas juste parce que vous le voulez – *c'est une bonne fonctionnalité pour un détecteur de fumée automatique.* Les émotions "positives" ne durent jamais, elles se réajustent d'elles-mêmes jusqu'à ce que vous reveniez à votre vous normal – *c'est une bonne fonctionnalité pour des thermostats intelligents.*
 
-Une vie heureuse ne consiste pas à minimiser la douleur est maximiser le plaisir. Ce serait comme un café qui aurait pour but de minimiser les sons d'alarmes et de maximiser les sons de clochettes. Les sentiments ne sont *PAS* une fin en soi, ils sont le *moyen* d'arriver à l'objectif ultime : avoir une vie épanouie.
+Une vie heureuse ne consiste pas à minimiser la douleur et à maximiser le plaisir. Ce serait comme un café qui aurait pour but de minimiser les sons d'alarmes et de maximiser les sons de clochettes. Les sentiments ne sont *PAS* une fin en soi, ils sont le *moyen* d'arriver à l'objectif ultime : avoir une vie épanouie.
 
-Voici donc pourquoi je dis que "la peur n'est pas une ennemie, c'est une amie." Mais quel type d'ami est le peur ? Le genre à être "Le Meilleur Ami de l'Homme [sic]". En bref :
+Voici donc pourquoi je dis que "la peur n'est pas une ennemie, c'est une amie." Mais quel type d'ami est la peur ? Le genre à être "Le Meilleur Ami de l'Homme". En bref :
 
 **🐺 LA PEUR EST UN CHIEN DE GARDE QUI VEILLE SUR VOS BESOINS. 🐺**
 
 Lorsqu'il aboit “personne ne nous aime !” il essaie de dire (bien que mal) de protéger votre besoin d'appartenance. Lorsqu'il aboit “on est une mauvaise personne !” il essaie de dire (très pauvrement) de protéger votre besoin d'accomplissement de soi.
 
-(L'idée d'un sous-agent dans votre têtre n'est pas aussi fou que ça en a l'air – cette idée est revenu de façon indépendante dans plusieurs domaines : ["Système 1 / Système 2"](https://fr.wikipedia.org/wiki/Syst%C3%A8me_1_/_Syst%C3%A8me_2_:_Les_deux_vitesses_de_la_pens%C3%A9e) en comportements économiques, ["The Elephant & The Rider (en anglais)"](https://en.wikipedia.org/wiki/The_Righteous_Mind) en psychologie sociale, ["La Société de l'Esprit"](https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_de_l%27esprit) en sciences cognitives, etc.)
+(L'idée d'un sous-agent dans votre tête n'est pas aussi fou que ça en a l'air – cette idée est revenue de façon indépendante dans plusieurs domaines : ["Système 1 / Système 2"](https://fr.wikipedia.org/wiki/Syst%C3%A8me_1_/_Syst%C3%A8me_2_:_Les_deux_vitesses_de_la_pens%C3%A9e) en comportements économiques, ["The Elephant & The Rider (en anglais)"](https://en.wikipedia.org/wiki/The_Righteous_Mind) en psychologie sociale, ["La Société de l'Esprit"](https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_de_l%27esprit) en sciences cognitives, etc.)
 
-Cependant, peut-être que vous avez un chien hyperactif qui aboit sur des ombres. Ce n'est pas la faute du chien. Peut-être que dans le passé, il a été abusé ou négligé. Mais ce chien veut véritablement vous aider ! C'est sa littéralement sa fonction première !
+Cependant, peut-être que vous avez un chien hyperactif qui aboit sur des ombres. Ce n'est pas la faute du chien. Peut-être que dans le passé, il a été abusé ou négligé. Mais ce chien veut véritablement vous aider ! C'est littéralement sa fonction première !
 
 Il aboit car c'est un chien de refuge battu, et il a besoin de votre aide pour guérir.
 
 Malheureusement, la première réaction de beaucoup de gens à un chien bruyant – y compris moi – était de s'en prendre à lui. Mais vous ne pouvez retirer la méchanceté d'un chien, ni enlever la peur d'un chien. (Note : [c'est également vrai pour des entrainements de chien [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
 
-Alors... comment *faire* pour entrainer votre chien ?
+Alors... comment *faire* pour entraîner votre chien ?
 
 ---
 
 # Habitudes 101
 
-Pour entrainer un chien, premièrement : ne battez pas le chien. N'effrayez pas la peur elle-même.
+Pour entraîner un chien, premièrement : ne battez pas le chien. N'effrayez pas la peur elle-même.
 
 Alors, que faire, êtes-vous censés acheter un ce ces clickers et entraîner votre propre esprit avec le conditionnement opérant ?
 
@@ -207,7 +207,7 @@ Voici un rapide résumé sur la science de la création d'habitudes, [paraphras�
 6. **N'essayez PAS de contruire plus d'une habitude à la fois.**    
 
 7. **Cela prend 66 jours (environ) pour qu'une habitude devienne automatique.**    
-   Soyez patient ! Entrainer son esprit prend du temps, mais ça en vaut la peine.
+   Soyez patient ! Entraîner son esprit prend du temps, mais ça en vaut la peine.
 
 Attendez, mon chien de garde veut dire quelque chose :
 
@@ -225,7 +225,7 @@ Cette liste est là pour vous aider à améliorer votre santé mentale *dès auj
 
 ### 😌 Méditation :
 
-Oui, à ce stade ça fait un peu cliché, mais la méditation s'est montré dans des métas analyses comme [améliorant la capacité à combattre l'anxiété et la dépression (en anglais)](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754).
+Oui, à ce stade ça fait un peu cliché, mais la méditation s'est montré dans des méta-analyses comme [améliorant la capacité à combattre l'anxiété et la dépression (en anglais)](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754).
 
 Cependant, il y a un cliché à propos de la méditation qui mérite qu'on s'y attarde : le but n'est *PAS* "videz votre esprit". Erreur de débutant ! Le but est d'*observer* votre esprit, comme un scientifique: sans jugement. Lorsque votre loup se met à aboyer – et il aboiera – ne craignez pas la peur. Juste écoutez. Observez.
 
@@ -245,7 +245,7 @@ Pas sûr de comment tenir un journal pour comprendre vos émotions ? Voici un si
 
 Exemple: *"Aujourd'hui lorsque mes amis ont bavardé sans moi, j'ai senti un manque de confiance en moi car ça a challengé mon besoin d'appartenance. La prochaine fois, j'essaierai de combler mon besoin d'appartenance, soit en parlant un peu plus, soit en m'entrainant à être confortable à l'idée d'écouter attentivement mes amis, de façon active et pleinement, sans besoin de prouver mon existence."*
 
-(Même si j'ai le "challenge tes pensées" plus tôt, *c'est* là où le CBT brille. Connaître les [distortions cognitives communes](https://fr.wikipedia.org/wiki/Distorsion_cognitive) et comment les recadrer vous aide *vraiment* à donner du sens aux signaux de mal-être. Juste ne l'approche pas comme si c'était un club de débat, où le but du jeu est de "gagner" , Actually-ing your fear. Le but devrait être d'aider votre peur à *être un meilleur support*. J'espère que ça vous aidera.)
+(Même si j'ai le "challenge tes pensées" plus tôt, *c'est* là où le CBT brille. Connaître les [distortions cognitives communes](https://fr.wikipedia.org/wiki/Distorsion_cognitive) et comment les recadrer vous aide *vraiment* à donner du sens aux signaux de mal-être. Juste ne l'approche pas comme si c'était un club de débat, où le but du jeu est de "gagner". Le but devrait être d'aider votre peur à *être un meilleur support*. J'espère que ça vous aidera.)
 
 **Exemple de plan Lorsque→Faire:** *“Avant d'aller me coucher, je vais écrire/dessiner à propos de mes sentiments pendant 10 minutes.”*
 
@@ -263,7 +263,7 @@ Voici comment je me sens vis-à-vis des articles qui ont l'air surpris que la sa
 
 Pour que la sélection naturelle décide de vous rendre inconscient un tier de votre vie, il vaut *mieux* qu'il y ait un grand bénéfice pour que le ration coût/bénéfice soit favorable.
 
-And it does. Comme l'explique le directeur du UC Berkeley’s Center pour les sciences du sommeil chez l'humain [dans son livre (en anglais)](https://www.indiebound.org/book/9781501144318), une bonne nuit réduit votre risque de maladie cardio-vasculaire, de cancer, d'Alzheimer, de dépression, d'anxiété, et bien plus. Tout comme l'a dit un auteur célébre de best-sellers pour enfants, “[Va dormir, bordel ! (en anglais)](https://www.indiebound.org/book/9781617750250).”
+Et c'est le cas. Comme l'explique le directeur du UC Berkeley’s Center pour les sciences du sommeil chez l'humain [dans son livre (en anglais)](https://www.indiebound.org/book/9781501144318), une bonne nuit réduit votre risque de maladie cardio-vasculaire, de cancer, d'Alzheimer, de dépression, d'anxiété, et bien plus. Tout comme l'a dit un auteur célébre de best-sellers pour enfants, “[Va dormir, bordel ! (en anglais)](https://www.indiebound.org/book/9781617750250).”
 
 **Exemple de plan Lorsque→Faire :** *“Lorsqu'il est 22h, je vais éteindre tous mes écrans, et les mettre à charger, dehors de la chambre, dans une poubelle, où ils devraient être.”*
 
@@ -337,11 +337,11 @@ Recommandé: La répétition espacée ("flashcards sous stéroïdes") pour vous 
 
 Benjamin Franklin était le premier lifehacker. Entre ses expériences avec la lumière et son combat pour abolir l'esclavage, il s'efforçait également d'améliorer son caractère moral avec l'aide... de cartes index. [Comme décrit dans son autobiographie (en anglais)](https://www.thesimpledollar.com/ben-franklins-thirteen-virtues-using-one-week-to-change-your-life/): il portait une carte avec 7 colonnes – une pour chaque jour de la semaine – et 13 lignes – une pour chaque Vertu il voulait améliorer. A la fin de chaque jour, il mettait un point pour chaque Vertu qu'il avait pratiquée ce jour. Il échouait beaucoup. Mais sur la durée, il a eu le timbre de sa nature humaine un peu moins tordu.
 
-Je pense que l'on peut tous le faire également. Vous n'avez pas à utiliser l'exacte même méthode de Franklin. En fait, je recommande être un peu plus spécifique que "travailler son humilité", et avoir un plan spécifique Lorsque→Faire, comme :
+Je pense que l'on peut tous le faire également. Vous n'avez pas à utiliser l'exacte même méthode de Franklin. En fait, je recommande d'être un peu plus spécifique que "travailler son humilité", et avoir un plan spécifique Lorsque→Faire, comme :
 
 **Exemple de plan Lorsque→Faire :** *“Lorsque je suis sur le point de poster un message sur Internet en étant en colère, je vais attendre une heure avant d'appuyer sur Envoyer.”*
 
-“Soyez le changement que vous voulez voir dans le monde" etc etc.
+“Soyez le changement que vous voulez voir dans le monde" etc. etc.
 
 ・・・
 
@@ -397,7 +397,7 @@ Je pourrais penser :
 1) oh p****, c'est terrifiant    
 2) c'est une *incroyable* source d'idée pour écrire ! Merci, loup !
 
-Cela résoud également le problème #1 : la raison pourquoi l'histoire paraissait forcée était parce que je ne donnais jamais au personnage de l'Anxiété une réelle motivation. C'était juste un personnage comme Skeletor, un ennemi "méchant juste pour être méchant". Mais quand j'ai juste *demandé* à mon anxiété quelle était sa motivation, elle m'a dit :
+Cela résout également le problème #1 : la raison pourquoi l'histoire paraissait forcée était parce que je ne donnais jamais au personnage de l'Anxiété une réelle motivation. C'était juste un personnage comme Skeletor, un ennemi "méchant juste pour être méchant". Mais quand j'ai juste *demandé* à mon anxiété quelle était sa motivation, elle m'a dit :
 
 > 🐺 Je veux que tu sois en sécurité.
 
@@ -419,7 +419,7 @@ Cependant, merci pour cette critique constructive, et pour avoir protégé mon b
 
 Bien sûr ! Un dernier mot ?
 
-> 🐺 Oui. Just un.
+> 🐺 Oui. Juste un.
 
 Oui ?
 
@@ -439,9 +439,9 @@ Plus de conseils pour une meilleure santé mentale de la : [Fondation de Santé 
 
 Cet essai est un document complémentaire de mon jeu/histoire interactif/interactive, [Adventures With Anxiety](https://ncase.me/anxiety). Si vous aimeriez m'aider à continuer de faire plus de jeux et d'articles gratuis, vous pouvez me lancer des pièces [sur Patreon](https://www.patreon.com/ncase)!
 
-Merci beaucoup à ces personnes pour avoir donné leur avis sur cet essai : Glen Chiacchieri, Lexi Lockwell, Spacie. Chaque mot problématique reste le mien own.
+Merci beaucoup à ces personnes pour avoir donné leur avis sur cet essai : Glen Chiacchieri, Lexi Lockwell, Spacie. Chaque mot problématique reste le mien.
 
-Finallement, merci à *vous* pour avoir lu ! Qui que vous soyez : restez déterminez. Bonne chance.
+Finalement, merci à *vous* pour avoir lu ! Qui que vous soyez : restez déterminez. Bonne chance.
 
 <3,    
 ~ Nicky Case
